@@ -1,0 +1,1060 @@
+country,rank,name,id,releaseDate,Primary_Genre,Other_Genre,Artist
+us,1,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News
+us,2,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck
+us,3,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times
+us,4,Dateline NBC,1464919521,2020-10-28,True Crime,"News,",NBC News
+us,5,The Ben Shapiro Show,1047335260,2020-10-27,News,,The Daily Wire
+us,6,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2020-12-14,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation
+us,7,Unsolved Mysteries,1549903604,2021-02-17,True Crime,"Society & Culture,Documentary,","Cosgrove Meurer Productions, Inc. + Cadence13"
+us,8,Up First,1222114325,2020-10-28,Daily News,"News,",NPR
+us,9,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio
+us,10,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery
+us,11,Human Hope with Carlos Whittaker,1249486443,2021-03-04,Personal Journals,"Society & Culture,",That Sounds Fun Network
+us,12,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio
+us,13,The Dave Ramsey Show,77001367,2020-10-27,Investing,"Business,Education,Self-Improvement,",Ramsey Network
+us,14,La Brega,1553089886,2021-02-24,Society & Culture,,WNYC Studios and Futuro Studios
+us,15,Office Ladies,1480311435,2020-10-28,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey
+us,16,The Office Deep Dive with Brian Baumgartner,1550331348,2021-02-09,TV & Film,"Society & Culture,Comedy,",iHeartRadio
+us,17,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News
+us,18,The Ezra Klein Show,1548604447,2021-01-13,Society & Culture,"News,",New York Times Opinion
+us,19,Anatomy of Murder,1532894981,2020-10-28,True Crime,,audiochuck
+us,20,The Dan Le Batard Show with Stugotz,934820588,2021-02-16,Sports,,"Dan Le Batard, Stugotz"
+us,21,The Dan Bongino Show,965293227,2020-10-28,News Commentary,"News,",Westwood One Podcast Network / Dan Bongino
+us,22,Serial,917918570,2020-08-20,News,"True Crime,",This American Life
+us,23,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life
+us,24,Embedded,1091709555,2021-02-25,News Commentary,"News,Society & Culture,Documentary,",NPR
+us,25,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network
+us,26,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain
+us,27,This is Paris,1552058389,2021-02-22,Society & Culture,,iHeartRadio & Paris Hilton
+us,28,Fresh Air,214089682,2020-10-27,Books,"Arts,TV & Film,",NPR
+us,29,The Opportunist,1551162705,2021-02-16,True Crime,,Kast Media
+us,30,Red Collar,1541330058,2020-12-01,True Crime,,audiochuck
+us,31,Consider This from NPR,1503226625,2020-10-27,Daily News,"News,News Commentary,",NPR
+us,32,On Purpose with Jay Shetty,1450994021,2020-11-02,Health & Fitness,"Business,",Jay Shetty and Kast Media
+us,33,Supernatural with Ashley Flowers,1500667648,2020-11-04,Society & Culture,"True Crime,",Parcast Network
+us,34,Sal and Chris Present: Hey Babe!,1542475843,2021-01-21,Comedy Interviews,"Comedy,",No Presh Network
+us,35,Planet Money,290783428,2020-10-23,Business,"News,",NPR
+us,36,Serial Killers,1205030005,2020-11-02,True Crime,"History,",Parcast Network
+us,37,The Rachel Maddow Show,294055449,2020-11-03,Daily News,"News,","Rachel Maddow, MSNBC"
+us,38,Tom Talks,1543456877,2021-03-04,Comedy,"TV & Film,",YMH Studios
+us,39,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries
+us,40,The NPR Politics Podcast,1057255460,2020-10-27,Politics,"News,Daily News,",NPR
+us,41,I AM Athlete Podcast,1537836233,2021-02-19,Sports,,"Brandon Marshall, Chad Johnson, Fred Taylor, Channing Crowder"
+us,42,Unsolved Murders: True Crime Stories,1122804248,2020-10-27,True Crime,"Society & Culture,",Parcast Network
+us,43,Sway,1528594034,2020-10-26,Society & Culture,,New York Times Opinion
+us,44,Double Date with Marlo Thomas & Phil Donahue,1547645093,2021-03-03,Relationships,"Society & Culture,",Pushkin Industries
+us,45,Louder with Crowder,929121341,2020-10-26,News,,Blaze Podcast Network
+us,46,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-10-28,Comedy,"News,Daily News,",iHeartRadio & Comedy Central
+us,47,2 Bears 1 Cave with Tom Segura & Bert Kreischer,1468013270,2020-10-26,Comedy,,YMH Studios
+us,48,The Breakfast Club,1232428553,2020-11-03,Comedy,,iHeartRadio
+us,49,The Charlie Kirk Show,1460600818,2020-10-28,News,"Society & Culture,",PodcastOne
+us,50,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig"
+us,51,Nurture vs Nurture with Dr. Wendy Mogel,1549814799,2021-02-16,Kids & Family,"Society & Culture,",Armchair Umbrella
+us,52,Adam Carolla Show,306390087,2020-10-28,Comedy,,PodcastOne / Carolla Digital
+us,53,The Thing About Pam,1479234915,2019-09-27,True Crime,"News,",NBC News
+us,54,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher
+us,55,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR
+us,56,True Crime Obsessed,1232009882,2020-11-03,True Crime,"Society & Culture,",Obsessed Network
+us,57,The Moth,275699983,2020-11-03,Performing Arts,"Arts,",The Moth
+us,58,BiggerPockets Real Estate Podcast,594419649,2020-10-25,Investing,"Business,Education,",BiggerPockets
+us,59,The Jordan B. Peterson Podcast,1184022695,2020-11-01,Education,"Science,",Dr. Jordan B. Peterson
+us,60,The Way I Heard It with Mike Rowe,1087110764,2020-10-27,Society & Culture,"History,",Mike Rowe
+us,61,The Simplified Podcast with Emily Ley,1553793022,2021-03-04,Personal Journals,"Society & Culture,Relationships,",Four Eyes Media
+us,62,The Michael Knowles Show,1266577963,2020-11-04,News Commentary,"News,",The Daily Wire
+us,63,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries
+us,64,Empty Inside,1524250628,2021-02-24,Self-Improvement,"Education,Society & Culture,",Jennette McCurdy
+us,65,The Glenn Beck Program,620967489,2020-10-27,News Commentary,"News,Politics,",Blaze Podcast Network
+us,66,Get Sleepy: Sleep meditation and stories,1487513861,2020-10-28,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy
+us,67,The Matt Walsh Show,1367210511,2021-01-06,News Commentary,"News,",The Daily Wire
+us,68,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify
+us,69,Mark Levin Podcast,209377688,2020-11-04,News Commentary,"News,",Westwood One Podcast Network
+us,70,Huberman Lab,1545953110,2021-02-22,Health & Fitness,"Science,",Dr. Andrew Huberman
+us,71,The Candace Owens Show,1454587745,2020-10-18,Education,,PragerU
+us,72,TED Radio Hour,523121474,2020-10-23,Technology,"Science,Social Sciences,",NPR
+us,73,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED
+us,74,Motherhood Meets Medicine,1553782780,2021-03-03,Kids & Family,"Health & Fitness,Medicine,",Lynzy Coughlin
+us,75,Earn Your Leisure,1450211392,2021-01-29,Business,,The Black Effect and iHeartRadio
+us,76,I Spy,1482310665,2021-02-23,Society & Culture,"History,",Foreign Policy
+us,77,American Scandal,1435516849,2020-10-27,History,"Society & Culture,Documentary,",Wondery
+us,78,The Bible Recap,1440833267,2020-12-22,Christianity,"Religion & Spirituality,",D-Group
+us,79,The Pat McAfee Show 2.0,1435183458,2020-10-29,Sports,,Pat McAfee
+us,80,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah
+us,81,Bridgerton: The Official Podcast,1551820452,2021-02-25,TV & Film,"Society & Culture,",Shondaland Audio & iHeartRadio
+us,82,Radiolab,152249110,2020-10-23,Documentary,"Society & Culture,Science,Nature,",WNYC Studios
+us,83,NPR News Now,121493675,2020-11-04,Daily News,"News,",NPR
+us,84,UnF*ck Your Brain,1229434818,2021-02-04,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil
+us,85,Ten Percent Happier with Dan Harris,1087147821,2020-10-28,Mental Health,"Health & Fitness,",ABC News
+us,86,The Jeff Dunham Podcast,1555769971,2021-02-25,Comedy,"Leisure,",Jeff Dunham
+us,87,Stuff You Missed in History Class,283605519,2020-11-02,History,"Society & Culture,",iHeartRadio
+us,88,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo
+us,89,WorkLife with Adam Grant,1346314086,2021-02-23,Management,"Business,",TED
+us,90,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman
+us,91,Sword and Scale,790487079,2020-10-26,True Crime,"Society & Culture,Documentary,",Incongruity
+us,92,Coffee Convos Podcast with Kail Lowry & Lindsie Chrisley,1305546061,2021-02-25,Society & Culture,"Kids & Family,Parenting,",Kail Lowry & Lindsie Chrisley
+us,93,Wow in the World,1233834541,2021-01-18,Stories for Kids,"Kids & Family,Education for Kids,",NPR
+us,94,Short Wave,1482575855,2021-01-26,Life Sciences,"Science,Astronomy,",NPR
+us,95,The Mindset Mentor,1033048640,2021-01-08,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media
+us,96,The Experiment,1549704404,2021-01-25,Documentary,"Society & Culture,History,",The Atlantic and WNYC Studios
+us,97,"The Doctor's Farmacy with Mark Hyman, M.D.",1382804627,2020-12-04,Medicine,"Health & Fitness,Nutrition,",Dr. Mark Hyman
+us,98,Cold,1441595858,2021-03-03,True Crime,"Society & Culture,Documentary,",KSL Podcasts | Wondery
+us,99,Even the Rich,1500477470,2020-10-27,Society & Culture,,Wondery
+us,100,Throughline,1451109634,2020-10-22,History,,NPR
+us,101,20/20,987967575,2020-11-22,News,,ABC News
+us,102,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin
+us,103,Cults,1286818575,2021-03-02,True Crime,"History,",Parcast Network
+us,104,The Journal.,1469394914,2021-01-07,Daily News,"News,",The Wall Street Journal & Gimlet
+us,105,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars
+us,106,Tim Pool Daily Show,1362265400,2021-03-02,Politics,"News,",Tim Pool
+us,107,Nice White Parents,1524080195,2020-08-20,Society & Culture,"Education,",Serial & The New York Times
+us,108,The Indicator from Planet Money,1320118593,2021-01-19,Business,,NPR
+us,109,Bannon's War Room,1485351658,2020-10-27,Politics,"News,",WarRoom.org
+us,110,Global News Podcast,135067274,2020-11-04,News,,BBC World Service
+us,111,Pivot,1073226719,2021-02-16,News Commentary,"News,Tech News,",New York Magazine
+us,112,Lore,978052928,2020-10-26,History,"Society & Culture,",Aaron Mahnke and Grim & Mild
+us,113,Allen v. Farrow Podcast,1554108046,2021-02-24,TV & Film,"Society & Culture,Documentary,",HBO
+us,114,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia
+us,115,Joel Osteen Podcast,137254859,2020-10-28,Christianity,"Religion & Spirituality,",Joel Osteen
+us,116,Wait Wait... Don't Tell Me!,121493804,2020-10-24,Comedy,"Leisure,",NPR
+us,117,WHOA That's Good Podcast,1433974017,2020-10-28,Christianity,"Religion & Spirituality,Business,",Sadie Robertson
+us,118,Revolutions,703889772,2020-12-25,History,"Education,",Mike Duncan
+us,119,The Herd with Colin Cowherd,1042368254,2021-02-17,Football,"Sports,Basketball,",iHeartRadio
+us,120,Made For This with Jennie Allen,1466667116,2021-03-02,Christianity,"Religion & Spirituality,",Jennie Allen
+us,121,Unashamed with Phil & Jase Robertson,1460147025,2020-10-26,Religion & Spirituality,,Unashamed with Phil & Jase Robertson
+us,122,The School of Greatness,596047499,2021-02-17,Alternative Health,"Health & Fitness,Education,",Lewis Howes
+us,123,The Investing for Beginners Podcast - Your Path to Financial Freedom,1210741497,2021-01-07,Investing,"Business,",Andrew Sather and Dave Ahern
+us,124,Do No Harm,1537865727,2021-02-16,True Crime,"News,",Wondery | NBC News
+us,125,WTOP’s American Nightmare Series,1461511691,2021-03-01,True Crime,,WTOP | Hubbard Radio
+us,126,Stuff They Don't Want You To Know,732915228,2021-02-12,Society & Culture,,iHeartRadio
+us,127,The Food That Built America,1551644089,2021-02-04,History,"Society & Culture,Documentary,",The HISTORY Channel & OZY
+us,128,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries
+us,129,Marketplace,201853034,2021-03-03,Business News,"News,",Marketplace
+us,130,Nothing much happens; bedtime stories to help you sleep,1378040733,2021-02-22,Alternative Health,"Health & Fitness,Mental Health,",Curiouscast
+us,131,Verdict with Ted Cruz,1495601614,2020-10-28,Politics,"News,Daily News,",Ted Cruz
+us,132,REAL AF with Andy Frisella,1012570406,2021-01-23,Business,,Andy Frisella #100to0
+us,133,The Vanished Podcast,1081124929,2020-10-26,True Crime,"News,",Wondery
+us,134,Mad Money w/ Jim Cramer,147247199,2021-02-25,Investing,"Business,News,",CNBC
+us,135,Up and Vanished,1140596919,2020-10-15,True Crime,"Society & Culture,Personal Journals,",Tenderfoot TV
+us,136,Motive for Murder,1510365500,2021-02-16,True Crime,"Society & Culture,",NBC News
+us,137,Serendipity With Inky Johnson,1553377190,2021-03-01,Self-Improvement,"Education,Sports,",The Resonance Network
+us,138,Crime Stories with Nancy Grace,1193068130,2021-02-19,True Crime,"News,",Crime Online & iHeartRadio
+us,139,Code Switch,1112190608,2020-10-28,News,"Society & Culture,",NPR
+us,140,Conspiracy Theories,1337195586,2020-10-28,History,"True Crime,",Parcast Network
+us,141,In the Dark,1148175292,2020-10-14,News,,APM Reports
+us,142,Motley Fool Money,306106212,2021-01-22,Investing,"Business,News,Business News,",The Motley Fool
+us,143,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2021-03-04,Mental Health,"Health & Fitness,",Dr. Caroline Leaf
+us,144,The Steam Room,1490924360,2021-03-05,Basketball,"Sports,",Turner Sports
+za,1,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media
+za,2,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED
+za,3,Ampd Studios Creative Industry Podcast with Nasty C,1525254543,2021-02-25,Entrepreneurship,"Business,",AMPD STUDIOS by Old Mutual
+za,4,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah
+za,5,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-10-28,Comedy,"News,Daily News,",iHeartRadio & Comedy Central
+za,6,The Money Show,1072307993,2020-10-28,Investing,"Business,Careers,",Primedia Broadcasting
+za,7,VT Podcast,1540543705,2020-11-13,Society & Culture,,Sound and Sounds
+za,8,Elevation with Steven Furtick,216015753,2020-10-26,Christianity,"Religion & Spirituality,",Elevation Church
+za,9,Joel Osteen Podcast,137254859,2020-10-28,Christianity,"Religion & Spirituality,",Joel Osteen
+za,10,Global News Podcast,135067274,2020-10-28,News,,BBC World Service
+za,11,Major League Djz,1486896400,2020-04-09,Music,,MajorLeague Djz
+za,12,Behind The Edit,1556449891,2021-03-03,Entrepreneurship,"Business,Arts,Design,",The Local Edit
+za,13,Our Love Journey With Mpoomy & Brenden,1529419354,2020-10-09,Arts,,Our Love Journey
+za,14,The Mindset Mentor,1033048640,2020-10-28,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media
+za,15,True Crime South Africa,1469703618,2020-10-22,Society & Culture,,True Crime South Africa
+za,16,The Jordan B. Peterson Podcast,1184022695,2020-10-25,Education,"Science,",Dr. Jordan B. Peterson
+za,17,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio
+za,18,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2020-10-28,Mental Health,"Health & Fitness,",Dr. Caroline Leaf
+za,19,The Robin Sharma Mastery Sessions,1068207118,2020-03-05,Education,"Business,",Robin Sharma
+za,20,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig"
+za,21,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck
+za,22,Business Wars,1335814741,2020-10-28,Management,"Business,History,",Wondery
+za,23,Noxious Deejay Podcast,921359216,2021-01-09,Music,,Noxious Deejay
+za,24,Chymamusique's Podcast,1440251673,2020-08-16,Music,,Chymamusique
+za,25,Office Ladies,1480311435,2020-12-23,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey
+za,26,We Study Billionaires - The Investor’s Podcast Network,928933489,2020-10-25,Investing,"Business,Education,",The Investor's Podcast Network
+za,27,KnightSA89 - MidTempo Sessions Uploads,1512102345,2020-10-02,Music,,KnightSA89
+za,28,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self Help,",Parcast Network
+za,29,Woman Evolve with Sarah Jakes Roberts,1316294579,2020-10-21,Society & Culture,,Woman Evolve with Sarah Jakes Roberts
+za,30,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times
+za,31,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries
+za,32,Kwik Brain with Jim Kwik,1208024744,2020-10-26,Self Help,"Education,Business,","Jim Kwik, Your Brain Coach, Founder www.KwikLearning.com"
+za,33,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News
+za,34,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio
+za,35,MoneywebNOW,1511485972,2020-12-24,Business News,"News,Business,",Moneyweb Radio
+za,36,DJ PH,1466064652,2020-12-02,Music,,DJ PH
+za,37,Djy Jaivane,1522318033,2020-10-08,Music,,Djy Jaivane
+za,38,Joyce Meyer Radio Podcast,152564333,2020-10-28,Christianity,"Religion & Spirituality,Health & Fitness,Mental Health,",Joyce Meyer
+za,39,Economist Radio,151230264,2020-10-28,News,,The Economist
+za,40,This is Paris,1552058389,2021-03-01,Society & Culture,,iHeartRadio & Paris Hilton
+za,41,Get Sleepy: Sleep meditation and stories,1487513861,2020-10-26,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy
+za,42,Against The Odds,1553335461,2021-02-11,Society & Culture,"History,",Wondery
+za,43,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify
+za,44,TED Business,470622782,2020-10-26,Business,,TED
+za,45,Serial Killers,1205030005,2020-10-26,True Crime,"History,",Parcast Network
+za,46,Deeper Shades of House - weekly Deep House Podcast with Lars Behrenroth,205578441,2020-10-23,Music,,Lars Behrenroth
+za,47,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR
+za,48,No Such Thing As A Fish,840986946,2020-10-23,Comedy,,No Such Thing As A Fish
+za,49,"Rich Dad Radio Show: In-Your-Face Advice on Investing, Personal Finance, & Starting a Business",833641766,2020-10-28,Investing,"Business,Education,",The Rich Dad Radio Network
+za,50,Transformation Church,1348831124,2020-10-24,Religion & Spirituality,,Transformation Church
+za,51,Texx Talks,1501735272,2021-02-17,Music Interviews,"Music,Music Commentary,",Texx Talks
+za,52,The Lebo Lion Podcast,1397427305,2021-02-01,Business,,Lebo Lion
+za,53,Don't Shoot The Messenger,1504738445,2021-02-28,News Commentary,"News,",Daily Maverick
+za,54,BlackMusic Experience,1508391516,2020-05-26,Music,,JazziDisciples
+za,55,The School of Greatness,596047499,2020-10-28,Alternative Health,"Health & Fitness,Education,",Lewis Howes
+za,56,dj maphorisa's Podcast,1484003537,2020-05-06,Music,,dj maphorisa
+za,57,Sadhguru,347854569,2021-02-19,Spirituality,"Religion & Spirituality,",Sadhguru Official
+za,58,Honey I’m Home,1551459171,2021-02-01,Self Help,"Education,",Thando Au
+za,59,Africa Daily,1547235591,2021-01-20,News,,BBC World Service
+za,60,Bread4Soul Sessions,971122157,2020-08-16,Music,,Sir LSG
+za,61,WHOA That's Good Podcast,1433974017,2021-03-03,Christianity,"Religion & Spirituality,Business,",Sadie Robertson
+za,62,The Fantastic History Of Food,1470375638,2020-10-02,History,,Nick Charlie Key
+za,63,WorkLife with Adam Grant,1346314086,2021-01-31,Management,"Business,",TED
+za,64,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain
+za,65,BibleProject,1050832450,2020-10-26,Christianity,"Religion & Spirituality,",BibleProject
+za,66,A Bit of Optimism,1515385282,2020-09-14,Society & Culture,"Education,Self Help,",Simon Sinek
+za,67,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life
+za,68,The Tony Robbins Podcast,1098413063,2020-12-07,Education,"Business,",Tony Robbins
+za,69,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher
+za,70,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2020-12-21,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation
+za,71,Impact Theory with Tom Bilyeu,1191775648,2020-10-27,Education,"Business,",Tom Bilyeu
+za,72,UnF*ck Your Brain,1229434818,2020-11-12,Mental Health,"Health & Fitness,Education,Self Help,",Kara Loewentheil
+za,73,CHARLI AND DIXIE: 2 CHIX,1531221910,2020-10-22,Personal Journals,"Society & Culture,",Ramble and Charli and Dixie D’Amelio
+za,74,The Here We Go Podcast,1554785643,2021-02-23,Soccer,"Sports,",Here We Go
+za,75,Kota Embassy Podcasts,1521841754,2020-09-10,Music,,Kota Embassy
+za,76,MZANSI DEEP- Soulful & Deep House Sessions,1141941405,2021-01-14,Music,,Terence Rhoda
+za,77,The Rich Roll Podcast,582272991,2021-02-04,Self Help,"Education,Health & Fitness,",Rich Roll
+za,78,The Potter's Touch on Lightsource.com,364682371,2020-12-06,Christianity,"Religion & Spirituality,",Bishop T.D. Jakes
+za,79,Dateline NBC,1464919521,2020-12-24,True Crime,"News,",NBC News
+za,80,Cults,1286818575,2021-03-02,True Crime,"History,",Parcast Network
+za,81,Tiny Desk Concerts - Audio,657476401,2021-01-21,Music,,NPR
+za,82,The Intelligence,1449631195,2020-10-28,Daily News,"News,",The Economist
+za,83,Sideways,1552027709,2021-03-03,Podcasts,,BBC Radio 4
+za,84,Real Dictators,1516194847,2021-01-26,History,"Fiction,Drama,",Noiser Podcasts
+za,85,Serial,917918570,2020-08-20,News,"True Crime,",This American Life
+za,86,Oprah’s Master Class: The Podcast,1401057414,2019-05-30,Society & Culture,,Oprah
+za,87,The Potter's Touch,538401206,2019-08-18,Christianity,"Religion & Spirituality,",Bishop T.D. Jakes
+za,88,The Ramsey Show,77001367,2021-02-18,Investing,"Business,Education,Self Help,",Ramsey Network
+za,89,Shaun101's Podcast,1505786417,2020-09-16,Music,,Shaun101
+za,90,Rotten Mango,1517954480,2021-01-20,True Crime,"Comedy,",Stephanie Soo & Audioboom
+za,91,BizNews Radio,1441394221,2021-03-03,Investing,"Business,News,Business News,",BizNews
+za,92,"Soul Deep Sessions - ""House Made Sexy""",470846331,2021-01-14,Music,,Mush
+za,93,Duolingo Spanish Podcast,1317493077,2021-02-18,Education,"Society & Culture,Places & Travel,",Duolingo
+za,94,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries
+za,95,Chica Travel with Lelo,1468107412,2020-11-30,Places & Travel,"Society & Culture,",Podcast Studio
+za,96,Motivational and Inspirational,1493479119,2020-12-29,Entrepreneurship,"Business,",Motivation And Inspiration
+za,97,Honest Money,1495053060,2020-11-30,Investing,"Business,Management,",Warren Ingram
+za,98,The Ben Shapiro Show,1047335260,2020-10-28,News,,The Daily Wire
+za,99,The BossBabe Podcast,1453389736,2021-03-02,Entrepreneurship,"Business,",BossBabe
+za,100,Unsolved Murders: True Crime Stories,1122804248,2020-12-15,True Crime,"Society & Culture,",Parcast Network
+za,101,JSE Direct with Simon Brown,962733842,2021-01-13,Investing,"Business,News,Business News,",JustOneLap.com
+za,102,That Will Never Work,1550777106,2021-03-02,Entrepreneurship,"Business,Marketing,",Marc Randolph
+za,103,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris
+za,104,Morning Mindset Daily Christian Devotional,1322666339,2020-12-30,Christianity,"Religion & Spirituality,Spirituality,",Carey Green
+za,105,Daily Meditation Podcast,892107837,2020-10-28,Mental Health,"Health & Fitness,Alternative Health,",Mary Meckley
+za,106,Huberman Lab,1545953110,2021-02-08,Health & Fitness,"Education,",Dr. Andrew Huberman
+za,107,Amapiano,1521469332,2020-06-30,Music Commentary,"Music,",Teebest Fisha
+za,108,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman
+za,109,The John Maxwell Leadership Podcast,1416206538,2020-12-16,Education,"Business,",John Maxwell
+za,110,GoodMusicThursdays Podcast,1530452735,2021-02-25,Music,,GoodMusicThursdays Podcast
+za,111,Conversations with John & Lisa Bevere,218453800,2021-03-02,Christianity,"Religion & Spirituality,","John & Lisa Bevere, Messenger Network"
+za,112,AMAPIANO PANDEMIC,1512968943,2021-03-05,Music,,African Jackson
+za,113,Bulletproof Radio,451295014,2021-03-05,Alternative Health,"Health & Fitness,Education,",Dave Asprey
+za,114,Today in Focus,1440133626,2021-02-19,Daily News,"News,",The Guardian
+za,115,The Oprah Winfrey Show: The Podcast,1499860465,2021-02-23,Society & Culture,,The Oprah Winfrey Show: The Podcast
+za,116,TED-Ed: Lessons Worth Sharing,1039991663,2020-08-09,Education,"Science,",TED
+za,117,Modern Love,1065559535,2020-10-21,Relationships,"Society & Culture,",The New York Times
+za,118,Nuus met Spies,1555203383,2021-03-04,News Commentary,"News,Daily News,",Mia Spies & Volume
+za,119,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2020-12-23,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author
+za,120,Craig Groeschel Leadership Podcast,1070649025,2020-12-03,Management,"Business,Entrepreneurship,",Life.Church
+za,121,Therapy for Black Girls,1223803641,2020-10-28,Mental Health,"Health & Fitness,","Joy Harden Bradford, Ph.D. & iHeartRadio"
+za,122,The Official Fantasy Premier League Podcast,1475466071,2021-03-04,Fantasy Sports,"Sports,",Premier League
+za,123,Darknet Diaries,1296350485,2021-03-02,Technology,"True Crime,",Jack Rhysider
+za,124,Deep House Cats - SA,1128343449,2021-02-14,Music,,Deep House Cats - SA
+za,125,Prompt Us,1550666283,2021-02-22,Spirituality,"Religion & Spirituality,Education,Self Help,",iHeartRadio
+za,126,The Potter's House At One LA,1039481487,2021-01-01,Christianity,"Religion & Spirituality,",The Potter's House At One LA
+za,127,Fistaz Mixwell,1292363943,2021-01-29,Music,,Fistaz Mixwell
+za,128,The Psychology Podcast with Scott Barry Kaufman,942777522,2021-03-04,Social Sciences,"Science,",Scott Barry Kaufman
+za,129,The Mindvalley Podcast with Vishen Lakhiani,1317823455,2020-12-18,Mental Health,"Health & Fitness,Education,Self Help,",Mindvalley
+za,130,For the Girl,1453911226,2021-03-02,Christianity,"Religion & Spirituality,",For The Girl
+za,131,The Proverbs 31 Ministries Podcast,757953988,2021-02-23,Christianity,"Religion & Spirituality,",Proverbs 31 Ministries
+za,132,The Laverne Cox Show,1547504297,2021-02-04,Society & Culture,"Education,",iHeartRadio & Shondaland Audio
+za,133,Phoebe Reads a Mystery,1503921457,2021-03-05,Drama,"Fiction,",Criminal & Radiotopia
+za,134,GeeGo Live,1482332890,2020-10-23,Music,,GeeGo
+za,135,Oprah and Eckhart Tolle: A NEW EARTH,1458654443,2019-03-11,Society & Culture,,Oprah and Eckhart Tolle
+za,136,Abraham Hicks Daily,1501213645,2021-03-06,Spirituality,"Religion & Spirituality,",Abraham Hicks
+za,137,Coaching Real Leaders,1545444200,2021-03-01,Management,"Business,Careers,",HBR Presents / Muriel Wilkins
+za,138,The goop Podcast,1352546554,2021-01-05,Health & Fitness,"Society & Culture,","Goop, Inc. and Cadence13"
+za,139,Personal Finance with Warren Ingram,1075744322,2020-10-22,Investing,"Business,",Primedia Broadcasting
+za,140,The Documentary Podcast,73802620,2020-10-27,History,"News,Society & Culture,",BBC World Service
+za,141,Red Collar,1541330058,2021-02-23,True Crime,,audiochuck
+za,142,Masters of Scale with Reid Hoffman,1227971746,2021-02-23,Management,"Business,Entrepreneurship,",WaitWhat
+za,143,Happy Place,1353058891,2021-03-01,Mental Health,"Health & Fitness,Alternative Health,",Fearne Cotton
+za,144,The Art of Being Well,1539535133,2021-02-25,Alternative Health,"Health & Fitness,Education,Self Help,","Dear Media, Will Cole"
+za,145,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars
+za,146,The Messy Masterpiece with Tori & Chad,1545841764,2021-03-05,Christianity,"Religion & Spirituality,Education,Self Help,",Tori & Chad
+za,147,Pivot,1073226719,2021-02-16,News Commentary,"News,Tech News,",New York Magazine
+za,148,Rabbit Hole,1507423923,2020-06-04,Technology,"Society & Culture,",The New York Times
+za,149,The Bible Recap,1440833267,2021-02-25,Christianity,"Religion & Spirituality,",D-Group
+za,150,Science Vs,1051557000,2021-03-05,Science,"Education,",Gimlet
+za,151,Jordan Peterson Archive,1462681901,2020-07-03,Education,,Jordan Peterson
+za,152,Dr. Joe Dispenza Audio Experience,1457336351,2019-03-18,Health & Fitness,,Dr. Joe Dispenza
+za,153,Duolingo French Podcast,1466824259,2020-10-27,Education,"Society & Culture,Places & Travel,",Duolingo
+za,154,Desert Island Discs,342735925,2021-02-21,Personal Journals,"Society & Culture,",BBC Radio 4
+za,155,Grounded with Louis Theroux,1508985962,2021-02-01,Personal Journals,"Society & Culture,",BBC Radio 4
+za,156,Pastor Rick's Daily Hope,631094342,2021-02-04,Christianity,"Religion & Spirituality,",PastorRick.com
+za,157,The Daily Mastery Podcast by Robin Sharma,1521068608,2020-10-27,Self Help,"Education,Business,Entrepreneurship,",Robin Sharma
+za,158,TED Health,470623173,2021-02-23,Health & Fitness,,TED
+za,159,Jumpers Jump,1541777977,2021-02-14,Comedy,,Jumpers Jump Podcast
+za,160,Equip and Empower with Christine Caine,1512546904,2021-02-25,Christianity,"Religion & Spirituality,",AccessMore
+za,161,"The Secret To Success with CJ, Karl, Jemal & Eric Thomas",844102142,2020-12-31,Self Help,"Education,Health & Fitness,",Eric Thomas Ph.D.
+za,162,Timothy Keller Sermons Podcast by Gospel in Life,352660924,2020-10-23,Christianity,"Religion & Spirituality,Spirituality,",Tim Keller
+za,163,Joseph Prince Audio Podcast,334204277,2021-02-28,Christianity,"Religion & Spirituality,",Joseph Prince
+za,164,TheDopeAssPodcast,1550649360,2021-02-14,Comedy,,the dope ass podcast
+za,165,Pretty Basic with Alisha Marie and Remi Cruz,1439655378,2021-03-03,Personal Journals,"Society & Culture,Relationships,",Ramble
+za,166,On Being with Krista Tippett,150892556,2021-02-18,Society & Culture,"Religion & Spirituality,",On Being Studios
+za,167,Lore,978052928,2021-02-15,History,"Society & Culture,",Aaron Mahnke and Grim & Mild
+uk,1,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News
+uk,2,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck
+uk,3,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times
+uk,4,Dateline NBC,1464919521,2020-10-28,True Crime,"News,",NBC News
+uk,5,The Ben Shapiro Show,1047335260,2020-10-27,News,,The Daily Wire
+uk,6,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2020-12-14,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation
+uk,7,Unsolved Mysteries,1549903604,2021-02-17,True Crime,"Society & Culture,Documentary,","Cosgrove Meurer Productions, Inc. + Cadence13"
+uk,8,Up First,1222114325,2020-10-28,Daily News,"News,",NPR
+uk,9,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio
+uk,10,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery
+uk,11,Human Hope with Carlos Whittaker,1249486443,2021-03-04,Personal Journals,"Society & Culture,",That Sounds Fun Network
+uk,12,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio
+uk,13,The Dave Ramsey Show,77001367,2020-10-27,Investing,"Business,Education,Self-Improvement,",Ramsey Network
+uk,14,La Brega,1553089886,2021-02-24,Society & Culture,,WNYC Studios and Futuro Studios
+uk,15,Office Ladies,1480311435,2020-10-28,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey
+uk,16,The Office Deep Dive with Brian Baumgartner,1550331348,2021-02-09,TV & Film,"Society & Culture,Comedy,",iHeartRadio
+uk,17,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News
+uk,18,The Ezra Klein Show,1548604447,2021-01-13,Society & Culture,"News,",New York Times Opinion
+uk,19,Anatomy of Murder,1532894981,2020-10-28,True Crime,,audiochuck
+uk,20,The Dan Le Batard Show with Stugotz,934820588,2021-02-16,Sports,,"Dan Le Batard, Stugotz"
+uk,21,The Dan Bongino Show,965293227,2020-10-28,News Commentary,"News,",Westwood One Podcast Network / Dan Bongino
+uk,22,Serial,917918570,2020-08-20,News,"True Crime,",This American Life
+uk,23,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life
+uk,24,Embedded,1091709555,2021-02-25,News Commentary,"News,Society & Culture,Documentary,",NPR
+uk,25,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network
+uk,26,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain
+uk,27,This is Paris,1552058389,2021-02-22,Society & Culture,,iHeartRadio & Paris Hilton
+uk,28,Fresh Air,214089682,2020-10-27,Books,"Arts,TV & Film,",NPR
+uk,29,The Opportunist,1551162705,2021-02-16,True Crime,,Kast Media
+uk,30,Red Collar,1541330058,2020-12-01,True Crime,,audiochuck
+uk,31,Consider This from NPR,1503226625,2020-10-27,Daily News,"News,News Commentary,",NPR
+uk,32,On Purpose with Jay Shetty,1450994021,2020-11-02,Health & Fitness,"Business,",Jay Shetty and Kast Media
+uk,33,Supernatural with Ashley Flowers,1500667648,2020-11-04,Society & Culture,"True Crime,",Parcast Network
+uk,34,Sal and Chris Present: Hey Babe!,1542475843,2021-01-21,Comedy Interviews,"Comedy,",No Presh Network
+uk,35,Planet Money,290783428,2020-10-23,Business,"News,",NPR
+uk,36,Serial Killers,1205030005,2020-11-02,True Crime,"History,",Parcast Network
+uk,37,The Rachel Maddow Show,294055449,2020-11-03,Daily News,"News,","Rachel Maddow, MSNBC"
+uk,38,Tom Talks,1543456877,2021-03-04,Comedy,"TV & Film,",YMH Studios
+uk,39,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries
+uk,40,The NPR Politics Podcast,1057255460,2020-10-27,Politics,"News,Daily News,",NPR
+uk,41,I AM Athlete Podcast,1537836233,2021-02-19,Sports,,"Brandon Marshall, Chad Johnson, Fred Taylor, Channing Crowder"
+uk,42,Unsolved Murders: True Crime Stories,1122804248,2020-10-27,True Crime,"Society & Culture,",Parcast Network
+uk,43,Sway,1528594034,2020-10-26,Society & Culture,,New York Times Opinion
+uk,44,Double Date with Marlo Thomas & Phil Donahue,1547645093,2021-03-03,Relationships,"Society & Culture,",Pushkin Industries
+uk,45,Louder with Crowder,929121341,2020-10-26,News,,Blaze Podcast Network
+uk,46,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-10-28,Comedy,"News,Daily News,",iHeartRadio & Comedy Central
+uk,47,2 Bears 1 Cave with Tom Segura & Bert Kreischer,1468013270,2020-10-26,Comedy,,YMH Studios
+uk,48,The Breakfast Club,1232428553,2020-11-03,Comedy,,iHeartRadio
+uk,49,The Charlie Kirk Show,1460600818,2020-10-28,News,"Society & Culture,",PodcastOne
+uk,50,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig"
+uk,51,Nurture vs Nurture with Dr. Wendy Mogel,1549814799,2021-02-16,Kids & Family,"Society & Culture,",Armchair Umbrella
+uk,52,Adam Carolla Show,306390087,2020-10-28,Comedy,,PodcastOne / Carolla Digital
+uk,53,The Thing About Pam,1479234915,2019-09-27,True Crime,"News,",NBC News
+uk,54,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher
+uk,55,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR
+uk,56,True Crime Obsessed,1232009882,2020-11-03,True Crime,"Society & Culture,",Obsessed Network
+uk,57,The Moth,275699983,2020-11-03,Performing Arts,"Arts,",The Moth
+uk,58,BiggerPockets Real Estate Podcast,594419649,2020-10-25,Investing,"Business,Education,",BiggerPockets
+uk,59,The Jordan B. Peterson Podcast,1184022695,2020-11-01,Education,"Science,",Dr. Jordan B. Peterson
+uk,60,The Way I Heard It with Mike Rowe,1087110764,2020-10-27,Society & Culture,"History,",Mike Rowe
+uk,61,The Simplified Podcast with Emily Ley,1553793022,2021-03-04,Personal Journals,"Society & Culture,Relationships,",Four Eyes Media
+uk,62,The Michael Knowles Show,1266577963,2020-11-04,News Commentary,"News,",The Daily Wire
+uk,63,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries
+uk,64,Empty Inside,1524250628,2021-02-24,Self-Improvement,"Education,Society & Culture,",Jennette McCurdy
+uk,65,The Glenn Beck Program,620967489,2020-10-27,News Commentary,"News,Politics,",Blaze Podcast Network
+uk,66,Get Sleepy: Sleep meditation and stories,1487513861,2020-10-28,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy
+uk,67,The Matt Walsh Show,1367210511,2021-01-06,News Commentary,"News,",The Daily Wire
+uk,68,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify
+uk,69,Mark Levin Podcast,209377688,2020-11-04,News Commentary,"News,",Westwood One Podcast Network
+uk,70,Huberman Lab,1545953110,2021-02-22,Health & Fitness,"Science,",Dr. Andrew Huberman
+uk,71,The Candace Owens Show,1454587745,2020-10-18,Education,,PragerU
+uk,72,TED Radio Hour,523121474,2020-10-23,Technology,"Science,Social Sciences,",NPR
+uk,73,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED
+uk,74,Motherhood Meets Medicine,1553782780,2021-03-03,Kids & Family,"Health & Fitness,Medicine,",Lynzy Coughlin
+uk,75,Earn Your Leisure,1450211392,2021-01-29,Business,,The Black Effect and iHeartRadio
+uk,76,I Spy,1482310665,2021-02-23,Society & Culture,"History,",Foreign Policy
+uk,77,American Scandal,1435516849,2020-10-27,History,"Society & Culture,Documentary,",Wondery
+uk,78,The Bible Recap,1440833267,2020-12-22,Christianity,"Religion & Spirituality,",D-Group
+uk,79,The Pat McAfee Show 2.0,1435183458,2020-10-29,Sports,,Pat McAfee
+uk,80,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah
+uk,81,Bridgerton: The Official Podcast,1551820452,2021-02-25,TV & Film,"Society & Culture,",Shondaland Audio & iHeartRadio
+uk,82,Radiolab,152249110,2020-10-23,Documentary,"Society & Culture,Science,Nature,",WNYC Studios
+uk,83,NPR News Now,121493675,2020-11-04,Daily News,"News,",NPR
+uk,84,UnF*ck Your Brain,1229434818,2021-02-04,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil
+uk,85,Ten Percent Happier with Dan Harris,1087147821,2020-10-28,Mental Health,"Health & Fitness,",ABC News
+uk,86,The Jeff Dunham Podcast,1555769971,2021-02-25,Comedy,"Leisure,",Jeff Dunham
+uk,87,Stuff You Missed in History Class,283605519,2020-11-02,History,"Society & Culture,",iHeartRadio
+uk,88,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo
+uk,89,WorkLife with Adam Grant,1346314086,2021-02-23,Management,"Business,",TED
+uk,90,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman
+uk,91,Sword and Scale,790487079,2020-10-26,True Crime,"Society & Culture,Documentary,",Incongruity
+uk,92,Coffee Convos Podcast with Kail Lowry & Lindsie Chrisley,1305546061,2021-02-25,Society & Culture,"Kids & Family,Parenting,",Kail Lowry & Lindsie Chrisley
+uk,93,Wow in the World,1233834541,2021-01-18,Stories for Kids,"Kids & Family,Education for Kids,",NPR
+uk,94,Short Wave,1482575855,2021-01-26,Life Sciences,"Science,Astronomy,",NPR
+uk,95,The Mindset Mentor,1033048640,2021-01-08,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media
+uk,96,The Experiment,1549704404,2021-01-25,Documentary,"Society & Culture,History,",The Atlantic and WNYC Studios
+uk,97,"The Doctor's Farmacy with Mark Hyman, M.D.",1382804627,2020-12-04,Medicine,"Health & Fitness,Nutrition,",Dr. Mark Hyman
+uk,98,Cold,1441595858,2021-03-03,True Crime,"Society & Culture,Documentary,",KSL Podcasts | Wondery
+uk,99,Even the Rich,1500477470,2020-10-27,Society & Culture,,Wondery
+uk,100,Throughline,1451109634,2020-10-22,History,,NPR
+uk,101,20/20,987967575,2020-11-22,News,,ABC News
+uk,102,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin
+uk,103,Cults,1286818575,2021-03-02,True Crime,"History,",Parcast Network
+uk,104,The Journal.,1469394914,2021-01-07,Daily News,"News,",The Wall Street Journal & Gimlet
+uk,105,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars
+uk,106,Tim Pool Daily Show,1362265400,2021-03-02,Politics,"News,",Tim Pool
+uk,107,Nice White Parents,1524080195,2020-08-20,Society & Culture,"Education,",Serial & The New York Times
+uk,108,The Indicator from Planet Money,1320118593,2021-01-19,Business,,NPR
+uk,109,Bannon's War Room,1485351658,2020-10-27,Politics,"News,",WarRoom.org
+uk,110,Global News Podcast,135067274,2020-11-04,News,,BBC World Service
+uk,111,Pivot,1073226719,2021-02-16,News Commentary,"News,Tech News,",New York Magazine
+uk,112,Lore,978052928,2020-10-26,History,"Society & Culture,",Aaron Mahnke and Grim & Mild
+uk,113,Allen v. Farrow Podcast,1554108046,2021-02-24,TV & Film,"Society & Culture,Documentary,",HBO
+uk,114,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia
+uk,115,Joel Osteen Podcast,137254859,2020-10-28,Christianity,"Religion & Spirituality,",Joel Osteen
+uk,116,Wait Wait... Don't Tell Me!,121493804,2020-10-24,Comedy,"Leisure,",NPR
+uk,117,WHOA That's Good Podcast,1433974017,2020-10-28,Christianity,"Religion & Spirituality,Business,",Sadie Robertson
+uk,118,Revolutions,703889772,2020-12-25,History,"Education,",Mike Duncan
+uk,119,The Herd with Colin Cowherd,1042368254,2021-02-17,Football,"Sports,Basketball,",iHeartRadio
+uk,120,Made For This with Jennie Allen,1466667116,2021-03-02,Christianity,"Religion & Spirituality,",Jennie Allen
+uk,121,Unashamed with Phil & Jase Robertson,1460147025,2020-10-26,Religion & Spirituality,,Unashamed with Phil & Jase Robertson
+uk,122,The School of Greatness,596047499,2021-02-17,Alternative Health,"Health & Fitness,Education,",Lewis Howes
+uk,123,The Investing for Beginners Podcast - Your Path to Financial Freedom,1210741497,2021-01-07,Investing,"Business,",Andrew Sather and Dave Ahern
+uk,124,Do No Harm,1537865727,2021-02-16,True Crime,"News,",Wondery | NBC News
+uk,125,WTOP’s American Nightmare Series,1461511691,2021-03-01,True Crime,,WTOP | Hubbard Radio
+uk,126,Stuff They Don't Want You To Know,732915228,2021-02-12,Society & Culture,,iHeartRadio
+uk,127,The Food That Built America,1551644089,2021-02-04,History,"Society & Culture,Documentary,",The HISTORY Channel & OZY
+uk,128,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries
+uk,129,Marketplace,201853034,2021-03-03,Business News,"News,",Marketplace
+uk,130,Nothing much happens; bedtime stories to help you sleep,1378040733,2021-02-22,Alternative Health,"Health & Fitness,Mental Health,",Curiouscast
+uk,131,Verdict with Ted Cruz,1495601614,2020-10-28,Politics,"News,Daily News,",Ted Cruz
+uk,132,REAL AF with Andy Frisella,1012570406,2021-01-23,Business,,Andy Frisella #100to0
+uk,133,The Vanished Podcast,1081124929,2020-10-26,True Crime,"News,",Wondery
+uk,134,Mad Money w/ Jim Cramer,147247199,2021-02-25,Investing,"Business,News,",CNBC
+uk,135,Up and Vanished,1140596919,2020-10-15,True Crime,"Society & Culture,Personal Journals,",Tenderfoot TV
+uk,136,Motive for Murder,1510365500,2021-02-16,True Crime,"Society & Culture,",NBC News
+uk,137,Serendipity With Inky Johnson,1553377190,2021-03-01,Self-Improvement,"Education,Sports,",The Resonance Network
+uk,138,Crime Stories with Nancy Grace,1193068130,2021-02-19,True Crime,"News,",Crime Online & iHeartRadio
+uk,139,Code Switch,1112190608,2020-10-28,News,"Society & Culture,",NPR
+uk,140,Conspiracy Theories,1337195586,2020-10-28,History,"True Crime,",Parcast Network
+uk,141,In the Dark,1148175292,2020-10-14,News,,APM Reports
+uk,142,Motley Fool Money,306106212,2021-01-22,Investing,"Business,News,Business News,",The Motley Fool
+uk,143,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2021-03-04,Mental Health,"Health & Fitness,",Dr. Caroline Leaf
+uk,144,The Steam Room,1490924360,2021-03-05,Basketball,"Sports,",Turner Sports
+au,1,Conversations,94688506,2020-10-28,Relationships,"Society & Culture,",ABC Radio
+au,2,Hamish & Andy,213334232,2020-10-28,Comedy,,PodcastOne Australia
+au,3,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery
+au,4,Mamamia Out Loud,928350893,2020-10-28,Society & Culture,,Mamamia Podcasts
+au,5,Australian True Crime,1217681421,2020-10-25,True Crime,"Society & Culture,",Meshel Laurie
+au,6,The Quicky,1451469361,2020-10-27,News,,Mamamia Podcasts
+au,7,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News
+au,8,Living your best life Podcast,1503645220,2021-03-03,Society & Culture,,livingyourbestlifewithabbeanderin
+au,9,Coronacast,1501500390,2020-10-28,Daily News,"News,",ABC News
+au,10,She's On The Money,1468033698,2020-10-27,Business,,Victoria Devine
+au,11,7am,1461999702,2020-10-27,Daily News,"News,",Schwartz Media
+au,12,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times
+au,13,Skincare School,1552975779,2021-02-09,Fashion & Beauty,"Arts,",Adore Beauty
+au,14,The Breakdown,1554973779,2021-02-23,Rugby,"Sports,",The Australian
+au,15,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck
+au,16,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio
+au,17,Something To Talk About with Samantha Armytage,1553858670,2021-02-16,Society & Culture,,Stellar
+au,18,Grounded with Louis Theroux,1508985962,2020-06-29,Personal Journals,"Society & Culture,",BBC Radio 4
+au,19,Full Story,1482061243,2020-10-27,News,,The Guardian
+au,20,True Crime Conversations,1469153910,2020-10-21,True Crime,"Society & Culture,",Mamamia Podcasts
+au,21,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries
+au,22,The Imperfects,1476501557,2020-10-22,Mental Health,"Health & Fitness,Education,Self-Improvement,","Hugh van Cuylenburg, Ryan Shelton & Josh van Cuylenburg"
+au,23,The Pop Test – A comedy science quiz,1550543719,2021-02-06,Comedy,"Science,",ABC Radio
+au,24,Life Uncut,1472126503,2021-02-01,Society & Culture,"TV & Film,",Brittany Hockley and Laura Byrne
+au,25,How It Happened,1549225698,2021-01-15,Politics,"News,History,",Axios
+au,26,No Filter,995159486,2020-10-25,Personal Journals,"Society & Culture,",Mamamia Podcasts
+au,27,The Howie Games,1146329262,2020-10-28,Sports,,PodcastOne Australia
+au,28,The Kyle & Jackie O Show,413046628,2020-12-31,Comedy,"Music,",iHeartRadio Australia & KIIS
+au,29,Mapping Evil with Mike King,1555243483,2021-02-28,True Crime,"Technology,",BGT Productions
+au,30,Do You F*****g Mind?,1502954097,2020-10-24,Health & Fitness,,Alexis Fernandez
+au,31,Please Explain,1436450976,2021-02-02,Daily News,"News,Business,",The Age and Sydney Morning Herald
+au,32,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig"
+au,33,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network
+au,34,The Party Room,1102298716,2021-02-04,Politics,"News,News Commentary,",ABC Radio
+au,35,Lady Startup Stories,1361401612,2021-03-01,Careers,"Business,",Mamamia Podcasts
+au,36,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media
+au,37,Brett Finch Uncensored,1533612473,2021-02-14,Rugby,"Sports,Cricket,",Brett Finch
+au,38,The Signal,1349523628,2021-01-25,Daily News,"News,",ABC Radio
+au,39,Australian Birth Stories,1242155321,2020-10-25,Kids & Family,,Sophie Walker
+au,40,Equity Mates Investing Podcast,1212097275,2020-10-25,Investing,"Business,Entrepreneurship,",Equity Mates Media
+au,41,Dr Karl Podcast,73331325,2020-10-22,Science,,triple j
+au,42,This is Paris,1552058389,2021-03-01,Society & Culture,,iHeartRadio & Paris Hilton
+au,43,Just the Gist,1474052266,2021-03-05,Comedy,"TV & Film,TV Reviews,",LiSTNR
+au,44,The Briefing,1507116817,2020-10-27,Daily News,"News,",PodcastOne Australia
+au,45,The Mindset Mentor,1033048640,2020-10-28,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media
+au,46,Chat 10 Looks 3,936653355,2020-10-11,Society & Culture,,Chat 10 Looks 3
+au,47,The Matty Johns Podcast,1117246594,2021-02-04,Sports,,Daily Telegraph
+au,48,Global News Podcast,135067274,2021-03-05,News,,BBC World Service
+au,49,Squiz Today,1385995581,2020-10-27,Daily News,"News,",Squiz Media
+au,50,No Such Thing As A Fish,840986946,2020-10-23,Comedy,,No Such Thing As A Fish
+au,51,Huberman Lab,1545953110,2021-01-04,Health & Fitness,"Education,",Dr. Andrew Huberman
+au,52,The Nurse,1533629268,2020-10-26,True Crime,"News,Politics,",Camille Bianchi
+au,53,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED
+au,54,Serial,917918570,2020-08-20,News,"True Crime,",This American Life
+au,55,The Daily Aus,1552309889,2021-02-15,Daily News,"News,",The Daily Aus
+au,56,Collapse,1550688418,2021-02-16,History,,Stuff
+au,57,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life
+au,58,Hamish & Andy’s Remembering Project,1534252348,2020-12-14,Comedy,,LiSTNR
+au,59,Background Briefing,73330306,2021-03-04,News Commentary,"News,",ABC Radio
+au,60,The Jordan B. Peterson Podcast,1184022695,2020-11-29,Education,"Science,",Dr. Jordan B. Peterson
+au,61,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah
+au,62,Serial Killers,1205030005,2020-10-26,True Crime,"History,",Parcast Network
+au,63,Dateline NBC,1464919521,2020-10-29,True Crime,"News,",NBC News
+au,64,All In The Mind,73330911,2020-11-01,Life Sciences,"Science,Health & Fitness,",ABC Radio
+au,65,The Rise & Conquer Podcast,1451864362,2020-12-31,Health & Fitness,"Education,Self-Improvement,",Georgie Stevenson
+au,66,Dyl & Friends,1417124389,2021-02-02,Sports,"Comedy,",Dylan Buckley
+au,67,Who the Hell is Hamish?,1451470931,2019-11-16,News,"True Crime,",The Australian
+au,68,The Spill,1473523403,2021-01-20,Society & Culture,,Mamamia Podcasts
+au,69,Jase & PJ,1332566161,2021-01-13,Comedy,"Music,",iHeartRadio Australia & KIIS
+au,70,American Scandal,1435516849,2021-02-16,History,"Society & Culture,Documentary,",Wondery
+au,71,Even the Rich,1500477470,2021-03-02,Society & Culture,,Wondery
+au,72,You Cannot Be Serious,1474582435,2021-03-03,Sports,"News,",Sam Newman Mike Sheahan Don Scott
+au,73,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR
+au,74,Beauty IQ Uncensored,1478211900,2020-10-27,Fashion & Beauty,"Arts,",Adore Beauty
+au,75,Sideways,1552027709,2021-02-24,Podcasts,,BBC Radio 4
+au,76,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2020-10-28,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author
+au,77,UnF*ck Your Brain,1229434818,2021-02-05,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil
+au,78,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman
+au,79,Brooke & Linda's Dream Club,1553862476,2021-02-23,Books,"Arts,TV & Film,",LiSTNR
+au,80,Late Night Live - Full program podcast,73330961,2020-10-29,Society & Culture,"News,Politics,",ABC Radio
+au,81,Hack,78995043,2021-02-12,News,"Society & Culture,",triple j
+au,82,Beyond The Bump,1484930949,2021-01-18,Parenting,"Kids & Family,",Beyond The Bump
+au,83,Life and Crimes with Andrew Rule,1260800644,2020-10-24,True Crime,"Education,",Herald Sun
+au,84,You're Dead To Me,1479973402,2020-11-14,History,"Comedy,",BBC Radio 4
+au,85,The Property Couch,969904333,2020-10-22,Investing,"Business,News,Business News,",Bryce Holdaway & Ben Kingsley
+au,86,Fast Pace with Josh Phegan and Dean Mackie,1554782191,2021-02-25,Business,"Technology,","Josh Phegan - Real Estate Trainer, speaker, coach."
+au,87,The Rush Hour Melbourne Catch Up - 105.1 Triple M Melbourne - James Brayshaw and Billy Brownless,360804281,2021-02-02,Sports,,Triple M
+au,88,Comedian v Economist,1539790170,2021-02-02,Investing,"Business,Comedy,",Equity Mates Media
+au,89,Business Wars,1335814741,2020-10-28,Management,"Business,History,",Wondery
+au,90,Bang On,1210989839,2021-02-18,Society & Culture,,Double J
+au,91,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris
+au,92,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars
+au,93,my millennial money,1384819415,2020-10-28,Investing,"Business,Comedy,",SYMO interactive
+au,94,NSW Police State Crime Command – Investigations,1524599320,2021-02-06,True Crime,,PodcastOne Australia
+au,95,You Beauty,1427018681,2020-10-28,Fashion & Beauty,"Arts,",Mamamia Podcasts
+au,96,Linda Marigliano's Tough Love,1546324192,2021-02-01,Relationships,"Society & Culture,Documentary,",Linda Marigliano
+au,97,Ordineroli Speaking,1500848514,2021-02-23,Sports,"Health & Fitness,Mental Health,",Neroli Meadows
+au,98,Dr Justin Coulson's Happy Families,1082244480,2021-02-16,Self-Improvement,"Education,",Dr Justin Coulson
+au,99,SEN Breakfast,1198117246,2021-02-02,Sports,,SEN
+au,100,Get Sleepy: Sleep meditation and stories,1487513861,2020-11-30,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy
+au,101,The Marty Sheargold Show  - Triple M Melbourne 105.1,329902285,2021-01-15,Comedy,"News,",Triple M
+au,102,Hidden Brain,1028908750,2020-11-16,Social Sciences,"Science,Natural Sciences,",Hidden Brain
+au,103,"Parental As Anything, with Maggie Dent",1464488062,2021-01-20,Parenting,"Kids & Family,",ABC Radio
+au,104,The Teacher's Pet,1385379989,2020-08-23,News,"Society & Culture,",The Australian
+au,105,The Battersea Poltergeist,1548946506,2021-02-18,Drama,"Fiction,",BBC Radio 4
+au,106,This Glorious Mess,981373142,2021-02-14,Kids & Family,,Mamamia Podcasts
+au,107,Darknet Diaries,1296350485,2021-02-16,Technology,"True Crime,",Jack Rhysider
+au,108,Get Started Investing,1484760064,2020-12-13,Investing,"Business,Entrepreneurship,",Equity Mates Media
+au,109,AFL Exchange,637433286,2021-03-01,Sports,,AFL
+au,110,AP: Australian Politics,1109943717,2021-02-05,News,,The Guardian
+au,111,Motley Fool Money,1118867383,2020-12-06,Investing,"Business,",PodcastOne Australia
+au,112,Days Like These,1534672561,2020-10-27,Documentary,"Society & Culture,",ABC Radio
+au,113,The Ben Shapiro Show,1047335260,2021-01-04,News,,The Daily Wire
+au,114,"Kate, Tim and Joel",344869087,2021-01-19,Comedy,,Nova Podcasts
+au,115,The Hook Up,1080505022,2021-03-01,Society & Culture,,triple j
+au,116,The Money Cafe with Kirby and Kohler,1201031401,2021-01-21,Investing,"Business,Society & Culture,",The Australian
+au,117,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher
+au,118,Trace,1249219269,2020-10-20,True Crime,,ABC Radio
+au,119,Big Ideas,164330831,2020-10-29,Society & Culture,"News,Politics,",ABC Radio
+au,120,WorkLife with Adam Grant,1346314086,2021-02-23,Management,"Business,",TED
+au,121,Office Ladies,1480311435,2020-12-30,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey
+au,122,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News
+au,123,In Our Time,73330895,2021-01-14,History,,BBC Radio 4
+au,124,The Dropout,1449500734,2021-03-01,True Crime,,ABC News
+au,125,AFL Fantasy with The Traders,842419860,2021-02-07,Fantasy Sports,"Sports,",AFL
+au,126,Life Matters - Full program podcast,73330343,2021-03-04,Relationships,"Society & Culture,Kids & Family,",ABC Radio
+au,127,Australian Finance Podcast,1454193127,2020-10-26,Investing,"Business,",The Rask Group
+au,128,KIC POD,1457667995,2021-02-02,Health & Fitness,,Keep It Cleaner
+au,129,History Extra podcast,256580326,2020-10-29,History,"Society & Culture,",Immediate Media
+au,130,The School of Greatness,596047499,2020-12-16,Alternative Health,"Health & Fitness,Education,",Lewis Howes
+au,131,The Rich Roll Podcast,582272991,2020-11-16,Self-Improvement,"Education,Health & Fitness,",Rich Roll
+au,132,Matt and Alex - All Day Breakfast,1508927190,2021-01-19,Comedy Interviews,"Comedy,",PodcastOne Australia
+au,133,Sword and Scale,790487079,2020-10-26,True Crime,"Society & Culture,Documentary,",Incongruity
+au,134,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin
+au,135,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia
+au,136,Red Collar,1541330058,2021-02-23,True Crime,,audiochuck
+au,137,Duchess,1551120994,2021-03-04,History,"Society & Culture,",OneFinePlay
+au,138,Heaven Bent,1513489117,2021-03-01,History,"Society & Culture,Documentary,",Tara Jean Stevens / Frequency Podcast Network
+au,139,Dolly Parton's America,1481398762,2019-12-31,Music History,"Music,Society & Culture,Documentary,",WNYC Studios & OSM Audio
+au,140,Loose Units: The Podcast,1445344726,2020-10-26,True Crime,"Society & Culture,",Pillow Talk Productions
+au,141,"Chrissie, Sam and Browny",1076207687,2021-02-15,Comedy,"Music,",Nova Podcasts
+au,142,Rabbit Hole,1507423923,2020-06-04,Technology,"Society & Culture,",The New York Times
+in,1,Sadhguru's Podcast,347854569,2020-11-30,Spirituality,"Religion & Spirituality,",Sadhguru
+in,2,Gita For Daily Living,584092091,2020-10-17,Hinduism,"Religion & Spirituality,Spirituality,",Neil Bhatt
+in,3,TED Talks Daily,160904630,2020-10-28,Education,"Society & Culture,",TED
+in,4,Maed in India,1009197596,2021-03-01,Music Interviews,"Music,Music Commentary,",Maed in India
+in,5,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media
+in,6,"Think Fast, Talk Smart: Communication Techniques.",1494989268,2020-10-22,Careers,"Business,Management,",Stanford GSB
+in,7,Unofficial Sources,1548244887,2021-01-11,Business,"News,Business News,",The Ken
+in,8,Finshots Daily,1532901566,2020-10-28,Business,,Finshots
+in,9,6 Minute Vocabulary,1036379102,2020-10-26,Education,,BBC Radio
+in,10,The Ranveer Show,1490896085,2021-03-05,Self Help,"Education,Health & Fitness,Mental Health,",BeerBiceps aka Ranveer Allahbadia
+in,11,What's Up Sister?,1554876547,2021-02-22,Personal Journals,"Society & Culture,",What's up Sister
+in,12,Practically Gita,1548187636,2021-02-10,Self Help,"Education,Religion & Spirituality,Spirituality,",WYN Studio
+in,13,The Cipher,1543887425,2021-01-26,Drama,"Fiction,",BBC Radio
+in,14,Old Hindi Songs's show,1548383228,2021-01-12,Music,,Hindu Epics
+in,15,2000 Books for Ambitious Entrepreneurs - Author Interviews and Book Summaries,1119439036,2020-09-21,Entrepreneurship,"Business,Management,",Mani Vaya
+in,16,Daily Motivation Podcast,1035148051,2016-10-05,Alternative Health,"Health & Fitness,Comedy,",Daily Motivation Podcast
+in,17,The Stories of Mahabharata,888135469,2020-09-09,Performing Arts,"Arts,",Sudipta Bhawmik
+in,18,The History of India Podcast,1041684187,2020-05-01,History,"Society & Culture,Places & Travel,",Kit Patrick
+in,19,The Intelligence,1449631195,2020-10-28,Daily News,"News,",The Economist
+in,20,The Habit Coach with Ashdin Doctor,1445665622,2020-10-28,Health & Fitness,"Sports,",IVM Podcasts
+in,21,The Tastes of India Podcast in Hindi : Healthy Living Tips and Cookery Show,1039644241,2021-02-28,Food,"Arts,Leisure,Hobbies,","Puja - Blogger, Home Business Owner, Self Proclaimed Cook"
+in,22,Little Stories for Tiny People: Anytime and bedtime stories for kids,1039511252,2021-02-07,Stories for Kids,"Kids & Family,Arts,Books,",Rhea Pechter
+in,23,Brewing Talks,1552164995,2021-03-02,Marketing,"Business,Management,",Ep.Log Media
+in,24,Akashavani English News,1536206996,2020-10-28,Daily News,"News,",All India Radio
+in,25,Little Explorers - Countries In The World,1549390988,2021-02-10,Places & Travel,"Society & Culture,Education,",Chimes Radio
+in,26,Zerodha Educate,1448599498,2020-10-24,Investing,"Business,",Zerodha
+in,27,Sandeep Maheshwari Motivation,1549822234,2021-02-05,Self Help,"Education,",Sandeep Maheshwari
+in,28,The Mindvalley Podcast with Vishen Lakhiani,1317823455,2020-10-28,Health & Fitness,"Education,Self Help,",Mindvalley
+in,29,The Daily Mastery Podcast by Robin Sharma,1521068608,2020-11-13,Self Help,"Education,Business,Entrepreneurship,",Robin Sharma
+in,30,We Study Billionaires - The Investor’s Podcast Network,928933489,2020-10-25,Investing,"Business,Education,",The Investor's Podcast Network
+in,31,Behind Every Dream,1550874620,2021-02-18,Mental Health,"Health & Fitness,Business,Entrepreneurship,",Shivani Bafna
+in,32,Moneycontrol Podcast,1340196987,2020-10-28,Business,,moneycontrol
+in,33,Naval,1454097755,2020-07-15,Investing,"Business,Technology,",Naval
+in,34,The Big Story,1437983503,2020-10-29,News,,The Quint
+in,35,The English We Speak,262026989,2020-10-27,Education,,BBC Radio
+in,36,Modern Love,1065559535,2020-10-21,Relationships,"Society & Culture,",The New York Times
+in,37,3 Things,1406730235,2020-10-28,News,,The Indian Express
+in,38,Is Romance Dead?,1534542817,2020-11-06,Relationships,"Society & Culture,Comedy,Comedy Interviews,",Maed in India
+in,39,The Documentary Podcast,73802620,2020-10-27,History,"News,Society & Culture,",BBC World Service
+in,40,The GaryVee Audio Experience,928159684,2020-10-28,Entrepreneurship,"Business,",Gary Vaynerchuk
+in,41,In Focus by The Hindu,1494440867,2020-10-26,News Commentary,"News,",The Hindu
+in,42,The Great Indian Marketing Show,1542664721,2021-01-05,Marketing,"Business,",Aadil Bandukwala & Kaushik Satish
+in,43,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-10-28,Comedy,"News,Daily News,",iHeartRadio & Comedy Central
+in,44,Cementing Wedding With Marriage - ( Marathi Podcast),1552604499,2021-02-24,Relationships,"Society & Culture,",NACHIKET KSHIRE & LEENA PARANJPE
+in,45,BloombergQuint All You Need To Know,1440116479,2020-10-28,Investing,"Business,News,",IVM Podcasts
+in,46,Global News Podcast,135067274,2021-03-07,News,,BBC World Service
+in,47,The Passion People Podcast,1206967377,2021-02-26,Personal Journals,"Society & Culture,Business,Entrepreneurship,",Ep.Log Media
+in,48,The Musafir Stories - India Travel Podcast,1209849464,2021-02-22,Places & Travel,"Society & Culture,Leisure,Hobbies,",Saif & Faiza
+in,49,Red FM Bauaa,1118875240,2021-02-18,Comedy,"TV & Film,",Red FM
+in,50,Cyrus Says,979118845,2020-10-28,Comedy,"Sports,Cricket,",IVM Podcasts
+in,51,HBR IdeaCast,152022135,2020-10-27,Management,"Business,Entrepreneurship,",Harvard Business Review
+in,52,IELTS Podcast,524002915,2021-01-28,Language Learning,"Education,",Ben Worthington
+in,53,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio
+in,54,Waveform: The MKBHD Podcast,1474429475,2020-10-16,Technology,"News,Tech News,",Studio71
+in,55,Kwik Brain with Jim Kwik,1208024744,2020-10-26,Self Help,"Education,Business,","Jim Kwik, Your Brain Coach, Founder www.KwikLearning.com"
+in,56,PURIJAGANNADH,1522708820,2020-10-23,Hobbies,"Leisure,",Purijagannadh
+in,57,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig"
+in,58,Sidhu Oye Sidhu,1523324463,2020-07-25,Music Commentary,"Music,",Music Crew
+in,59,6 Minute Grammar,1080974028,2020-10-27,Education,,BBC Radio
+in,60,Economist Radio,151230264,2020-10-28,News,,The Economist
+in,61,UNKUT KRITIKA,1517640300,2020-10-31,Self Help,"Education,",Kritika Khurana
+in,62,Philosophize This!,659155419,2020-10-20,Philosophy,"Society & Culture,Education,",Stephen West
+in,63,The Mindset Mentor,1033048640,2020-10-28,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media
+in,64,The Seen and the Unseen - hosted by Amit Varma,1190896090,2020-10-25,Politics,"News,Society & Culture,",Amit Varma
+in,65,Saregama Carvaan Classic Retro Music,1131144827,2019-12-26,Music,,Saregama India Ltd
+in,66,Vedanta and Yoga,160835381,2020-05-24,Spirituality,"Religion & Spirituality,","Ramakrishna Vedanta Society, Boston"
+in,67,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times
+in,68,Bangalore In Stories,1547246790,2021-01-27,Documentary,"Society & Culture,Arts,",PodMacha Studios
+in,69,9XM Song Secret,1516770387,2020-10-24,Music Interviews,"Music,Music History,",Ep.Log Media
+in,70,Akashavani Hindi News,1536206642,2020-10-28,Daily News,"News,",All India Radio
+in,71,TED Talks Education,470623037,2020-06-19,Courses,"Education,Science,",TED
+in,72,Daily Dose,1456761991,2021-02-27,News,,Newslaundry.com
+in,73,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo
+in,74,Prime Time with Ravish,1442530475,2020-12-02,News,,NDTV
+in,75,Detective Mathema's Maths Puzzles for Kids,1184274374,2016-12-09,Education for Kids,"Kids & Family,Science,Mathematics,",Fun Kids
+in,76,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR
+in,77,Coaching Real Leaders,1545444200,2021-01-25,Careers,"Business,Management,",HBR Presents / Muriel Wilkins
+in,78,Masters of Scale with Reid Hoffman,1227971746,2020-10-27,Management,"Business,Entrepreneurship,",WaitWhat
+in,79,Unsolved Murders: True Crime Stories,1122804248,2020-12-01,True Crime,"Society & Culture,",Parcast Network
+in,80,RED FM LOVE STORY by RJ PAHI,1289643592,2021-02-09,Personal Journals,"Society & Culture,Arts,Books,",Red FM
+in,81,Youtube Lab,919631690,2016-12-06,Technology,,Дмитрий Бушков
+in,82,Animal Gyan - Land Animals,1509932636,2021-02-02,Education for Kids,"Kids & Family,Pets & Animals,",Chimes Radio
+in,83,We Are What We Eat: Pay The Farmer Not The Pharmacy,1512934794,2020-11-16,Nutrition,"Health & Fitness,",Meera & Ashok Vasudevan
+in,84,WorkLife with Adam Grant,1346314086,2020-05-12,Management,"Business,",TED
+in,85,DJ TRIPLE S - Mix Series,1394251788,2020-06-21,Music,,DJ TRIPLE S
+in,86,DJDeepNYC,1437907791,2020-07-25,Music,,DjDeepNYC
+in,87,The Sadhguru Podcast,1479332846,2019-09-25,Spirituality,"Religion & Spirituality,",The Sadhguru Podcast
+in,88,Business Wars,1335814741,2020-10-28,Management,"Business,History,",Wondery
+in,89,Get Sleepy: Sleep meditation and stories,1487513861,2020-12-02,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy
+in,90,The School of Greatness,596047499,2020-10-28,Alternative Health,"Health & Fitness,Education,",Lewis Howes
+in,91,Marketing School - Digital Marketing and Online Marketing Tips,1138869817,2020-10-28,Marketing,"Business,Careers,",Eric Siu & Neil Patel
+in,92,ThePrint,1488735954,2021-03-06,Politics,"News,News Commentary,",ThePrint
+in,93,Classic English Stories For Kids,1509930659,2021-03-03,Stories for Kids,"Kids & Family,Education for Kids,",Chimes Radio
+in,94,Akbar Birbal Stories- Hindi Moral Tales,1509930788,2021-02-25,Stories for Kids,"Kids & Family,Education for Kids,",Chimes Radio
+in,95,Learn English | EnglishClass101.com,323145903,2021-03-06,Language Learning,"Education,Courses,",EnglishClass101.com
+in,96,The Robin Sharma Mastery Sessions,1068207118,2020-03-05,Education,"Business,",Robin Sharma
+in,97,Bollywood Weekly,1003811629,2021-02-20,TV & Film,"Society & Culture,",TiC Productions
+in,98,The Here We Go Podcast,1554785643,2021-03-03,Soccer,"Sports,",Here We Go
+in,99,Sadhguru Speeches by Sync Mind,1481769883,2020-08-15,Society & Culture,"Religion & Spirituality,Spirituality,",Sync Mind/Sadhguru Speeches
+in,100,CNN Daily News Briefing,1436719991,2021-01-04,Daily News,"News,",CNN
+in,101,Nani Ki Kahaniya,1488292026,2020-03-09,Education for Kids,"Kids & Family,Stories for Kids,",Sony Music Kids
+in,102,FT News Briefing,1438449989,2020-10-29,Daily News,"News,",Financial Times
+in,103,Learning English Broadcast - VOA Learning English,109522474,2020-10-28,Language Learning,"Education,",VOA Learning English
+in,104,The Indian Edit,1377845840,2021-02-02,Personal Journals,"Society & Culture,Arts,Design,",Nitasha Manchanda
+in,105,a16z Podcast,842818711,2021-01-23,Technology,"Business,Entrepreneurship,",Andreessen Horowitz
+in,106,Heirs of The Pandavas,1526452361,2020-10-17,Fiction,"History,",WYN Studio
+in,107,Bedtime Stories For Kids Hindi|English,1535001986,2021-02-25,Stories for Kids,"Kids & Family,",PANDA MAMA
+in,108,The Journal.,1469394914,2020-12-23,Daily News,"News,",The Wall Street Journal & Gimlet
+in,109,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries
+in,110,The Jordan B. Peterson Podcast,1184022695,2020-11-29,Education,"Science,",Dr. Jordan B. Peterson
+in,111,Arijit Singh,1532263528,2020-09-17,Music Commentary,"Music,",Shivani Yadav
+in,112,Hindi Song Review,1494771324,2020-02-18,Music Commentary,"Music,",Hansa Juhi Rani
+in,113,Bill Gates and Rashida Jones Ask Big Questions,1538630420,2020-12-14,Society & Culture,,Gates Notes
+in,114,Capitalmind Podcast,1453280018,2021-01-05,Investing,"Business,",Capitalmind
+in,115,The Kulstarr Fix,1391332856,2019-04-29,Music,,Kulstarr
+in,116,The McKinsey Podcast,285260960,2020-10-09,Management,"Business,News,Business News,",McKinsey & Company
+in,117,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher
+in,118,"Rich Dad Radio Show: In-Your-Face Advice on Investing, Personal Finance, & Starting a Business",833641766,2021-02-24,Investing,"Business,Education,",The Rich Dad Radio Network
+in,119,Paisa Vaisa,1239293215,2020-10-26,Investing,"Business,Marketing,",IVM Podcasts
+in,120,Hindi Song,1504664694,2020-03-22,Performing Arts,"Arts,",KHASI SONG
+in,121,99% Invisible,394775318,2020-12-18,Design,"Arts,",Roman Mars
+in,122,Good Night Stories for Adults by Roshan Abbas,1515378138,2021-02-05,Relationships,"Society & Culture,",Kommune
+in,123,DJ Ravish Remixes,1508721102,2020-10-25,Music,,DJ Ravish
+in,124,Chulbuli Tales Podcast,1528481399,2020-10-28,Stories for Kids,"Kids & Family,Education for Kids,",Ep.Log Media
+in,125,Meditative Story,1472106563,2021-02-24,Society & Culture,"Health & Fitness,Mental Health,",WaitWhat + Thrive Global
+in,126,Huberman Lab,1545953110,2020-12-21,Health & Fitness,"Education,",Dr. Andrew Huberman
+in,127,Genius Bar,1550568878,2021-01-25,Technology,"News,Tech News,",Jon Prosser + Sam Kohl
+in,128,The Indian Startup Show,1031590716,2020-10-14,Technology,"Business,Entrepreneurship,",Neil Patel
+in,129,Kahani Suno,1213337541,2020-09-30,Books,"Arts,",Sameer Goswami
+in,130,WhatsApp University And Corona(Hindi) The Debator!,1515173768,2020-05-15,Documentary,"Society & Culture,",The Galaga Guy
+in,131,6 Minute English,262026947,2020-10-22,Education,,BBC Radio
+in,132,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris
+in,133,Money Talks from Economist Radio,420929545,2020-12-15,Business News,"News,",The Economist
+in,134,Coffee Break French,263170419,2020-10-22,Courses,"Education,Language Learning,",Radio Lingua Network
+in,135,Kathe Paend - A place to tell stories of Kashmir,1545333588,2021-02-02,History,"Society & Culture,",Red FM
+in,136,"Hey, Stranger!",1547086264,2021-01-19,Society & Culture,,Thoraya Maronesy
+in,137,Duolingo French Podcast,1466824259,2021-02-09,Education,"Society & Culture,Places & Travel,",Duolingo
+in,138,The Knowledge Project with Shane Parrish,990149481,2021-02-23,Investing,"Business,Education,Self Help,",Farnam Street
+in,139,The Dropout,1449500734,2021-03-01,True Crime,,ABC News
+in,140,Not Overthinking,1456538451,2021-03-01,Society & Culture,"Business,",Ali & Taimur Abdaal
+in,141,The Devdutt Pattanaik Show | Mirchi,1465487889,2020-03-04,Philosophy,"Society & Culture,Education,",Devdutt Pattanaik
+in,142,The Ranveer Show हिंदी,1542452346,2021-02-27,Self Help,"Education,Health & Fitness,Mental Health,",BeerBiceps aka Ranveer Allahbadia
+in,143,iPhone Ringtone Videos,540187826,2014-11-25,Technology,"Kids & Family,",RingtoneFeeder.com
+in,144,Learn English with the British Council and Premier League,1216260422,2020-12-21,Language Learning,"Education,Sports,Soccer,",Jack Radford & Rich Moon
+in,145,7 Good Minutes Daily Self-Improvement Podcast with Clyde Lee Dennis,1346062517,2020-10-28,Self Help,"Education,Society & Culture,Philosophy,",Clyde Lee Dennis
+in,146,The Daily Stoic,1430315931,2020-11-09,Self Help,"Education,Business,",Daily Stoic
+in,147,IELTS Speaking for Success,1488201401,2020-10-26,Language Learning,"Education,",Success with IELTS
+in,148,Love Me,1121239439,2020-10-22,Society & Culture,,CBC Podcasts
+in,149,The Book Show & Rough Note by RJ Ananthi,1492486688,2020-08-14,Books,"Arts,",The Book Show
+in,150,Vedanta Talks,1247628265,2020-10-28,Religion & Spirituality,,Vedanta Society of New York
+in,151,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain
+in,152,How To Be A Better Human,1544098624,2021-01-25,Self Help,"Education,",TED and PRX
+in,153,Office Ladies,1480311435,2020-10-28,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey
+in,154,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2021-02-17,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author
+in,155,LSE: Public lectures and events,279428154,2021-03-03,Courses,"Education,",London School of Economics and Political Science
+in,156,Cautionary Tales,1484511465,2021-02-26,History,"Society & Culture,",Pushkin Industries
+in,157,All Indians Matter,1527740349,2021-02-04,News Commentary,"News,",Ideabrew Studios
+in,158,TED Talks Technology,470624027,2020-10-23,Technology,"Science,",TED
+in,159,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2021-01-01,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation
+in,160,RadioFM Bollywood,1502261788,2020-10-29,Music,,seema  garg
+in,161,Darknet Diaries,1296350485,2021-01-19,Technology,"True Crime,",Jack Rhysider
+in,162,IELTS Energy English Podcast,969076668,2020-10-28,Language Learning,"Education,Courses,",Lindsay McMahon and Jessica Beck
+in,163,Books and Beyond with Bound,1502692172,2020-10-27,Books,"Arts,Society & Culture,",Bound Podcasts
+in,164,Joel Osteen Podcast,137254859,2021-02-12,Christianity,"Religion & Spirituality,",Joel Osteen
+in,165,Inside Forbes India,418685623,2021-02-15,Business,,Forbes India
+in,166,ELECTRONYK PODCAST,558494752,2020-05-27,Music,,DJ NYK
+in,167,Lex Fridman Podcast,1434243584,2020-10-25,Technology,"Science,",Lex Fridman
+in,168,Crime Junkie,1322200189,2021-02-01,True Crime,,audiochuck
+in,169,Planet Money,290783428,2020-10-23,Business,"News,",NPR
+in,170,The Joy of x,1495067186,2021-03-02,Science,,Steven Strogatz and Quanta Magazine
+in,171,TED Business,470622782,2020-10-26,Business,,TED
+in,172,Bhojpuri Sher Khesari Ke Song,1553199762,2021-01-20,Music Commentary,"Music,",Tinku Yadav
+in,173,Social Media Marketing Podcast,549899114,2021-03-04,Marketing,"Business,Entrepreneurship,","Michael Stelzner, Social Media Examiner"
+in,174,Software Engineering Daily,1019576853,2021-03-05,Tech News,"News,",Software Engineering Daily
+in,175,Unlocking Us with Brené Brown,1494350511,2020-12-16,Relationships,"Society & Culture,Education,Self Help,",Parcast Network
+in,176,StarTalk Radio,325404506,2020-10-26,Science,,Neil deGrasse Tyson
+in,177,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify
+in,178,Test Match Special,205892240,2021-03-05,Sports,,BBC Radio 5 live
+in,179,NL Hafta,582585399,2020-10-24,News,,Newslaundry.com
+in,180,Bhagavad Gita English,1201248091,2017-02-01,Hinduism,"Religion & Spirituality,Society & Culture,",Yatharth Geeta
+in,181,Ek Kahani Aisi Bhi,1137521932,2016-06-20,Books,"Arts,TV & Film,",Red FM
+in,182,But…Where Are You Really From?,1534173216,2020-11-19,Podcasts,,BBC Asian Network
+in,183,Indian Startup Stories,1547922859,2021-01-14,Entrepreneurship,"Business,Education,Self Help,",Ashok
+in,184,Editor's Picks from The Economist,313848583,2021-03-01,News,,The Economist
+in,185,Psychology In Hindi,1472370879,2021-03-04,Education,,Saurabh Gandhi
+in,186,The Futur with Chris Do,1209219220,2021-03-03,Marketing,"Business,Arts,Design,",The Futur
+in,187,विवेचना,1245120783,2021-03-05,News,,BBC Hindi Radio
+in,188,CHARLI AND DIXIE: 2 CHIX,1531221910,2021-03-04,Personal Journals,"Society & Culture,",Ramble and Charli and Dixie D’Amelio
+ir,1,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News
+ir,2,Crime Junkie,1322200189,2020-11-02,True Crime,,audiochuck
+ir,3,The Daily,1200361736,2020-11-04,Daily News,"News,",The New York Times
+ir,4,Dateline NBC,1464919521,2020-11-04,True Crime,"News,",NBC News
+ir,5,The Ben Shapiro Show,1047335260,2020-11-04,News,,The Daily Wire
+ir,6,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2020-12-14,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation
+ir,7,Unsolved Mysteries,1549903604,2021-02-17,True Crime,"Society & Culture,Documentary,","Cosgrove Meurer Productions, Inc. + Cadence13"
+ir,8,Up First,1222114325,2020-11-04,Daily News,"News,",NPR
+ir,9,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio
+ir,10,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery
+ir,11,Human Hope with Carlos Whittaker,1249486443,2021-03-04,Personal Journals,"Society & Culture,",That Sounds Fun Network
+ir,12,Stuff You Should Know,278981407,2020-11-04,Society & Culture,,iHeartRadio
+ir,13,The Dave Ramsey Show,77001367,2020-11-03,Investing,"Business,Education,Self-Improvement,",Ramsey Network
+ir,14,La Brega,1553089886,2021-02-24,Society & Culture,,WNYC Studios and Futuro Studios
+ir,15,Office Ladies,1480311435,2020-11-04,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey
+ir,16,The Office Deep Dive with Brian Baumgartner,1550331348,2021-02-09,TV & Film,"Society & Culture,Comedy,",iHeartRadio
+ir,17,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News
+ir,18,The Ezra Klein Show,1548604447,2021-01-13,Society & Culture,"News,",New York Times Opinion
+ir,19,Anatomy of Murder,1532894981,2020-11-04,True Crime,,audiochuck
+ir,20,The Dan Le Batard Show with Stugotz,934820588,2021-01-05,Sports,,"Dan Le Batard, Stugotz"
+ir,21,The Dan Bongino Show,965293227,2020-11-03,News Commentary,"News,",Westwood One Podcast Network / Dan Bongino
+ir,22,Serial,917918570,2020-08-20,News,"True Crime,",This American Life
+ir,23,This American Life,201671138,2020-11-01,Personal Journals,"Society & Culture,Arts,",This American Life
+ir,24,Embedded,1091709555,2021-02-25,News Commentary,"News,Society & Culture,Documentary,",NPR
+ir,25,Unlocking Us with Brené Brown,1494350511,2020-11-04,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network
+ir,26,Hidden Brain,1028908750,2020-11-02,Social Sciences,"Science,Natural Sciences,",Hidden Brain
+ir,27,This is Paris,1552058389,2021-02-22,Society & Culture,,iHeartRadio & Paris Hilton
+ir,28,Fresh Air,214089682,2020-11-03,Books,"Arts,TV & Film,",NPR
+ir,29,The Opportunist,1551162705,2021-02-16,True Crime,,Kast Media
+ir,30,Red Collar,1541330058,2020-12-01,True Crime,,audiochuck
+ir,31,Consider This from NPR,1503226625,2020-11-03,Daily News,"News,News Commentary,",NPR
+ir,32,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media
+ir,33,Supernatural with Ashley Flowers,1500667648,2020-10-28,Society & Culture,"True Crime,",Parcast Network
+ir,34,Sal and Chris Present: Hey Babe!,1542475843,2021-01-21,Comedy Interviews,"Comedy,",No Presh Network
+ir,35,Planet Money,290783428,2020-10-30,Business,"News,",NPR
+ir,36,Serial Killers,1205030005,2020-10-26,True Crime,"History,",Parcast Network
+ir,37,The Rachel Maddow Show,294055449,2020-10-28,Daily News,"News,","Rachel Maddow, MSNBC"
+ir,38,Tom Talks,1543456877,2021-03-04,Comedy,"TV & Film,",YMH Studios
+ir,39,Cautionary Tales,1484511465,2021-02-26,History,"Society & Culture,",Pushkin Industries
+ir,40,The NPR Politics Podcast,1057255460,2020-11-04,Politics,"News,Daily News,",NPR
+ir,41,I AM Athlete Podcast,1537836233,2021-02-19,Sports,,"Brandon Marshall, Chad Johnson, Fred Taylor, Channing Crowder"
+ir,42,Unsolved Murders: True Crime Stories,1122804248,2020-10-27,True Crime,"Society & Culture,",Parcast Network
+ir,43,Sway,1528594034,2020-10-26,Society & Culture,,New York Times Opinion
+ir,44,Double Date with Marlo Thomas & Phil Donahue,1547645093,2021-03-03,Relationships,"Society & Culture,",Pushkin Industries
+ir,45,Louder with Crowder,929121341,2021-01-25,Politics,"News,News Commentary,",Blaze Podcast Network
+ir,46,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-11-04,Comedy,"News,Daily News,",iHeartRadio & Comedy Central
+ir,47,2 Bears 1 Cave with Tom Segura & Bert Kreischer,1468013270,2020-11-02,Comedy,,YMH Studios
+ir,48,The Breakfast Club,1232428553,2020-10-28,Comedy,,iHeartRadio
+ir,49,The Charlie Kirk Show,1460600818,2020-11-03,News,"Society & Culture,",Charlie Kirk
+ir,50,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig"
+ir,51,Nurture vs Nurture with Dr. Wendy Mogel,1549814799,2021-02-16,Kids & Family,"Society & Culture,",Armchair Umbrella
+ir,52,Adam Carolla Show,306390087,2020-11-04,Comedy,,PodcastOne / Carolla Digital
+ir,53,The Thing About Pam,1479234915,2019-09-27,True Crime,"News,",NBC News
+ir,54,Freakonomics Radio,354668519,2020-10-31,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher
+ir,55,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR
+ir,56,True Crime Obsessed,1232009882,2020-10-27,True Crime,"Society & Culture,",Obsessed Network
+ir,57,The Moth,275699983,2020-10-27,Performing Arts,"Arts,",The Moth
+ir,58,BiggerPockets Real Estate Podcast,594419649,2020-10-25,Investing,"Business,Education,",BiggerPockets
+ir,59,The Jordan B. Peterson Podcast,1184022695,2020-10-25,Education,"Science,",Dr. Jordan B. Peterson
+ir,60,The Way I Heard It with Mike Rowe,1087110764,2020-10-27,Society & Culture,"History,",Mike Rowe
+ir,61,The Simplified Podcast with Emily Ley,1553793022,2021-03-04,Personal Journals,"Society & Culture,Relationships,",Four Eyes Media
+ir,62,The Michael Knowles Show,1266577963,2020-10-28,News Commentary,"News,",The Daily Wire
+ir,63,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries
+ir,64,Empty Inside,1524250628,2021-02-24,Self-Improvement,"Education,Society & Culture,",Jennette McCurdy
+ir,65,The Glenn Beck Program,620967489,2020-10-27,News Commentary,"News,Politics,",Blaze Podcast Network
+ir,66,Get Sleepy: Sleep meditation and stories,1487513861,2020-10-28,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy
+ir,67,The Matt Walsh Show,1367210511,2021-01-06,News Commentary,"News,",The Daily Wire
+ir,68,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify
+ir,69,Mark Levin Podcast,209377688,2020-10-28,News Commentary,"News,",Westwood One Podcast Network
+ir,70,Huberman Lab,1545953110,2021-02-22,Health & Fitness,"Science,",Dr. Andrew Huberman
+ir,71,The Candace Owens Show,1454587745,2020-10-18,Education,,PragerU
+ir,72,TED Radio Hour,523121474,2020-10-23,Technology,"Science,Social Sciences,",NPR
+ir,73,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED
+ir,74,Motherhood Meets Medicine,1553782780,2021-03-03,Kids & Family,"Health & Fitness,Medicine,",Lynzy Coughlin
+ir,75,Earn Your Leisure,1450211392,2021-01-29,Business,,The Black Effect and iHeartRadio
+ir,76,I Spy,1482310665,2021-02-23,Society & Culture,"History,",Foreign Policy
+ir,77,American Scandal,1435516849,2021-02-16,History,"Society & Culture,Documentary,",Wondery
+ir,78,The Bible Recap,1440833267,2020-12-22,Christianity,"Religion & Spirituality,",D-Group
+ir,79,The Pat McAfee Show 2.0,1435183458,2020-11-03,Sports,,Pat McAfee
+ir,80,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah
+ir,81,Bridgerton: The Official Podcast,1551820452,2021-02-25,TV & Film,"Society & Culture,",Shondaland Audio & iHeartRadio
+ir,82,Radiolab,152249110,2020-11-02,Documentary,"Society & Culture,Science,Nature,",WNYC Studios
+ir,83,NPR News Now,121493675,2020-10-28,Daily News,"News,",NPR
+ir,84,UnF*ck Your Brain,1229434818,2021-02-04,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil
+ir,85,Ten Percent Happier with Dan Harris,1087147821,2020-10-28,Mental Health,"Health & Fitness,",ABC News
+ir,86,The Jeff Dunham Podcast,1555769971,2021-02-25,Comedy,"Leisure,",Jeff Dunham
+ir,87,Stuff You Missed in History Class,283605519,2020-10-28,History,"Society & Culture,",iHeartRadio
+ir,88,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo
+ir,89,WorkLife with Adam Grant,1346314086,2021-02-23,Management,"Business,",TED
+ir,90,Lex Fridman Podcast,1434243584,2021-01-18,Technology,"Science,",Lex Fridman
+ir,91,Sword and Scale,790487079,2020-10-26,True Crime,"Society & Culture,Documentary,",Incongruity
+ir,92,Coffee Convos Podcast with Kail Lowry & Lindsie Chrisley,1305546061,2021-02-25,Society & Culture,"Kids & Family,Parenting,",Kail Lowry & Lindsie Chrisley
+ir,93,Wow in the World,1233834541,2021-02-15,Stories for Kids,"Kids & Family,Education for Kids,",NPR
+ir,94,Short Wave,1482575855,2021-01-26,Life Sciences,"Science,Astronomy,",NPR
+ir,95,The Mindset Mentor,1033048640,2021-01-08,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media
+ir,96,The Experiment,1549704404,2021-01-25,Documentary,"Society & Culture,History,",The Atlantic and WNYC Studios
+ir,97,"The Doctor's Farmacy with Mark Hyman, M.D.",1382804627,2020-12-04,Medicine,"Health & Fitness,Nutrition,",Dr. Mark Hyman
+ir,98,Cold,1441595858,2021-03-03,True Crime,"Society & Culture,Documentary,",KSL Podcasts | Wondery
+ir,99,Even the Rich,1500477470,2020-10-27,Society & Culture,,Wondery
+ir,100,Throughline,1451109634,2020-10-22,History,,NPR
+ir,101,20/20,987967575,2021-01-02,News,,ABC News
+ir,102,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin
+ir,103,Cults,1286818575,2021-03-02,True Crime,"History,",Parcast Network
+ir,104,The Journal.,1469394914,2021-01-07,Daily News,"News,",The Wall Street Journal & Gimlet
+ir,105,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars
+ir,106,Tim Pool Daily Show,1362265400,2021-03-02,Politics,"News,",Tim Pool
+ir,107,Nice White Parents,1524080195,2020-08-20,Society & Culture,"Education,",Serial & The New York Times
+ir,108,The Indicator from Planet Money,1320118593,2021-01-19,Business,,NPR
+ir,109,Bannon's War Room,1485351658,2020-11-03,Politics,"News,",WarRoom.org
+ir,110,Global News Podcast,135067274,2020-10-28,News,,BBC World Service
+ir,111,Pivot,1073226719,2021-02-16,News Commentary,"News,Tech News,",New York Magazine
+ir,112,Lore,978052928,2020-10-26,History,"Society & Culture,",Aaron Mahnke and Grim & Mild
+ir,113,Allen v. Farrow Podcast,1554108046,2021-02-24,TV & Film,"Society & Culture,Documentary,",HBO
+ir,114,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia
+ir,115,Joel Osteen Podcast,137254859,2020-10-28,Christianity,"Religion & Spirituality,",Joel Osteen
+ir,116,Wait Wait... Don't Tell Me!,121493804,2020-10-31,Comedy,"Leisure,",NPR
+ir,117,WHOA That's Good Podcast,1433974017,2021-02-24,Christianity,"Religion & Spirituality,Business,",Sadie Robertson
+ir,118,Revolutions,703889772,2021-01-18,History,"Education,",Mike Duncan
+ir,119,The Herd with Colin Cowherd,1042368254,2020-10-29,Football,"Sports,Basketball,",iHeartRadio
+ir,120,Made For This with Jennie Allen,1466667116,2021-03-02,Christianity,"Religion & Spirituality,",Jennie Allen
+ir,121,Unashamed with Phil & Jase Robertson,1460147025,2020-10-26,Religion & Spirituality,,Unashamed with Phil & Jase Robertson
+ir,122,The School of Greatness,596047499,2021-02-17,Alternative Health,"Health & Fitness,Education,",Lewis Howes
+ir,123,The Investing for Beginners Podcast - Your Path to Financial Freedom,1210741497,2021-01-21,Investing,"Business,",Andrew Sather and Dave Ahern
+ir,124,Do No Harm,1537865727,2020-10-29,True Crime,"News,",Wondery | NBC News
+ir,125,WTOP’s American Nightmare Series,1461511691,2021-03-01,True Crime,,WTOP | Hubbard Radio
+ir,126,Stuff They Don't Want You To Know,732915228,2021-03-03,Society & Culture,,iHeartRadio
+ir,127,The Food That Built America,1551644089,2021-02-04,History,"Society & Culture,Documentary,",The HISTORY Channel & OZY
+ir,128,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries
+ir,129,Marketplace,201853034,2021-01-19,Business News,"News,",Marketplace
+ir,130,Nothing much happens; bedtime stories to help you sleep,1378040733,2021-02-22,Alternative Health,"Health & Fitness,Mental Health,",Curiouscast
+ir,131,Verdict with Ted Cruz,1495601614,2021-02-12,Politics,"News,Daily News,",Ted Cruz
+ir,132,REAL AF with Andy Frisella,1012570406,2020-11-17,Business,,Andy Frisella #100to0
+ir,133,The Vanished Podcast,1081124929,2020-10-26,True Crime,"News,",Wondery
+ir,134,Mad Money w/ Jim Cramer,147247199,2021-02-25,Investing,"Business,News,",CNBC
+ir,135,Up and Vanished,1140596919,2020-10-15,True Crime,"Society & Culture,Personal Journals,",Tenderfoot TV
+ir,136,Motive for Murder,1510365500,2021-02-16,True Crime,"Society & Culture,",NBC News
+ir,137,Serendipity With Inky Johnson,1553377190,2021-03-01,Self-Improvement,"Education,Sports,",The Resonance Network
+ir,138,Crime Stories with Nancy Grace,1193068130,2021-02-19,True Crime,"News,",Crime Online & iHeartRadio
+ir,139,Code Switch,1112190608,2020-10-28,News,"Society & Culture,",NPR
+ir,140,Conspiracy Theories,1337195586,2020-11-04,History,"True Crime,",Parcast Network
+ir,141,In the Dark,1148175292,2020-10-14,News,,APM Reports
+ir,142,Motley Fool Money,306106212,2021-01-22,Investing,"Business,News,Business News,",The Motley Fool
+ir,143,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2021-03-04,Mental Health,"Health & Fitness,",Dr. Caroline Leaf
+ir,144,The Steam Room,1490924360,2021-03-05,Basketball,"Sports,",Turner Sports
+nz,1,Against The Odds,1553335461,2021-02-11,Society & Culture,"History,",Wondery
+nz,2,RNZ: The Detail,1459959514,2020-10-28,News,,RNZ
+nz,3,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News
+nz,4,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck
+nz,5,Collapse,1550688418,2021-02-11,History,,Stuff
+nz,6,"Fletch, Vaughan & Megan on ZM",1231214743,2020-10-27,Comedy,"Music,",ZM
+nz,7,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times
+nz,8,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio
+nz,9,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media
+nz,10,Living your best life Podcast,1503645220,2021-03-03,Society & Culture,,livingyourbestlifewithabbeanderin
+nz,11,Grounded with Louis Theroux,1508985962,2020-06-29,Personal Journals,"Society & Culture,",BBC Radio 4
+nz,12,Jase & PJ,1332566161,2020-10-28,Comedy,"Music,",iHeartRadio Australia & KIIS
+nz,13,RNZ: Fragments,1553386057,2021-02-21,Society & Culture,,RNZ
+nz,14,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries
+nz,15,No Such Thing As A Fish,840986946,2020-10-23,Comedy,,No Such Thing As A Fish
+nz,16,Hamish & Andy,213334232,2020-10-28,Comedy,,PodcastOne Australia
+nz,17,RNZ: NZ Wars: Stories of Tainui,1553423837,2021-02-12,History,,RNZ
+nz,18,You're Dead To Me,1479973402,2020-10-09,History,"Comedy,",BBC Radio 4
+nz,19,Sideways,1552027709,2021-02-24,Podcasts,,BBC Radio 4
+nz,20,TED Talks Daily,160904630,2020-10-28,Education,"Society & Culture,",TED
+nz,21,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2020-10-28,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author
+nz,22,Off Menu with Ed Gamble and James Acaster,1442950743,2020-10-28,Comedy Interviews,"Comedy,",Plosive Productions
+nz,23,Taringa Podcast,1258471951,2020-10-24,Language Learning,"Education,",Te Wānanga o Aotearoa
+nz,24,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig"
+nz,25,The Baseline Podcast,1544276107,2021-03-02,Basketball,"Sports,","Stevie Cozens, Josh Jeffares"
+nz,26,The Teacher's Pet,1385379989,2020-08-23,News,"Society & Culture,",The Australian
+nz,27,Skincare School,1552975779,2021-02-24,Fashion & Beauty,"Arts,",Adore Beauty
+nz,28,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network
+nz,29,The Girls Uninterrupted,1505689225,2020-10-27,Personal Journals,"Society & Culture,Arts,Fashion & Beauty,","Brodie Kane, Caitlin Marrett, Gracie Taylor"
+nz,30,This is Paris,1552058389,2021-02-25,Society & Culture,,iHeartRadio & Paris Hilton
+nz,31,Today in Focus,1440133626,2020-10-28,Daily News,"News,",The Guardian
+nz,32,She's On The Money,1468033698,2020-10-27,Business,,Victoria Devine
+nz,33,The Property Academy Podcast,1481465172,2020-10-28,Investing,"Business,",Opes Partners
+nz,34,Global News Podcast,135067274,2021-03-06,News,,BBC World Service
+nz,35,The Mike Hosking Breakfast,1229518712,2021-01-18,News,,Newstalk ZB
+nz,36,RNZ: Nine To Noon,174829950,2020-10-27,News,,RNZ
+nz,37,Huberman Lab,1545953110,2021-01-04,Health & Fitness,"Education,",Dr. Andrew Huberman
+nz,38,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah
+nz,39,RNZ: Morning Report,208011837,2020-10-29,News,,RNZ
+nz,40,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life
+nz,41,Dirty John,1272970334,2018-11-21,Documentary,"Society & Culture,News,",Los Angeles Times | Wondery
+nz,42,Cooking the Books with Frances Cook,1247311946,2020-10-27,Investing,"Business,",Newstalk ZB and NZ Herald
+nz,43,RNZ: The Aotearoa History Show,1491701052,2019-11-07,History,,RNZ
+nz,44,How To Fail With Elizabeth Day,1407451189,2020-12-02,Books,"Arts,",howtofail
+nz,45,The Leighton Smith Podcast,1445358795,2020-10-27,News,,Newstalk ZB
+nz,46,The Planty Podie,1539353861,2021-02-22,Nutrition,"Health & Fitness,Alternative Health,",Chloe Garnham
+nz,47,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars
+nz,48,The Rise & Conquer Podcast,1451864362,2020-12-14,Health & Fitness,"Education,Self-Improvement,",Georgie Stevenson
+nz,49,In Our Time,73330895,2020-10-22,History,,BBC Radio 4
+nz,50,The Documentary Podcast,73802620,2020-10-27,History,"News,Society & Culture,",BBC World Service
+nz,51,American Scandal,1435516849,2021-02-16,History,"Society & Culture,Documentary,",Wondery
+nz,52,Fast Pace with Josh Phegan and Dean Mackie,1554782191,2021-02-25,Business,"Technology,","Josh Phegan - Real Estate Trainer, speaker, coach."
+nz,53,Happy Place,1353058891,2021-02-22,Mental Health,"Health & Fitness,Alternative Health,",Fearne Cotton
+nz,54,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris
+nz,55,The Pop Test – A comedy science quiz,1550543719,2021-02-19,Comedy,"Science,",ABC Radio
+nz,56,The Jordan B. Peterson Podcast,1184022695,2020-11-29,Education,"Science,",Dr. Jordan B. Peterson
+nz,57,The School of Greatness,596047499,2021-01-01,Alternative Health,"Health & Fitness,Education,",Lewis Howes
+nz,58,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain
+nz,59,The Ben Shapiro Show,1047335260,2021-01-01,News,,The Daily Wire
+nz,60,Dateline NBC,1464919521,2020-10-29,True Crime,"News,",NBC News
+nz,61,THE ADAM BUXTON PODCAST,1040481893,2020-10-25,Comedy,,ADAM BUXTON
+nz,62,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman
+nz,63,Delicious Ways to Feel Better,1428704212,2021-01-12,Nutrition,"Health & Fitness,Society & Culture,",Deliciously Ella
+nz,64,The Infinite Monkey Cage,343580439,2020-08-26,Science,"Technology,",BBC Radio 4
+nz,65,"Dom, Meg & Randell Catchup Podcast - The Edge",286123041,2021-03-04,Comedy,"Music,",rova | The Edge
+nz,66,Conversations,94688506,2020-10-28,Relationships,"Society & Culture,",ABC Radio
+nz,67,Super Creative,1531981810,2021-03-02,Marketing,"Business,",Somewhere Creative  | Catie Dawson
+nz,68,Economist Radio,151230264,2020-10-28,News,,The Economist
+nz,69,Heaven Bent,1513489117,2021-03-01,History,"Society & Culture,Documentary,",Tara Jean Stevens / Frequency Podcast Network
+nz,70,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News
+nz,71,Starting In Te Reo Maori Podcast,1466184341,2020-12-19,Arts,"Education,",Grant Whitbourne
+nz,72,Do You F*****g Mind?,1502954097,2021-01-02,Health & Fitness,,Alexis Fernandez
+nz,73,Red Collar,1541330058,2021-01-19,True Crime,,audiochuck
+nz,74,Desert Island Discs,342735925,2020-10-25,Personal Journals,"Society & Culture,",BBC Radio 4
+nz,75,History Extra podcast,256580326,2020-10-28,History,"Society & Culture,",Immediate Media
+nz,76,Mamamia Out Loud,928350893,2021-01-18,Society & Culture,,Mamamia Podcasts
+nz,77,Not Another Parenting Podcast,1553002053,2021-03-02,Kids & Family,,Nova Podcasts
+nz,78,BLACK HANDS - A family mass murder,1259053911,2020-04-06,Documentary,"Society & Culture,News,",Stuff
+nz,79,The Rachel Maddow Show,294055449,2020-10-28,Daily News,"News,","Rachel Maddow, MSNBC"
+nz,80,The Mindset Mentor,1033048640,2020-12-10,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media
+nz,81,RNZ: Saturday Morning,175135787,2020-10-24,Society & Culture,,RNZ
+nz,82,Rabbit Hole,1507423923,2020-06-04,Technology,"Society & Culture,",The New York Times
+nz,83,Can I Steal You For a Second?,1495750942,2021-03-03,After Shows,"TV & Film,TV Reviews,",ZM
+nz,84,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher
+nz,85,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin
+nz,86,Serial Killers,1205030005,2020-10-29,True Crime,"History,",Parcast Network
+nz,87,Respectful Parenting: Janet Lansbury Unruffled,1030050704,2020-12-16,Kids & Family,,JLML Press
+nz,88,Fortunately... with Fi and Jane,1220808096,2020-11-27,Comedy,,BBC Radio 4
+nz,89,The Self-Love Club®,1438816586,2021-02-28,Relationships,"Society & Culture,Health & Fitness,Mental Health,",Bel Crawford
+nz,90,The Opportunist,1551162705,2021-02-16,True Crime,,Kast Media
+nz,91,The Nurse,1533629268,2021-02-15,True Crime,"News,Politics,",Camille Bianchi
+nz,92,Business Wars,1335814741,2020-12-02,Management,"Business,History,",Wondery
+nz,93,Friday Night Comedy from BBC Radio 4,265307784,2020-10-23,Comedy,,BBC Radio 4
+nz,94,UnF*ck Your Brain,1229434818,2020-10-23,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil
+nz,95,The Real Pod,978187550,2021-03-04,Society & Culture,"Comedy,",The Spinoff
+nz,96,Brett Finch Uncensored,1533612473,2021-03-03,Rugby,"Sports,Cricket,",Brett Finch
+nz,97,Even the Rich,1500477470,2021-03-02,Society & Culture,,Wondery
+nz,98,The Morning Rumble Catchup Podcast,380627890,2021-03-04,Comedy,"Music,",rova | The Rock
+nz,99,Heather du Plessis-Allan Drive,1228993643,2021-02-20,News,,Newstalk ZB
+nz,100,NZ Everyday Investor,1405950854,2020-10-25,Investing,"Business,Education,Self-Improvement,",Podcasts NZ / WorldPodcasts.com / Gorilla Voice Media
+nz,101,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries
+nz,102,Office Ladies,1480311435,2021-01-20,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey
+nz,103,Business Is Boring,1118188207,2021-03-03,Entrepreneurship,"Business,",The Spinoff
+nz,104,Get Sleepy: Sleep meditation and stories,1487513861,2020-12-02,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy
+nz,105,Beauty IQ Uncensored,1478211900,2021-02-16,Fashion & Beauty,"Arts,",Adore Beauty
+nz,106,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR
+nz,107,Australian True Crime,1217681421,2020-10-25,True Crime,"Society & Culture,",Meshel Laurie
+nz,108,The Country,1305527677,2021-02-24,News,,NZME
+nz,109,Everyday Māori,1506906961,2020-08-11,Language Learning,"Education,",Hēmi Kelly
+nz,110,Ten Percent Happier with Dan Harris,1087147821,2020-11-20,Mental Health,"Health & Fitness,",ABC News
+nz,111,Unsolved Mysteries,1549903604,2021-02-17,True Crime,"Society & Culture,Documentary,","Cosgrove Meurer Productions, Inc. + Cadence13"
+nz,112,RNZ: Black Sheep,1163907594,2020-08-30,History,,RNZ
+nz,113,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2021-02-22,Mental Health,"Health & Fitness,",Dr. Caroline Leaf
+nz,114,Dolly Parton's America,1481398762,2019-12-31,Music History,"Music,Society & Culture,Documentary,",WNYC Studios & OSM Audio
+nz,115,The Rich Roll Podcast,582272991,2020-11-16,Self-Improvement,"Education,Health & Fitness,",Rich Roll
+nz,116,The Moth,275699983,2020-10-27,Performing Arts,"Arts,",The Moth
+nz,117,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia
+nz,118,BROKEN: Seeking Justice,1478460758,2021-01-12,History,"News,",Three Uncanny Four/HyperObject Industries
+nz,119,Football Weekly,188674007,2020-10-26,Football,"Sports,",The Guardian
+nz,120,Fresh Air,214089682,2021-02-26,Books,"Arts,TV & Film,",NPR
+nz,121,A Moment In Crime,1479924698,2021-01-16,True Crime,,NZME
+nz,122,RNZ: Checkpoint,444665343,2021-03-05,News,,RNZ
+nz,123,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries
+nz,124,The Guardian's Audio Long Reads,587347784,2020-10-28,Society & Culture,,The Guardian
+nz,125,BibleProject,1050832450,2021-02-22,Christianity,"Religion & Spirituality,",BibleProject
+nz,126,The Gargle,1552687312,2021-03-02,Stand-Up Comedy,"Comedy,News,News Commentary,",The Bugle
+nz,127,Truth and Lies: Jeffrey Epstein,1492759205,2021-03-01,True Crime,,ABC News
+nz,128,That Peter Crouch Podcast,1436030381,2021-03-03,Sports,,BBC Radio 5 live
+nz,129,Slo Mo: A Podcast with Mo Gawdat,1508914142,2021-03-03,Mental Health,"Health & Fitness,Education,Self-Improvement,",Mo Gawdat
+nz,130,Comedy of the Week,412151541,2021-03-01,Comedy,,BBC Radio 4
