@@ -1,0 +1,1064 @@
+country,rank,name,id,releaseDate,Primary_Genre,Other_Genre,Artist,FeedURL
+us,1,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/mommy-doomsday
+us,2,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL9840290619
+us,3,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times,https://feeds.simplecast.com/54nAGcIl
+us,4,Dateline NBC,1464919521,2020-10-28,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/dateline-nbc
+us,5,The Ben Shapiro Show,1047335260,2020-10-27,News,,The Daily Wire,https://feeds.megaphone.fm/WWO8086402096
+us,6,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2020-12-14,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation,https://feeds.fireside.fm/bibleinayear/rss
+us,7,Unsolved Mysteries,1549903604,2021-02-17,True Crime,"Society & Culture,Documentary,","Cosgrove Meurer Productions, Inc. + Cadence13",https://feeds.megaphone.fm/unsolved-mysteries
+us,8,Up First,1222114325,2020-10-28,Daily News,"News,",NPR,https://feeds.npr.org/510318/podcast.xml
+us,9,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio,https://feeds.megaphone.fm/HSW2031154223
+us,10,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery,https://rss.art19.com/against-the-odds
+us,11,Human Hope with Carlos Whittaker,1249486443,2021-03-04,Personal Journals,"Society & Culture,",That Sounds Fun Network,https://anchor.fm/s/3d4a3c0/podcast/rss
+us,12,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stuffyoushouldknow
+us,13,The Dave Ramsey Show,77001367,2020-10-27,Investing,"Business,Education,Self-Improvement,",Ramsey Network,https://daveramsey.libsyn.com/rss
+us,14,La Brega,1553089886,2021-02-24,Society & Culture,,WNYC Studios and Futuro Studios,http://feeds.wnyc.org/la-brega
+us,15,Office Ladies,1480311435,2020-10-28,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/514362cf-31b4-4ed2-af40-aae301805ffd/podcast.rss
+us,16,The Office Deep Dive with Brian Baumgartner,1550331348,2021-02-09,TV & Film,"Society & Culture,Comedy,",iHeartRadio,https://feeds.megaphone.fm/HSW4507899119
+us,17,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News,https://feeds.megaphone.fm/ESP8551283217
+us,18,The Ezra Klein Show,1548604447,2021-01-13,Society & Culture,"News,",New York Times Opinion,https://feeds.simplecast.com/82FI35Px
+us,19,Anatomy of Murder,1532894981,2020-10-28,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL2798563682
+us,20,The Dan Le Batard Show with Stugotz,934820588,2021-02-16,Sports,,"Dan Le Batard, Stugotz",https://feeds.megaphone.fm/ESP2298543312
+us,21,The Dan Bongino Show,965293227,2020-10-28,News Commentary,"News,",Westwood One Podcast Network / Dan Bongino,https://feeds.megaphone.fm/WWO3519750118
+us,22,Serial,917918570,2020-08-20,News,"True Crime,",This American Life,https://feeds.simplecast.com/xl36XBC2
+us,23,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life,http://feed.thisamericanlife.org/talpodcast
+us,24,Embedded,1091709555,2021-02-25,News Commentary,"News,Society & Culture,Documentary,",NPR,https://feeds.npr.org/510311/podcast.xml
+us,25,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network,https://feeds.megaphone.fm/unlocking-us
+us,26,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss
+us,27,This is Paris,1552058389,2021-02-22,Society & Culture,,iHeartRadio & Paris Hilton,https://feeds.megaphone.fm/HSW2082099215
+us,28,Fresh Air,214089682,2020-10-27,Books,"Arts,TV & Film,",NPR,https://feeds.npr.org/381444908/podcast.xml
+us,29,The Opportunist,1551162705,2021-02-16,True Crime,,Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/6ed483d8-0973-449e-a168-acbe00f6edfa/e58246bc-fa9f-488c-ba9e-acbe00f8270e/podcast.rss
+us,30,Red Collar,1541330058,2020-12-01,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL4201344942
+us,31,Consider This from NPR,1503226625,2020-10-27,Daily News,"News,News Commentary,",NPR,https://feeds.npr.org/510355/podcast.xml
+us,32,On Purpose with Jay Shetty,1450994021,2020-11-02,Health & Fitness,"Business,",Jay Shetty and Kast Media,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ff4ff6bb-916d-4c78-ad23-ac8d017d4c2d/7c990ede-a998-4804-957e-ac8d017d4c45/podcast.rss
+us,33,Supernatural with Ashley Flowers,1500667648,2020-11-04,Society & Culture,"True Crime,",Parcast Network,https://feeds.megaphone.fm/supernatural
+us,34,Sal and Chris Present: Hey Babe!,1542475843,2021-01-21,Comedy Interviews,"Comedy,",No Presh Network,https://feed.podbean.com/nopreshnetwork/feed.xml
+us,35,Planet Money,290783428,2020-10-23,Business,"News,",NPR,https://feeds.npr.org/510289/podcast.xml
+us,36,Serial Killers,1205030005,2020-11-02,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END1032105222
+us,37,The Rachel Maddow Show,294055449,2020-11-03,Daily News,"News,","Rachel Maddow, MSNBC",https://podcastfeeds.nbcnews.com/msnbc-rachel-maddow
+us,38,Tom Talks,1543456877,2021-03-04,Comedy,"TV & Film,",YMH Studios,https://tomtalkspodcast.libsyn.com/rss
+us,39,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/cautionarytales
+us,40,The NPR Politics Podcast,1057255460,2020-10-27,Politics,"News,Daily News,",NPR,https://feeds.npr.org/510310/podcast.xml
+us,41,I AM Athlete Podcast,1537836233,2021-02-19,Sports,,"Brandon Marshall, Chad Johnson, Fred Taylor, Channing Crowder",https://feeds.buzzsprout.com/1447516.rss
+us,42,Unsolved Murders: True Crime Stories,1122804248,2020-10-27,True Crime,"Society & Culture,",Parcast Network,https://feeds.megaphone.fm/END8394789342
+us,43,Sway,1528594034,2020-10-26,Society & Culture,,New York Times Opinion,https://feeds.simplecast.com/l2i9YnTd
+us,44,Double Date with Marlo Thomas & Phil Donahue,1547645093,2021-03-03,Relationships,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/doubledate
+us,45,Louder with Crowder,929121341,2020-10-26,News,,Blaze Podcast Network,https://feeds.megaphone.fm/BMDC5089297303
+us,46,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-10-28,Comedy,"News,Daily News,",iHeartRadio & Comedy Central,https://feeds.megaphone.fm/the-daily-show
+us,47,2 Bears 1 Cave with Tom Segura & Bert Kreischer,1468013270,2020-10-26,Comedy,,YMH Studios,https://2bears1cave.libsyn.com/rss
+us,48,The Breakfast Club,1232428553,2020-11-03,Comedy,,iHeartRadio,https://feeds.megaphone.fm/the-breakfast-club
+us,49,The Charlie Kirk Show,1460600818,2020-10-28,News,"Society & Culture,",PodcastOne,https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/c865b590-c84f-4f7e-a43e-ac64014b61d9/8978e846-cacd-4d65-b085-ac64014cd49f/podcast.rss
+us,50,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig",https://rss.art19.com/tim-ferriss-show
+us,51,Nurture vs Nurture with Dr. Wendy Mogel,1549814799,2021-02-16,Kids & Family,"Society & Culture,",Armchair Umbrella,https://feeds.simplecast.com/KUFNuLM3
+us,52,Adam Carolla Show,306390087,2020-10-28,Comedy,,PodcastOne / Carolla Digital,http://feeds.feedburner.com/TheAdamCarollaPodcast
+us,53,The Thing About Pam,1479234915,2019-09-27,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/jDT1YfkK
+us,54,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss
+us,55,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR,https://feeds.npr.org/510313/podcast.xml
+us,56,True Crime Obsessed,1232009882,2020-11-03,True Crime,"Society & Culture,",Obsessed Network,https://audioboom.com/channels/4929680.rss
+us,57,The Moth,275699983,2020-11-03,Performing Arts,"Arts,",The Moth,http://feeds.feedburner.com/themothpodcast
+us,58,BiggerPockets Real Estate Podcast,594419649,2020-10-25,Investing,"Business,Education,",BiggerPockets,https://rss.art19.com/biggerpockets-real-estate-podcast
+us,59,The Jordan B. Peterson Podcast,1184022695,2020-11-01,Education,"Science,",Dr. Jordan B. Peterson,https://jordanbpetersonpodcast.libsyn.com/rss
+us,60,The Way I Heard It with Mike Rowe,1087110764,2020-10-27,Society & Culture,"History,",Mike Rowe,http://thewayiheardit.rsvmedia.com/rss/
+us,61,The Simplified Podcast with Emily Ley,1553793022,2021-03-04,Personal Journals,"Society & Culture,Relationships,",Four Eyes Media,https://simplifiedpodcast.libsyn.com/rss
+us,62,The Michael Knowles Show,1266577963,2020-11-04,News Commentary,"News,",The Daily Wire,https://feeds.megaphone.fm/WWO6807941907
+us,63,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries,https://feeds.megaphone.fm/revisionisthistory
+us,64,Empty Inside,1524250628,2021-02-24,Self-Improvement,"Education,Society & Culture,",Jennette McCurdy,https://jennettemccurdy.libsyn.com/rss
+us,65,The Glenn Beck Program,620967489,2020-10-27,News Commentary,"News,Politics,",Blaze Podcast Network,https://feeds.megaphone.fm/BMDC3567910388
+us,66,Get Sleepy: Sleep meditation and stories,1487513861,2020-10-28,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy,https://feeds.simplecast.com/IXxBBvKz
+us,67,The Matt Walsh Show,1367210511,2021-01-06,News Commentary,"News,",The Daily Wire,https://feeds.megaphone.fm/WWO9088095423
+us,68,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify,https://feeds.megaphone.fm/tmopwide
+us,69,Mark Levin Podcast,209377688,2020-11-04,News Commentary,"News,",Westwood One Podcast Network,https://feeds.megaphone.fm/mark-levin-podcast
+us,70,Huberman Lab,1545953110,2021-02-22,Health & Fitness,"Science,",Dr. Andrew Huberman,https://hubermanlab.libsyn.com/rss
+us,71,The Candace Owens Show,1454587745,2020-10-18,Education,,PragerU,http://feeds.soundcloud.com/users/soundcloud:users:593344158/sounds.rss
+us,72,TED Radio Hour,523121474,2020-10-23,Technology,"Science,Social Sciences,",NPR,https://feeds.npr.org/510298/podcast.xml
+us,73,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED,http://feeds.feedburner.com/TEDTalks_audio
+us,74,Motherhood Meets Medicine,1553782780,2021-03-03,Kids & Family,"Health & Fitness,Medicine,",Lynzy Coughlin,https://motherhoodmeetsmedicine.libsyn.com/rss
+us,75,Earn Your Leisure,1450211392,2021-01-29,Business,,The Black Effect and iHeartRadio,https://feeds.megaphone.fm/HSW2710456421
+us,76,I Spy,1482310665,2021-02-23,Society & Culture,"History,",Foreign Policy,https://feeds.megaphone.fm/i-spy-foreign-policy
+us,77,American Scandal,1435516849,2020-10-27,History,"Society & Culture,Documentary,",Wondery,https://rss.art19.com/american-scandal
+us,78,The Bible Recap,1440833267,2020-12-22,Christianity,"Religion & Spirituality,",D-Group,https://thebiblerecap.podbean.com/feed.xml
+us,79,The Pat McAfee Show 2.0,1435183458,2020-10-29,Sports,,Pat McAfee,https://feeds.simplecast.com/FtKDGmxb
+us,80,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/39ae2ce1-bc6d-4760-b0dc-ab050182ffa7/b4420a1c-dab1-4d11-bf04-ab050182ffe0/podcast.rss
+us,81,Bridgerton: The Official Podcast,1551820452,2021-02-25,TV & Film,"Society & Culture,",Shondaland Audio & iHeartRadio,https://feeds.megaphone.fm/HSW3113308719
+us,82,Radiolab,152249110,2020-10-23,Documentary,"Society & Culture,Science,Nature,",WNYC Studios,http://feeds.wnyc.org/radiolab
+us,83,NPR News Now,121493675,2020-11-04,Daily News,"News,",NPR,https://feeds.npr.org/500005/podcast.xml
+us,84,UnF*ck Your Brain,1229434818,2021-02-04,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil,https://lawyerstresssolution.libsyn.com/rss
+us,85,Ten Percent Happier with Dan Harris,1087147821,2020-10-28,Mental Health,"Health & Fitness,",ABC News,https://feeds.megaphone.fm/ESP3510913812
+us,86,The Jeff Dunham Podcast,1555769971,2021-02-25,Comedy,"Leisure,",Jeff Dunham,https://jeffdunham.libsyn.com/rss
+us,87,Stuff You Missed in History Class,283605519,2020-11-02,History,"Society & Culture,",iHeartRadio,https://feeds.megaphone.fm/stuffyoumissedinhistoryclass
+us,88,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo,http://spanishpodcast.duolingo.libsynpro.com/rss
+us,89,WorkLife with Adam Grant,1346314086,2021-02-23,Management,"Business,",TED,https://feeds.feedburner.com/WorklifeWithAdamGrant
+us,90,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman,https://lexfridman.com/feed/podcast/
+us,91,Sword and Scale,790487079,2020-10-26,True Crime,"Society & Culture,Documentary,",Incongruity,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/8caf5963-644f-4ccd-94f6-acb5003641f5/d5f2436e-2a50-4633-8f85-acb5003641fe/podcast.rss
+us,92,Coffee Convos Podcast with Kail Lowry & Lindsie Chrisley,1305546061,2021-02-25,Society & Culture,"Kids & Family,Parenting,",Kail Lowry & Lindsie Chrisley,https://audioboom.com/channels/5025221.rss
+us,93,Wow in the World,1233834541,2021-01-18,Stories for Kids,"Kids & Family,Education for Kids,",NPR,https://feeds.npr.org/510321/podcast.xml
+us,94,Short Wave,1482575855,2021-01-26,Life Sciences,"Science,Astronomy,",NPR,https://feeds.npr.org/510351/podcast.xml
+us,95,The Mindset Mentor,1033048640,2021-01-08,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/5cd7413c-b341-493f-bf46-acb500364141/6b2540d4-e0b2-42f7-a61a-acb50036415a/podcast.rss
+us,96,The Experiment,1549704404,2021-01-25,Documentary,"Society & Culture,History,",The Atlantic and WNYC Studios,http://feeds.wnyc.org/experiment_podcast
+us,97,"The Doctor's Farmacy with Mark Hyman, M.D.",1382804627,2020-12-04,Medicine,"Health & Fitness,Nutrition,",Dr. Mark Hyman,https://feed.pippa.io/public/shows/5aecaca3a15c2dd12887881a
+us,98,Cold,1441595858,2021-03-03,True Crime,"Society & Culture,Documentary,",KSL Podcasts | Wondery,https://rss.art19.com/cold
+us,99,Even the Rich,1500477470,2020-10-27,Society & Culture,,Wondery,https://rss.art19.com/even-the-rich
+us,100,Throughline,1451109634,2020-10-22,History,,NPR,https://feeds.npr.org/510333/podcast.xml
+us,101,20/20,987967575,2020-11-22,News,,ABC News,https://feeds.megaphone.fm/ESP3456903052
+us,102,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin,http://feeds.feedburner.com/dancarlin/history?format=xml
+us,103,Cults,1286818575,2021-03-02,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END8327072399
+us,104,The Journal.,1469394914,2021-01-07,Daily News,"News,",The Wall Street Journal & Gimlet,https://video-api.wsj.com/podcast/rss/wsj/the-journal
+us,105,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars,https://feeds.99percentinvisible.org/99percentinvisible
+us,106,Tim Pool Daily Show,1362265400,2021-03-02,Politics,"News,",Tim Pool,https://feeds.buzzsprout.com/164767.rss
+us,107,Nice White Parents,1524080195,2020-08-20,Society & Culture,"Education,",Serial & The New York Times,https://feeds.simplecast.com/Z4wHC1c2
+us,108,The Indicator from Planet Money,1320118593,2021-01-19,Business,,NPR,https://feeds.npr.org/510325/podcast.xml
+us,109,Bannon's War Room,1485351658,2020-10-27,Politics,"News,",WarRoom.org,https://feed.podbean.com/listen.warroom.org/feed.xml
+us,110,Global News Podcast,135067274,2020-11-04,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+us,111,Pivot,1073226719,2021-02-16,News Commentary,"News,Tech News,",New York Magazine,https://feeds.megaphone.fm/pivot
+us,112,Lore,978052928,2020-10-26,History,"Society & Culture,",Aaron Mahnke and Grim & Mild,https://feeds.megaphone.fm/lore
+us,113,Allen v. Farrow Podcast,1554108046,2021-02-24,TV & Film,"Society & Culture,Documentary,",HBO,https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/a3aca008-52d2-416b-b0e8-acd10173c6d8/247612ac-1916-45c2-a617-acd10178057c/podcast.rss
+us,114,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia,https://feeds.thisiscriminal.com/CriminalShow
+us,115,Joel Osteen Podcast,137254859,2020-10-28,Christianity,"Religion & Spirituality,",Joel Osteen,https://feeds.megaphone.fm/HSW9490884322
+us,116,Wait Wait... Don't Tell Me!,121493804,2020-10-24,Comedy,"Leisure,",NPR,https://feeds.npr.org/344098539/podcast.xml
+us,117,WHOA That's Good Podcast,1433974017,2020-10-28,Christianity,"Religion & Spirituality,Business,",Sadie Robertson,https://feeds.megaphone.fm/LEW1514366617
+us,118,Revolutions,703889772,2020-12-25,History,"Education,",Mike Duncan,https://revolutionspodcast.libsyn.com/rss
+us,119,The Herd with Colin Cowherd,1042368254,2021-02-17,Football,"Sports,Basketball,",iHeartRadio,https://feeds.megaphone.fm/the-herd-with-colin-cowherd
+us,120,Made For This with Jennie Allen,1466667116,2021-03-02,Christianity,"Religion & Spirituality,",Jennie Allen,https://www.spreaker.com/show/3553112/episodes/feed
+us,121,Unashamed with Phil & Jase Robertson,1460147025,2020-10-26,Religion & Spirituality,,Unashamed with Phil & Jase Robertson,https://feeds.megaphone.fm/BMDC9083048104
+us,122,The School of Greatness,596047499,2021-02-17,Alternative Health,"Health & Fitness,Education,",Lewis Howes,https://rss.art19.com/the-school-of-greatness
+us,123,The Investing for Beginners Podcast - Your Path to Financial Freedom,1210741497,2021-01-07,Investing,"Business,",Andrew Sather and Dave Ahern,https://einvestingforbeginners.com/feed/podcast/
+us,124,Do No Harm,1537865727,2021-02-16,True Crime,"News,",Wondery | NBC News,https://rss.art19.com/do-no-harm
+us,125,WTOP’s American Nightmare Series,1461511691,2021-03-01,True Crime,,WTOP | Hubbard Radio,http://feeds.hubbardpodcasts.com/22HoursAnAmericanNightmare
+us,126,Stuff They Don't Want You To Know,732915228,2021-02-12,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stufftheydontwantyoutoknow
+us,127,The Food That Built America,1551644089,2021-02-04,History,"Society & Culture,Documentary,",The HISTORY Channel & OZY,https://rss.acast.com/the-food-that-built-america
+us,128,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries,https://feeds.megaphone.fm/happinesslab
+us,129,Marketplace,201853034,2021-03-03,Business News,"News,",Marketplace,https://www.marketplace.org/feed/podcast/marketplace
+us,130,Nothing much happens; bedtime stories to help you sleep,1378040733,2021-02-22,Alternative Health,"Health & Fitness,Mental Health,",Curiouscast,https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/4612b138-198c-44ef-98f3-a9ad00f61592/b2da9d89-f255-4593-8de7-a9ad00f6159c/podcast.rss
+us,131,Verdict with Ted Cruz,1495601614,2020-10-28,Politics,"News,Daily News,",Ted Cruz,https://feeds.megaphone.fm/TCZ9660009509
+us,132,REAL AF with Andy Frisella,1012570406,2021-01-23,Business,,Andy Frisella #100to0,https://mfceoproject.libsyn.com/rss2
+us,133,The Vanished Podcast,1081124929,2020-10-26,True Crime,"News,",Wondery,https://rss.art19.com/the-vanished-podcast-wondery
+us,134,Mad Money w/ Jim Cramer,147247199,2021-02-25,Investing,"Business,News,",CNBC,https://feeds.simplecast.com/TkQfZXMD
+us,135,Up and Vanished,1140596919,2020-10-15,True Crime,"Society & Culture,Personal Journals,",Tenderfoot TV,https://feeds.megaphone.fm/up-and-vanished
+us,136,Motive for Murder,1510365500,2021-02-16,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/motive-for-murder
+us,137,Serendipity With Inky Johnson,1553377190,2021-03-01,Self-Improvement,"Education,Sports,",The Resonance Network,https://serendipitywithinkyjohnson.libsyn.com/rss
+us,138,Crime Stories with Nancy Grace,1193068130,2021-02-19,True Crime,"News,",Crime Online & iHeartRadio,https://rss.art19.com/crime-stories-with-nancy-grace
+us,139,Code Switch,1112190608,2020-10-28,News,"Society & Culture,",NPR,https://feeds.npr.org/510312/podcast.xml
+us,140,Conspiracy Theories,1337195586,2020-10-28,History,"True Crime,",Parcast Network,https://feeds.megaphone.fm/END5064265457
+us,141,In the Dark,1148175292,2020-10-14,News,,APM Reports,https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
+us,142,Motley Fool Money,306106212,2021-01-22,Investing,"Business,News,Business News,",The Motley Fool,https://fool.libsyn.com/rss
+us,143,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2021-03-04,Mental Health,"Health & Fitness,",Dr. Caroline Leaf,https://anchor.fm/s/236705fc/podcast/rss
+us,144,The Steam Room,1490924360,2021-03-05,Basketball,"Sports,",Turner Sports,https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/29d5becb-197f-49e8-ada6-ab86002e76bb/f54282a3-7df0-44c7-a146-ab86002e76bb/podcast.rss
+za,1,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ff4ff6bb-916d-4c78-ad23-ac8d017d4c2d/7c990ede-a998-4804-957e-ac8d017d4c45/podcast.rss
+za,2,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED,http://feeds.feedburner.com/TEDTalks_audio
+za,3,Ampd Studios Creative Industry Podcast with Nasty C,1525254543,2021-02-25,Entrepreneurship,"Business,",AMPD STUDIOS by Old Mutual,https://anchor.fm/s/2de58814/podcast/rss
+za,4,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/39ae2ce1-bc6d-4760-b0dc-ab050182ffa7/b4420a1c-dab1-4d11-bf04-ab050182ffe0/podcast.rss
+za,5,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-10-28,Comedy,"News,Daily News,",iHeartRadio & Comedy Central,https://feeds.megaphone.fm/the-daily-show
+za,6,The Money Show,1072307993,2020-10-28,Investing,"Business,Careers,",Primedia Broadcasting,https://www.omnycontent.com/d/playlist/5dcefa8e-00a9-4595-8ce1-a4ab0080f142/1ecba37a-6d83-4ee9-a295-a57100b7f2df/e3347658-6eee-44e2-bf81-a57100b92442/podcast.rss
+za,7,VT Podcast,1540543705,2020-11-13,Society & Culture,,Sound and Sounds,https://anchor.fm/s/3ffb90c0/podcast/rss
+za,8,Elevation with Steven Furtick,216015753,2020-10-26,Christianity,"Religion & Spirituality,",Elevation Church,http://feeds.feedburner.com/ElevationChurchCharlotte
+za,9,Joel Osteen Podcast,137254859,2020-10-28,Christianity,"Religion & Spirituality,",Joel Osteen,https://feeds.megaphone.fm/HSW9490884322
+za,10,Global News Podcast,135067274,2020-10-28,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+za,11,Major League Djz,1486896400,2020-04-09,Music,,MajorLeague Djz,https://majorleaguedjz.podomatic.com/rss2.xml
+za,12,Behind The Edit,1556449891,2021-03-03,Entrepreneurship,"Business,Arts,Design,",The Local Edit,https://feeds.simplecast.com/FZZMH_fM
+za,13,Our Love Journey With Mpoomy & Brenden,1529419354,2020-10-09,Arts,,Our Love Journey,https://feeds.buzzsprout.com/1308838.rss
+za,14,The Mindset Mentor,1033048640,2020-10-28,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/5cd7413c-b341-493f-bf46-acb500364141/6b2540d4-e0b2-42f7-a61a-acb50036415a/podcast.rss
+za,15,True Crime South Africa,1469703618,2020-10-22,Society & Culture,,True Crime South Africa,https://iono.fm/rss/chan/4652
+za,16,The Jordan B. Peterson Podcast,1184022695,2020-10-25,Education,"Science,",Dr. Jordan B. Peterson,https://jordanbpetersonpodcast.libsyn.com/rss
+za,17,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stuffyoushouldknow
+za,18,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2020-10-28,Mental Health,"Health & Fitness,",Dr. Caroline Leaf,https://anchor.fm/s/236705fc/podcast/rss
+za,19,The Robin Sharma Mastery Sessions,1068207118,2020-03-05,Education,"Business,",Robin Sharma,https://robinsharma.libsyn.com/rss
+za,20,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig",https://rss.art19.com/tim-ferriss-show
+za,21,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL9840290619
+za,22,Business Wars,1335814741,2020-10-28,Management,"Business,History,",Wondery,https://rss.art19.com/business-wars
+za,23,Noxious Deejay Podcast,921359216,2021-01-09,Music,,Noxious Deejay,https://noxious.podomatic.com/rss2.xml
+za,24,Chymamusique's Podcast,1440251673,2020-08-16,Music,,Chymamusique,https://dachyma.podomatic.com/rss2.xml
+za,25,Office Ladies,1480311435,2020-12-23,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/514362cf-31b4-4ed2-af40-aae301805ffd/podcast.rss
+za,26,We Study Billionaires - The Investor’s Podcast Network,928933489,2020-10-25,Investing,"Business,Education,",The Investor's Podcast Network,https://rss.art19.com/the-investors-podcast
+za,27,KnightSA89 - MidTempo Sessions Uploads,1512102345,2020-10-02,Music,,KnightSA89,https://hearthis.at/knightsa89/podcast/?limit=500
+za,28,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self Help,",Parcast Network,https://feeds.megaphone.fm/unlocking-us
+za,29,Woman Evolve with Sarah Jakes Roberts,1316294579,2020-10-21,Society & Culture,,Woman Evolve with Sarah Jakes Roberts,https://womanevolve.libsyn.com/rss
+za,30,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times,https://feeds.simplecast.com/54nAGcIl
+za,31,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/cautionarytales
+za,32,Kwik Brain with Jim Kwik,1208024744,2020-10-26,Self Help,"Education,Business,","Jim Kwik, Your Brain Coach, Founder www.KwikLearning.com",https://kwikbrain.libsyn.com/rss
+za,33,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/mommy-doomsday
+za,34,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio,https://feeds.megaphone.fm/HSW2031154223
+za,35,MoneywebNOW,1511485972,2020-12-24,Business News,"News,Business,",Moneyweb Radio,https://iono.fm/rss/chan/5240
+za,36,DJ PH,1466064652,2020-12-02,Music,,DJ PH,http://iamph.prologiq.co.za/feed.xml
+za,37,Djy Jaivane,1522318033,2020-10-08,Music,,Djy Jaivane,https://hearthis.at/djy-jaivane/podcast/?limit=500
+za,38,Joyce Meyer Radio Podcast,152564333,2020-10-28,Christianity,"Religion & Spirituality,Health & Fitness,Mental Health,",Joyce Meyer,http://feeds.feedburner.com/joycemeyer/SFiE
+za,39,Economist Radio,151230264,2020-10-28,News,,The Economist,https://rss.acast.com/theeconomistallaudio
+za,40,This is Paris,1552058389,2021-03-01,Society & Culture,,iHeartRadio & Paris Hilton,https://feeds.megaphone.fm/HSW2082099215
+za,41,Get Sleepy: Sleep meditation and stories,1487513861,2020-10-26,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy,https://feeds.simplecast.com/IXxBBvKz
+za,42,Against The Odds,1553335461,2021-02-11,Society & Culture,"History,",Wondery,https://rss.art19.com/against-the-odds
+za,43,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify,https://feeds.megaphone.fm/tmopwide
+za,44,TED Business,470622782,2020-10-26,Business,,TED,http://feeds.feedburner.com/iTunesPodcastTTBusiness
+za,45,Serial Killers,1205030005,2020-10-26,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END1032105222
+za,46,Deeper Shades of House - weekly Deep House Podcast with Lars Behrenroth,205578441,2020-10-23,Music,,Lars Behrenroth,http://feeds.feedburner.com/dsoh
+za,47,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR,https://feeds.npr.org/510313/podcast.xml
+za,48,No Such Thing As A Fish,840986946,2020-10-23,Comedy,,No Such Thing As A Fish,https://audioboom.com/channels/2399216.rss
+za,49,"Rich Dad Radio Show: In-Your-Face Advice on Investing, Personal Finance, & Starting a Business",833641766,2020-10-28,Investing,"Business,Education,",The Rich Dad Radio Network,https://feeds.megaphone.fm/richdad
+za,50,Transformation Church,1348831124,2020-10-24,Religion & Spirituality,,Transformation Church,http://feeds.soundcloud.com/users/soundcloud:users:326798187/sounds.rss
+za,51,Texx Talks,1501735272,2021-02-17,Music Interviews,"Music,Music Commentary,",Texx Talks,https://texxtalks.libsyn.com/rss
+za,52,The Lebo Lion Podcast,1397427305,2021-02-01,Business,,Lebo Lion,https://feeds.soundcloud.com/users/soundcloud:users:448772583/sounds.rss
+za,53,Don't Shoot The Messenger,1504738445,2021-02-28,News Commentary,"News,",Daily Maverick,https://iono.fm/rss/chan/5088?codec=mp3&quality=high
+za,54,BlackMusic Experience,1508391516,2020-05-26,Music,,JazziDisciples,https://jazzidisciples.podomatic.com/rss2.xml
+za,55,The School of Greatness,596047499,2020-10-28,Alternative Health,"Health & Fitness,Education,",Lewis Howes,https://rss.art19.com/the-school-of-greatness
+za,56,dj maphorisa's Podcast,1484003537,2020-05-06,Music,,dj maphorisa,https://maphorisa6.podomatic.com/rss2.xml
+za,57,Sadhguru,347854569,2021-02-19,Spirituality,"Religion & Spirituality,",Sadhguru Official,https://feeds.hubhopper.com/cf7fbc47963d87fed1ad5e2e5c2faef0.rss
+za,58,Honey I’m Home,1551459171,2021-02-01,Self Help,"Education,",Thando Au,https://anchor.fm/s/492458d0/podcast/rss
+za,59,Africa Daily,1547235591,2021-01-20,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p0925ydp.rss
+za,60,Bread4Soul Sessions,971122157,2020-08-16,Music,,Sir LSG,https://bread4soul.podomatic.com/archive/rss2.xml
+za,61,WHOA That's Good Podcast,1433974017,2021-03-03,Christianity,"Religion & Spirituality,Business,",Sadie Robertson,https://feeds.megaphone.fm/LEW1514366617
+za,62,The Fantastic History Of Food,1470375638,2020-10-02,History,,Nick Charlie Key,https://anchor.fm/s/9cd3ae4/podcast/rss
+za,63,WorkLife with Adam Grant,1346314086,2021-01-31,Management,"Business,",TED,https://feeds.feedburner.com/WorklifeWithAdamGrant
+za,64,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss
+za,65,BibleProject,1050832450,2020-10-26,Christianity,"Religion & Spirituality,",BibleProject,https://feeds.simplecast.com/3NVmUWZO
+za,66,A Bit of Optimism,1515385282,2020-09-14,Society & Culture,"Education,Self Help,",Simon Sinek,https://feeds.simplecast.com/0aMcqx_F
+za,67,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life,http://feed.thisamericanlife.org/talpodcast
+za,68,The Tony Robbins Podcast,1098413063,2020-12-07,Education,"Business,",Tony Robbins,https://tonyrobbins.libsyn.com/rss
+za,69,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss
+za,70,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2020-12-21,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation,https://feeds.fireside.fm/bibleinayear/rss
+za,71,Impact Theory with Tom Bilyeu,1191775648,2020-10-27,Education,"Business,",Tom Bilyeu,https://impacttheory.libsyn.com/rss
+za,72,UnF*ck Your Brain,1229434818,2020-11-12,Mental Health,"Health & Fitness,Education,Self Help,",Kara Loewentheil,https://lawyerstresssolution.libsyn.com/rss
+za,73,CHARLI AND DIXIE: 2 CHIX,1531221910,2020-10-22,Personal Journals,"Society & Culture,",Ramble and Charli and Dixie D’Amelio,https://feeds.megaphone.fm/2-chix
+za,74,The Here We Go Podcast,1554785643,2021-02-23,Soccer,"Sports,",Here We Go,https://www.spreaker.com/show/4799799/episodes/feed
+za,75,Kota Embassy Podcasts,1521841754,2020-09-10,Music,,Kota Embassy,https://hearthis.at/kota-embassy-ez/podcast/?limit=500
+za,76,MZANSI DEEP- Soulful & Deep House Sessions,1141941405,2021-01-14,Music,,Terence Rhoda,https://capetownbeats.libsyn.com/rss
+za,77,The Rich Roll Podcast,582272991,2021-02-04,Self Help,"Education,Health & Fitness,",Rich Roll,https://feeds.acast.com/public/shows/5de6c1c9bd860fd53f965e25
+za,78,The Potter's Touch on Lightsource.com,364682371,2020-12-06,Christianity,"Religion & Spirituality,",Bishop T.D. Jakes,https://www.lightsource.com/ministry/the-potters-house/subscribe/podcast.xml
+za,79,Dateline NBC,1464919521,2020-12-24,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/dateline-nbc
+za,80,Cults,1286818575,2021-03-02,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END8327072399
+za,81,Tiny Desk Concerts - Audio,657476401,2021-01-21,Music,,NPR,https://feeds.npr.org/510306/podcast.xml
+za,82,The Intelligence,1449631195,2020-10-28,Daily News,"News,",The Economist,https://rss.acast.com/theintelligencepodcast
+za,83,Sideways,1552027709,2021-03-03,Podcasts,,BBC Radio 4,https://podcasts.files.bbci.co.uk/m000s2kt.rss
+za,84,Real Dictators,1516194847,2021-01-26,History,"Fiction,Drama,",Noiser Podcasts,https://feeds.megaphone.fm/NSR6187882468
+za,85,Serial,917918570,2020-08-20,News,"True Crime,",This American Life,https://feeds.simplecast.com/xl36XBC2
+za,86,Oprah’s Master Class: The Podcast,1401057414,2019-05-30,Society & Culture,,Oprah,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d75d850d-fd53-4bde-ab3e-aae900132bbf/9c794aa7-76b0-4f6e-9a15-aae900132bd1/podcast.rss
+za,87,The Potter's Touch,538401206,2019-08-18,Christianity,"Religion & Spirituality,",Bishop T.D. Jakes,https://feeds.megaphone.fm/TDJ5105637560
+za,88,The Ramsey Show,77001367,2021-02-18,Investing,"Business,Education,Self Help,",Ramsey Network,https://daveramsey.libsyn.com/rss
+za,89,Shaun101's Podcast,1505786417,2020-09-16,Music,,Shaun101,https://hearthis.at/djshaun-masuku/podcast/?limit=500
+za,90,Rotten Mango,1517954480,2021-01-20,True Crime,"Comedy,",Stephanie Soo & Audioboom,https://audioboom.com/channels/5032026.rss
+za,91,BizNews Radio,1441394221,2021-03-03,Investing,"Business,News,Business News,",BizNews,https://iono.fm/rss/chan/4829
+za,92,"Soul Deep Sessions - ""House Made Sexy""",470846331,2021-01-14,Music,,Mush,https://deejmush.podomatic.com/rss2.xml
+za,93,Duolingo Spanish Podcast,1317493077,2021-02-18,Education,"Society & Culture,Places & Travel,",Duolingo,http://spanishpodcast.duolingo.libsynpro.com/rss
+za,94,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries,https://feeds.megaphone.fm/revisionisthistory
+za,95,Chica Travel with Lelo,1468107412,2020-11-30,Places & Travel,"Society & Culture,",Podcast Studio,https://iono.fm/rss/chan/4406
+za,96,Motivational and Inspirational,1493479119,2020-12-29,Entrepreneurship,"Business,",Motivation And Inspiration,https://anchor.fm/s/12266a08/podcast/rss
+za,97,Honest Money,1495053060,2020-11-30,Investing,"Business,Management,",Warren Ingram,https://feeds.buzzsprout.com/807923.rss
+za,98,The Ben Shapiro Show,1047335260,2020-10-28,News,,The Daily Wire,https://feeds.megaphone.fm/WWO8086402096
+za,99,The BossBabe Podcast,1453389736,2021-03-02,Entrepreneurship,"Business,",BossBabe,https://bossbabe.libsyn.com/rss
+za,100,Unsolved Murders: True Crime Stories,1122804248,2020-12-15,True Crime,"Society & Culture,",Parcast Network,https://feeds.megaphone.fm/END8394789342
+za,101,JSE Direct with Simon Brown,962733842,2021-01-13,Investing,"Business,News,Business News,",JustOneLap.com,https://justonelap.libsyn.com/rss
+za,102,That Will Never Work,1550777106,2021-03-02,Entrepreneurship,"Business,Marketing,",Marc Randolph,https://rss.art19.com/that-will-never-work
+za,103,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris,https://wakingup.libsyn.com/rss
+za,104,Morning Mindset Daily Christian Devotional,1322666339,2020-12-30,Christianity,"Religion & Spirituality,Spirituality,",Carey Green,https://lbcmorningmindset.libsyn.com/rss
+za,105,Daily Meditation Podcast,892107837,2020-10-28,Mental Health,"Health & Fitness,Alternative Health,",Mary Meckley,https://thedailymeditationpodcast.libsyn.com/rss
+za,106,Huberman Lab,1545953110,2021-02-08,Health & Fitness,"Education,",Dr. Andrew Huberman,https://hubermanlab.libsyn.com/rss
+za,107,Amapiano,1521469332,2020-06-30,Music Commentary,"Music,",Teebest Fisha,https://anchor.fm/s/29617500/podcast/rss
+za,108,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman,https://lexfridman.com/feed/podcast/
+za,109,The John Maxwell Leadership Podcast,1416206538,2020-12-16,Education,"Business,",John Maxwell,https://johnmaxwellleadershippodcast.libsyn.com/rss
+za,110,GoodMusicThursdays Podcast,1530452735,2021-02-25,Music,,GoodMusicThursdays Podcast,https://hearthis.at/gmt-podcast/podcast/?limit=500
+za,111,Conversations with John & Lisa Bevere,218453800,2021-03-02,Christianity,"Religion & Spirituality,","John & Lisa Bevere, Messenger Network",https://feeds.simplecast.com/WWr9c8Mo
+za,112,AMAPIANO PANDEMIC,1512968943,2021-03-05,Music,,African Jackson,https://hearthis.at/jackson-mashala/podcast/?limit=500
+za,113,Bulletproof Radio,451295014,2021-03-05,Alternative Health,"Health & Fitness,Education,",Dave Asprey,https://rss.art19.com/bulletproof-radio
+za,114,Today in Focus,1440133626,2021-02-19,Daily News,"News,",The Guardian,https://www.theguardian.com/news/series/todayinfocus/podcast.xml
+za,115,The Oprah Winfrey Show: The Podcast,1499860465,2021-02-23,Society & Culture,,The Oprah Winfrey Show: The Podcast,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/04343ddf-4cf2-4c01-900c-ab580181221a/fa85f081-7e46-4157-bc94-ab58018153d2/podcast.rss
+za,116,TED-Ed: Lessons Worth Sharing,1039991663,2020-08-09,Education,"Science,",TED,http://feeds.feedburner.com/Ted-edPodcast
+za,117,Modern Love,1065559535,2020-10-21,Relationships,"Society & Culture,",The New York Times,https://feeds.simplecast.com/0N8Hs1MH
+za,118,Nuus met Spies,1555203383,2021-03-04,News Commentary,"News,Daily News,",Mia Spies & Volume,https://feeds.captivate.fm/nuus-met-spies/
+za,119,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2020-12-23,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author,https://rss.acast.com/feelbetterlivemore
+za,120,Craig Groeschel Leadership Podcast,1070649025,2020-12-03,Management,"Business,Entrepreneurship,",Life.Church,https://feeds.simplecast.com/atgtihd0
+za,121,Therapy for Black Girls,1223803641,2020-10-28,Mental Health,"Health & Fitness,","Joy Harden Bradford, Ph.D. & iHeartRadio",https://feeds.megaphone.fm/HSW2435428664
+za,122,The Official Fantasy Premier League Podcast,1475466071,2021-03-04,Fantasy Sports,"Sports,",Premier League,https://audioboom.com/channels/5001585.rss
+za,123,Darknet Diaries,1296350485,2021-03-02,Technology,"True Crime,",Jack Rhysider,https://feeds.megaphone.fm/darknetdiaries
+za,124,Deep House Cats - SA,1128343449,2021-02-14,Music,,Deep House Cats - SA,http://feeds.soundcloud.com/users/soundcloud:users:28487730/sounds.rss
+za,125,Prompt Us,1550666283,2021-02-22,Spirituality,"Religion & Spirituality,Education,Self Help,",iHeartRadio,https://feeds.megaphone.fm/HSW5588843678
+za,126,The Potter's House At One LA,1039481487,2021-01-01,Christianity,"Religion & Spirituality,",The Potter's House At One LA,https://tphone.libsyn.com/rss
+za,127,Fistaz Mixwell,1292363943,2021-01-29,Music,,Fistaz Mixwell,http://feeds.soundcloud.com/users/soundcloud:users:138048/sounds.rss
+za,128,The Psychology Podcast with Scott Barry Kaufman,942777522,2021-03-04,Social Sciences,"Science,",Scott Barry Kaufman,https://anchor.fm/s/2f55bfc0/podcast/rss
+za,129,The Mindvalley Podcast with Vishen Lakhiani,1317823455,2020-12-18,Mental Health,"Health & Fitness,Education,Self Help,",Mindvalley,https://themindvalleypodcas.libsyn.com/rss
+za,130,For the Girl,1453911226,2021-03-02,Christianity,"Religion & Spirituality,",For The Girl,https://forthegirl.libsyn.com/rss
+za,131,The Proverbs 31 Ministries Podcast,757953988,2021-02-23,Christianity,"Religion & Spirituality,",Proverbs 31 Ministries,https://proverbs31.org/podcasthandler.ashx
+za,132,The Laverne Cox Show,1547504297,2021-02-04,Society & Culture,"Education,",iHeartRadio & Shondaland Audio,https://feeds.megaphone.fm/HSW8763825957
+za,133,Phoebe Reads a Mystery,1503921457,2021-03-05,Drama,"Fiction,",Criminal & Radiotopia,https://feeds.thisiscriminal.com/PhoebeReadsAMystery
+za,134,GeeGo Live,1482332890,2020-10-23,Music,,GeeGo,https://hearthis.at/geego/podcast/?limit=500
+za,135,Oprah and Eckhart Tolle: A NEW EARTH,1458654443,2019-03-11,Society & Culture,,Oprah and Eckhart Tolle,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/6d851a02-df0c-4770-98d2-aac701368fa6/88a06fff-9243-4a52-ba43-aac701368fb4/podcast.rss
+za,136,Abraham Hicks Daily,1501213645,2021-03-06,Spirituality,"Religion & Spirituality,",Abraham Hicks,https://anchor.fm/s/14b18f64/podcast/rss
+za,137,Coaching Real Leaders,1545444200,2021-03-01,Management,"Business,Careers,",HBR Presents / Muriel Wilkins,http://feeds.harvardbusiness.org/harvardbusiness/coaching-real-leaders
+za,138,The goop Podcast,1352546554,2021-01-05,Health & Fitness,"Society & Culture,","Goop, Inc. and Cadence13",http://feeds.feedburner.com/goop-podcast
+za,139,Personal Finance with Warren Ingram,1075744322,2020-10-22,Investing,"Business,",Primedia Broadcasting,https://www.omnycontent.com/d/playlist/5dcefa8e-00a9-4595-8ce1-a4ab0080f142/588af76e-0e2c-416c-b87e-acac0117125f/01f00c4a-014f-466b-9c7a-acac0117e994/podcast.rss
+za,140,The Documentary Podcast,73802620,2020-10-27,History,"News,Society & Culture,",BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+za,141,Red Collar,1541330058,2021-02-23,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL4201344942
+za,142,Masters of Scale with Reid Hoffman,1227971746,2021-02-23,Management,"Business,Entrepreneurship,",WaitWhat,https://rss.art19.com/masters-of-scale
+za,143,Happy Place,1353058891,2021-03-01,Mental Health,"Health & Fitness,Alternative Health,",Fearne Cotton,https://happyplace.libsyn.com/rss
+za,144,The Art of Being Well,1539535133,2021-02-25,Alternative Health,"Health & Fitness,Education,Self Help,","Dear Media, Will Cole",https://artofbeingwell.libsyn.com/rss
+za,145,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars,https://feeds.99percentinvisible.org/99percentinvisible
+za,146,The Messy Masterpiece with Tori & Chad,1545841764,2021-03-05,Christianity,"Religion & Spirituality,Education,Self Help,",Tori & Chad,https://feeds.buzzsprout.com/1563014.rss
+za,147,Pivot,1073226719,2021-02-16,News Commentary,"News,Tech News,",New York Magazine,https://feeds.megaphone.fm/pivot
+za,148,Rabbit Hole,1507423923,2020-06-04,Technology,"Society & Culture,",The New York Times,https://feeds.simplecast.com/oCXij9l2
+za,149,The Bible Recap,1440833267,2021-02-25,Christianity,"Religion & Spirituality,",D-Group,https://thebiblerecap.podbean.com/feed.xml
+za,150,Science Vs,1051557000,2021-03-05,Science,"Education,",Gimlet,https://feeds.megaphone.fm/sciencevs
+za,151,Jordan Peterson Archive,1462681901,2020-07-03,Education,,Jordan Peterson,https://jordanbpeterson.podomatic.com/rss2.xml
+za,152,Dr. Joe Dispenza Audio Experience,1457336351,2019-03-18,Health & Fitness,,Dr. Joe Dispenza,https://anchor.fm/s/9973bd8/podcast/rss
+za,153,Duolingo French Podcast,1466824259,2020-10-27,Education,"Society & Culture,Places & Travel,",Duolingo,https://frpodcast.libsyn.com/rss
+za,154,Desert Island Discs,342735925,2021-02-21,Personal Journals,"Society & Culture,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qnmr.rss
+za,155,Grounded with Louis Theroux,1508985962,2021-02-01,Personal Journals,"Society & Culture,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p089sfrz.rss
+za,156,Pastor Rick's Daily Hope,631094342,2021-02-04,Christianity,"Religion & Spirituality,",PastorRick.com,https://pastorrick.com/rssPodcastGenerator.php?type=itunes
+za,157,The Daily Mastery Podcast by Robin Sharma,1521068608,2020-10-27,Self Help,"Education,Business,Entrepreneurship,",Robin Sharma,https://feeds.buzzsprout.com/1182776.rss
+za,158,TED Health,470623173,2021-02-23,Health & Fitness,,TED,http://feeds.feedburner.com/iTunesPodcastTTHealth
+za,159,Jumpers Jump,1541777977,2021-02-14,Comedy,,Jumpers Jump Podcast,https://anchor.fm/s/4100ec90/podcast/rss
+za,160,Equip and Empower with Christine Caine,1512546904,2021-02-25,Christianity,"Religion & Spirituality,",AccessMore,https://www.accessmore.com/podcast?categoryID2=125
+za,161,"The Secret To Success with CJ, Karl, Jemal & Eric Thomas",844102142,2020-12-31,Self Help,"Education,Health & Fitness,",Eric Thomas Ph.D.,https://secrettosuccess.libsyn.com/rss
+za,162,Timothy Keller Sermons Podcast by Gospel in Life,352660924,2020-10-23,Christianity,"Religion & Spirituality,Spirituality,",Tim Keller,https://podcast.gospelinlife.com/feed.xml
+za,163,Joseph Prince Audio Podcast,334204277,2021-02-28,Christianity,"Religion & Spirituality,",Joseph Prince,http://feeds.feedburner.com/JosephPrinceAudioPodcast
+za,164,TheDopeAssPodcast,1550649360,2021-02-14,Comedy,,the dope ass podcast,https://anchor.fm/s/496c2868/podcast/rss
+za,165,Pretty Basic with Alisha Marie and Remi Cruz,1439655378,2021-03-03,Personal Journals,"Society & Culture,Relationships,",Ramble,http://feeds.feedburner.com/pretty-basic
+za,166,On Being with Krista Tippett,150892556,2021-02-18,Society & Culture,"Religion & Spirituality,",On Being Studios,https://feeds.simplecast.com/AuAxH_Bf
+za,167,Lore,978052928,2021-02-15,History,"Society & Culture,",Aaron Mahnke and Grim & Mild,https://feeds.megaphone.fm/lore
+au,1,Conversations,94688506,2020-10-28,Relationships,"Society & Culture,",ABC Radio,http://www.abc.net.au/radio/programs/conversations/feed/7711104/podcast.xml
+au,2,Hamish & Andy,213334232,2020-10-28,Comedy,,PodcastOne Australia,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/0786e9ff-0519-43d3-a0cd-aa4c0176ad25/2bf97b40-59cd-424a-ba35-aa4c0176ad25/podcast.rss
+au,3,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery,https://rss.art19.com/against-the-odds
+au,4,Mamamia Out Loud,928350893,2020-10-28,Society & Culture,,Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/fb1f46f6-b3d6-4068-8ab5-a44f016e5066/7f09e143-5892-47cc-a7e2-a4e4015c8eee/podcast.rss
+au,5,Australian True Crime,1217681421,2020-10-25,True Crime,"Society & Culture,",Meshel Laurie,https://rss.acast.com/australiantruecrime
+au,6,The Quicky,1451469361,2020-10-27,News,,Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/960d5fc1-9c1f-4011-890c-a9ea00054a73/0d19655e-8992-4249-8eeb-a9ea00058b76/podcast.rss
+au,7,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/mommy-doomsday
+au,8,Living your best life Podcast,1503645220,2021-03-03,Society & Culture,,livingyourbestlifewithabbeanderin,https://feed.podbean.com/livingyourbestlifewithabbeanderin/feed.xml
+au,9,Coronacast,1501500390,2020-10-28,Daily News,"News,",ABC News,http://www.abc.net.au/radio/programs/coronacast/feed/12017248/podcast.xml
+au,10,She's On The Money,1468033698,2020-10-27,Business,,Victoria Devine,https://feeds.megaphone.fm/shes-on-the-money
+au,11,7am,1461999702,2020-10-27,Daily News,"News,",Schwartz Media,https://rss.acast.com/7am
+au,12,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times,https://feeds.simplecast.com/54nAGcIl
+au,13,Skincare School,1552975779,2021-02-09,Fashion & Beauty,"Arts,",Adore Beauty,https://www.omnycontent.com/d/playlist/133eb022-d538-494d-9082-aaa90065f49b/9542b52a-d9b9-49c2-8d1e-acca002a7179/01e02362-319c-4888-866b-acca002c6948/podcast.rss
+au,14,The Breakdown,1554973779,2021-02-23,Rugby,"Sports,",The Australian,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/4d66ca90-fe4c-44f4-bc15-acd8001e9838/4019bdc1-df83-42a6-88d5-acd800200b53/podcast.rss
+au,15,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL9840290619
+au,16,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stuffyoushouldknow
+au,17,Something To Talk About with Samantha Armytage,1553858670,2021-02-16,Society & Culture,,Stellar,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/e4ab1af8-07a9-4341-96dc-acd10031a167/ef3982f4-fe15-4a05-8760-acd10032abf1/podcast.rss
+au,18,Grounded with Louis Theroux,1508985962,2020-06-29,Personal Journals,"Society & Culture,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p089sfrz.rss
+au,19,Full Story,1482061243,2020-10-27,News,,The Guardian,https://www.theguardian.com/australia-news/series/full-story/podcast.xml
+au,20,True Crime Conversations,1469153910,2020-10-21,True Crime,"Society & Culture,",Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/abaa347e-8ac5-454e-85f9-aa64005c285f/6d9fdc19-147e-4f77-8d3f-aa64005e5923/podcast.rss
+au,21,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/cautionarytales
+au,22,The Imperfects,1476501557,2020-10-22,Mental Health,"Health & Fitness,Education,Self-Improvement,","Hugh van Cuylenburg, Ryan Shelton & Josh van Cuylenburg",https://feeds.megaphone.fm/the-imperfects
+au,23,The Pop Test – A comedy science quiz,1550543719,2021-02-06,Comedy,"Science,",ABC Radio,http://www.abc.net.au/radionational/programs/the-pop-test/feed/13003654/podcast.xml
+au,24,Life Uncut,1472126503,2021-02-01,Society & Culture,"TV & Film,",Brittany Hockley and Laura Byrne,https://feeds.megaphone.fm/lifeuncut
+au,25,How It Happened,1549225698,2021-01-15,Politics,"News,History,",Axios,https://feeds.megaphone.fm/axioshowithappened
+au,26,No Filter,995159486,2020-10-25,Personal Journals,"Society & Culture,",Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/e2603404-71ae-4e84-8bf7-a499005a57f4/2dca47ed-7358-40cf-9444-a4de0029d8aa/podcast.rss
+au,27,The Howie Games,1146329262,2020-10-28,Sports,,PodcastOne Australia,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/f3b7b05c-fc80-4eb3-a530-aa4c0176ad7e/f2261840-0b71-4a6a-8dc2-aa4c0176ad7e/podcast.rss
+au,28,The Kyle & Jackie O Show,413046628,2020-12-31,Comedy,"Music,",iHeartRadio Australia & KIIS,https://feeds.megaphone.fm/kyleandjackieo
+au,29,Mapping Evil with Mike King,1555243483,2021-02-28,True Crime,"Technology,",BGT Productions,https://feed.podbean.com/mappingevil/feed.xml
+au,30,Do You F*****g Mind?,1502954097,2020-10-24,Health & Fitness,,Alexis Fernandez,https://rss.acast.com/doyouf-ckingmind
+au,31,Please Explain,1436450976,2021-02-02,Daily News,"News,Business,",The Age and Sydney Morning Herald,https://www.omnycontent.com/d/playlist/88b564ea-a9a6-4751-910a-a5d800019396/111d8251-9a05-4c76-bcf0-ab84002d2024/e23e2275-2bcf-4868-b394-ab84002d2037/podcast.rss
+au,32,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig",https://rss.art19.com/tim-ferriss-show
+au,33,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network,https://feeds.megaphone.fm/unlocking-us
+au,34,The Party Room,1102298716,2021-02-04,Politics,"News,News Commentary,",ABC Radio,http://www.abc.net.au/radionational/feed/7288214/podcast.xml
+au,35,Lady Startup Stories,1361401612,2021-03-01,Careers,"Business,",Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/9508c524-5c65-4186-b022-a8a80170ea1c/1cea4cc3-a63c-4441-ae10-a8a8017311d0/podcast.rss
+au,36,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ff4ff6bb-916d-4c78-ad23-ac8d017d4c2d/7c990ede-a998-4804-957e-ac8d017d4c45/podcast.rss
+au,37,Brett Finch Uncensored,1533612473,2021-02-14,Rugby,"Sports,Cricket,",Brett Finch,https://brettfinchpodcast.libsyn.com/rss
+au,38,The Signal,1349523628,2021-01-25,Daily News,"News,",ABC Radio,http://www.abc.net.au/radio/programs/the-signal/feed/9443166/podcast.xml
+au,39,Australian Birth Stories,1242155321,2020-10-25,Kids & Family,,Sophie Walker,https://australianbirthstories.libsyn.com/rss
+au,40,Equity Mates Investing Podcast,1212097275,2020-10-25,Investing,"Business,Entrepreneurship,",Equity Mates Media,https://feeds.megaphone.fm/equitymates
+au,41,Dr Karl Podcast,73331325,2020-10-22,Science,,triple j,http://www.abc.net.au/triplej/programs/dr-karl/feed/10987644/podcast.xml
+au,42,This is Paris,1552058389,2021-03-01,Society & Culture,,iHeartRadio & Paris Hilton,https://feeds.megaphone.fm/HSW2082099215
+au,43,Just the Gist,1474052266,2021-03-05,Comedy,"TV & Film,TV Reviews,",LiSTNR,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/0aaaaf07-2864-40b6-b489-aa9300627d91/6cb06e66-54a9-46ac-9815-aa930063b04c/podcast.rss
+au,44,The Briefing,1507116817,2020-10-27,Daily News,"News,",PodcastOne Australia,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/043e2cc8-6045-47cd-af36-ab98000641fa/16e65677-c110-4ef1-a534-ab980006a91f/podcast.rss
+au,45,The Mindset Mentor,1033048640,2020-10-28,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/5cd7413c-b341-493f-bf46-acb500364141/6b2540d4-e0b2-42f7-a61a-acb50036415a/podcast.rss
+au,46,Chat 10 Looks 3,936653355,2020-10-11,Society & Culture,,Chat 10 Looks 3,https://feeds.megaphone.fm/DMN6400826604
+au,47,The Matty Johns Podcast,1117246594,2021-02-04,Sports,,Daily Telegraph,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/10c4a2d2-5fcf-4695-8da4-ac2a00524d6b/37490026-349b-4102-8c4e-ac2a00524d6b/podcast.rss
+au,48,Global News Podcast,135067274,2021-03-05,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+au,49,Squiz Today,1385995581,2020-10-27,Daily News,"News,",Squiz Media,https://rss.acast.com/squiz-today
+au,50,No Such Thing As A Fish,840986946,2020-10-23,Comedy,,No Such Thing As A Fish,https://audioboom.com/channels/2399216.rss
+au,51,Huberman Lab,1545953110,2021-01-04,Health & Fitness,"Education,",Dr. Andrew Huberman,https://hubermanlab.libsyn.com/rss
+au,52,The Nurse,1533629268,2020-10-26,True Crime,"News,Politics,",Camille Bianchi,https://rss.acast.com/the-nurse
+au,53,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED,http://feeds.feedburner.com/TEDTalks_audio
+au,54,Serial,917918570,2020-08-20,News,"True Crime,",This American Life,https://feeds.simplecast.com/xl36XBC2
+au,55,The Daily Aus,1552309889,2021-02-15,Daily News,"News,",The Daily Aus,https://rss.acast.com/the-daily-aus
+au,56,Collapse,1550688418,2021-02-16,History,,Stuff,https://rss.whooshkaa.com/rss/podcast/id/13573
+au,57,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life,http://feed.thisamericanlife.org/talpodcast
+au,58,Hamish & Andy’s Remembering Project,1534252348,2020-12-14,Comedy,,LiSTNR,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/79d677cf-6ce6-42d1-a3fd-ac480026244f/9d4a879f-2b0e-40a8-b1c7-ac480026a6d4/podcast.rss
+au,59,Background Briefing,73330306,2021-03-04,News Commentary,"News,",ABC Radio,http://www.abc.net.au/radionational/feed/2890982/podcast.xml
+au,60,The Jordan B. Peterson Podcast,1184022695,2020-11-29,Education,"Science,",Dr. Jordan B. Peterson,https://jordanbpetersonpodcast.libsyn.com/rss
+au,61,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/39ae2ce1-bc6d-4760-b0dc-ab050182ffa7/b4420a1c-dab1-4d11-bf04-ab050182ffe0/podcast.rss
+au,62,Serial Killers,1205030005,2020-10-26,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END1032105222
+au,63,Dateline NBC,1464919521,2020-10-29,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/dateline-nbc
+au,64,All In The Mind,73330911,2020-11-01,Life Sciences,"Science,Health & Fitness,",ABC Radio,http://www.abc.net.au/radionational/feed/2888650/podcast.xml
+au,65,The Rise & Conquer Podcast,1451864362,2020-12-31,Health & Fitness,"Education,Self-Improvement,",Georgie Stevenson,https://feeds.megaphone.fm/riseandconquer
+au,66,Dyl & Friends,1417124389,2021-02-02,Sports,"Comedy,",Dylan Buckley,https://rss.whooshkaa.com/rss/podcast/id/3890
+au,67,Who the Hell is Hamish?,1451470931,2019-11-16,News,"True Crime,",The Australian,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/f1c92d94-1cab-46b5-a2a2-ac2a00524f7b/7e7cada2-a5f4-4839-b5f1-ac2a00524f7b/podcast.rss
+au,68,The Spill,1473523403,2021-01-20,Society & Culture,,Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/d3342ef4-a947-4a6c-b5f6-aa870057eef3/d3448b18-db73-4069-8135-aa8700584545/podcast.rss
+au,69,Jase & PJ,1332566161,2021-01-13,Comedy,"Music,",iHeartRadio Australia & KIIS,https://feeds.megaphone.fm/jaseandpj
+au,70,American Scandal,1435516849,2021-02-16,History,"Society & Culture,Documentary,",Wondery,https://rss.art19.com/american-scandal
+au,71,Even the Rich,1500477470,2021-03-02,Society & Culture,,Wondery,https://rss.art19.com/even-the-rich
+au,72,You Cannot Be Serious,1474582435,2021-03-03,Sports,"News,",Sam Newman Mike Sheahan Don Scott,https://feed.podbean.com/smartassam/feed.xml
+au,73,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR,https://feeds.npr.org/510313/podcast.xml
+au,74,Beauty IQ Uncensored,1478211900,2020-10-27,Fashion & Beauty,"Arts,",Adore Beauty,https://www.omnycontent.com/d/playlist/133eb022-d538-494d-9082-aaa90065f49b/72db4fbe-97f2-453c-ae7a-aaa9006dee32/cae8aea2-474a-49ca-b0f7-aaa9006e5e2a/podcast.rss
+au,75,Sideways,1552027709,2021-02-24,Podcasts,,BBC Radio 4,https://podcasts.files.bbci.co.uk/m000s2kt.rss
+au,76,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2020-10-28,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author,https://rss.acast.com/feelbetterlivemore
+au,77,UnF*ck Your Brain,1229434818,2021-02-05,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil,https://lawyerstresssolution.libsyn.com/rss
+au,78,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman,https://lexfridman.com/feed/podcast/
+au,79,Brooke & Linda's Dream Club,1553862476,2021-02-23,Books,"Arts,TV & Film,",LiSTNR,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/15c0f2d8-f59e-4276-8fa6-acd10037dbc5/77e3e209-e590-477d-ab55-acd10038f598/podcast.rss
+au,80,Late Night Live - Full program podcast,73330961,2020-10-29,Society & Culture,"News,Politics,",ABC Radio,http://www.abc.net.au/radionational/feed/2890646/podcast.xml
+au,81,Hack,78995043,2021-02-12,News,"Society & Culture,",triple j,http://www.abc.net.au/triplej/programs/hack/feed/6840588/podcast.xml
+au,82,Beyond The Bump,1484930949,2021-01-18,Parenting,"Kids & Family,",Beyond The Bump,https://feeds.buzzsprout.com/599737.rss
+au,83,Life and Crimes with Andrew Rule,1260800644,2020-10-24,True Crime,"Education,",Herald Sun,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/3184259d-eabb-4a13-b4e4-ac2a00524746/dbc970d7-111d-4f16-8744-ac2a00524746/podcast.rss
+au,84,You're Dead To Me,1479973402,2020-11-14,History,"Comedy,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+au,85,The Property Couch,969904333,2020-10-22,Investing,"Business,News,Business News,",Bryce Holdaway & Ben Kingsley,http://thepropertycouch.com.au/feed/podcast/
+au,86,Fast Pace with Josh Phegan and Dean Mackie,1554782191,2021-02-25,Business,"Technology,","Josh Phegan - Real Estate Trainer, speaker, coach.",https://fastpace.libsyn.com/rss
+au,87,The Rush Hour Melbourne Catch Up - 105.1 Triple M Melbourne - James Brayshaw and Billy Brownless,360804281,2021-02-02,Sports,,Triple M,https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/5242a5de-77e2-435a-a29f-a4df0045cf40/78353fca-c071-44b2-b093-a4df004612c6/podcast.rss
+au,88,Comedian v Economist,1539790170,2021-02-02,Investing,"Business,Comedy,",Equity Mates Media,https://feeds.megaphone.fm/comedian-v-economist
+au,89,Business Wars,1335814741,2020-10-28,Management,"Business,History,",Wondery,https://rss.art19.com/business-wars
+au,90,Bang On,1210989839,2021-02-18,Society & Culture,,Double J,http://www.abc.net.au/radio/programs/bangon/feed/8314828/podcast.xml
+au,91,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris,https://wakingup.libsyn.com/rss
+au,92,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars,https://feeds.99percentinvisible.org/99percentinvisible
+au,93,my millennial money,1384819415,2020-10-28,Investing,"Business,Comedy,",SYMO interactive,https://rss.whooshkaa.com/rss/podcast/id/5915
+au,94,NSW Police State Crime Command – Investigations,1524599320,2021-02-06,True Crime,,PodcastOne Australia,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/3f5f66e4-69f5-48fd-adc7-ac0000774f63/0f6d4fe6-725e-4f43-add2-ac00007a96a6/podcast.rss
+au,95,You Beauty,1427018681,2020-10-28,Fashion & Beauty,"Arts,",Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/5feddae0-feec-4280-b27d-a93c005efd37/480f78b6-ddda-4bb8-a631-a93c0060019c/podcast.rss
+au,96,Linda Marigliano's Tough Love,1546324192,2021-02-01,Relationships,"Society & Culture,Documentary,",Linda Marigliano,https://www.omnycontent.com/d/playlist/e31b2148-5145-4bb1-a345-ac9a017698f1/36b40d49-6fd0-46f2-8d0d-ac9a0176d1d4/818752e2-eaed-4c34-9db6-ac9b00341181/podcast.rss
+au,97,Ordineroli Speaking,1500848514,2021-02-23,Sports,"Health & Fitness,Mental Health,",Neroli Meadows,https://feeds.megaphone.fm/ordinerolispeaking
+au,98,Dr Justin Coulson's Happy Families,1082244480,2021-02-16,Self-Improvement,"Education,",Dr Justin Coulson,https://feeds.megaphone.fm/happy-families
+au,99,SEN Breakfast,1198117246,2021-02-02,Sports,,SEN,https://rss.whooshkaa.com/rss/podcast/id/1919
+au,100,Get Sleepy: Sleep meditation and stories,1487513861,2020-11-30,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy,https://feeds.simplecast.com/IXxBBvKz
+au,101,The Marty Sheargold Show  - Triple M Melbourne 105.1,329902285,2021-01-15,Comedy,"News,",Triple M,https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/1d30d45f-2539-4264-9cd6-a4b3004c3070/0edd71ba-62d0-48f8-b0da-a4df006dd0d7/podcast.rss
+au,102,Hidden Brain,1028908750,2020-11-16,Social Sciences,"Science,Natural Sciences,",Hidden Brain,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss
+au,103,"Parental As Anything, with Maggie Dent",1464488062,2021-01-20,Parenting,"Kids & Family,",ABC Radio,http://www.abc.net.au/radio/programs/parental-as-anything-with-maggie-dent/feed/11115204/podcast.xml
+au,104,The Teacher's Pet,1385379989,2020-08-23,News,"Society & Culture,",The Australian,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/d60492a5-f0c9-443a-914b-ac2a017fffca/5253efc4-3b47-419a-abd6-ac2b001818f4/podcast.rss
+au,105,The Battersea Poltergeist,1548946506,2021-02-18,Drama,"Fiction,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p0940193.rss
+au,106,This Glorious Mess,981373142,2021-02-14,Kids & Family,,Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/5c116b8b-958c-413e-aabb-a4990019e0f7/8b30cd92-16a3-4a17-a36c-a4990059c7e5/podcast.rss
+au,107,Darknet Diaries,1296350485,2021-02-16,Technology,"True Crime,",Jack Rhysider,https://feeds.megaphone.fm/darknetdiaries
+au,108,Get Started Investing,1484760064,2020-12-13,Investing,"Business,Entrepreneurship,",Equity Mates Media,https://feeds.megaphone.fm/getstartedinvesting
+au,109,AFL Exchange,637433286,2021-03-01,Sports,,AFL,https://rss.whooshkaa.com/rss/podcast/id/4086
+au,110,AP: Australian Politics,1109943717,2021-02-05,News,,The Guardian,https://www.theguardian.com/australia-news/series/australian-politics-live/podcast.xml
+au,111,Motley Fool Money,1118867383,2020-12-06,Investing,"Business,",PodcastOne Australia,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/c1c22a03-f4e2-49e4-9eff-abb2003ac099/25111702-47b4-423f-9d57-abb2003ac0a7/podcast.rss
+au,112,Days Like These,1534672561,2020-10-27,Documentary,"Society & Culture,",ABC Radio,http://www.abc.net.au/radio/programs/days-like-these/feed/12694854/podcast.xml
+au,113,The Ben Shapiro Show,1047335260,2021-01-04,News,,The Daily Wire,https://feeds.megaphone.fm/WWO8086402096
+au,114,"Kate, Tim and Joel",344869087,2021-01-19,Comedy,,Nova Podcasts,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/3b9a1fc3-f89f-4667-8dcf-ac0d018940ee/55501088-b23f-46ae-b2aa-ac0d018940f3/podcast.rss
+au,115,The Hook Up,1080505022,2021-03-01,Society & Culture,,triple j,http://www.abc.net.au/radio/programs/the-hook-up-podcast/feed/8681126/podcast.xml
+au,116,The Money Cafe with Kirby and Kohler,1201031401,2021-01-21,Investing,"Business,Society & Culture,",The Australian,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/4625105b-92a5-47be-8dca-ac2a00524dae/9d1e81fa-97ab-45b9-b481-ac2a00524dae/podcast.rss
+au,117,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss
+au,118,Trace,1249219269,2020-10-20,True Crime,,ABC Radio,http://www.abc.net.au/radionational/feed/8597522/podcast.xml
+au,119,Big Ideas,164330831,2020-10-29,Society & Culture,"News,Politics,",ABC Radio,http://www.abc.net.au/radionational/feed/2883098/podcast.xml
+au,120,WorkLife with Adam Grant,1346314086,2021-02-23,Management,"Business,",TED,https://feeds.feedburner.com/WorklifeWithAdamGrant
+au,121,Office Ladies,1480311435,2020-12-30,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/514362cf-31b4-4ed2-af40-aae301805ffd/podcast.rss
+au,122,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News,https://feeds.megaphone.fm/ESP8551283217
+au,123,In Our Time,73330895,2021-01-14,History,,BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qykl.rss
+au,124,The Dropout,1449500734,2021-03-01,True Crime,,ABC News,https://feeds.megaphone.fm/ESP5480008395
+au,125,AFL Fantasy with The Traders,842419860,2021-02-07,Fantasy Sports,"Sports,",AFL,https://rss.whooshkaa.com/rss/podcast/id/4093
+au,126,Life Matters - Full program podcast,73330343,2021-03-04,Relationships,"Society & Culture,Kids & Family,",ABC Radio,http://www.abc.net.au/radionational/feed/2883550/podcast.xml
+au,127,Australian Finance Podcast,1454193127,2020-10-26,Investing,"Business,",The Rask Group,https://rss.whooshkaa.com/rss/podcast/id/6174
+au,128,KIC POD,1457667995,2021-02-02,Health & Fitness,,Keep It Cleaner,https://feeds.simplecast.com/_mQrA5Pw
+au,129,History Extra podcast,256580326,2020-10-29,History,"Society & Culture,",Immediate Media,http://rss.acast.com/historyextra
+au,130,The School of Greatness,596047499,2020-12-16,Alternative Health,"Health & Fitness,Education,",Lewis Howes,https://rss.art19.com/the-school-of-greatness
+au,131,The Rich Roll Podcast,582272991,2020-11-16,Self-Improvement,"Education,Health & Fitness,",Rich Roll,https://feeds.acast.com/public/shows/5de6c1c9bd860fd53f965e25
+au,132,Matt and Alex - All Day Breakfast,1508927190,2021-01-19,Comedy Interviews,"Comedy,",PodcastOne Australia,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/18561c0f-707f-4cd4-83ed-aba0004c693c/2536e5ae-8240-4a6b-a012-aba0004cdce6/podcast.rss
+au,133,Sword and Scale,790487079,2020-10-26,True Crime,"Society & Culture,Documentary,",Incongruity,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/8caf5963-644f-4ccd-94f6-acb5003641f5/d5f2436e-2a50-4633-8f85-acb5003641fe/podcast.rss
+au,134,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin,http://feeds.feedburner.com/dancarlin/history?format=xml
+au,135,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia,https://feeds.thisiscriminal.com/CriminalShow
+au,136,Red Collar,1541330058,2021-02-23,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL4201344942
+au,137,Duchess,1551120994,2021-03-04,History,"Society & Culture,",OneFinePlay,https://feeds.captivate.fm/duchessthepodcast/
+au,138,Heaven Bent,1513489117,2021-03-01,History,"Society & Culture,Documentary,",Tara Jean Stevens / Frequency Podcast Network,https://frequencypodcastnetwork.com/shows/heaven-bent/feed/podcast/
+au,139,Dolly Parton's America,1481398762,2019-12-31,Music History,"Music,Society & Culture,Documentary,",WNYC Studios & OSM Audio,http://feeds.wnyc.org/dolly-partons-america
+au,140,Loose Units: The Podcast,1445344726,2020-10-26,True Crime,"Society & Culture,",Pillow Talk Productions,https://rss.acast.com/loose-units-the-podcast
+au,141,"Chrissie, Sam and Browny",1076207687,2021-02-15,Comedy,"Music,",Nova Podcasts,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/64f3b1e3-315a-4103-83cc-ac0d018940b6/dae7d317-c9eb-49ff-89ce-ac0d018940bb/podcast.rss
+au,142,Rabbit Hole,1507423923,2020-06-04,Technology,"Society & Culture,",The New York Times,https://feeds.simplecast.com/oCXij9l2
+in,1,Sadhguru's Podcast,347854569,2020-11-30,Spirituality,"Religion & Spirituality,",Sadhguru,https://feeds.hubhopper.com/cf7fbc47963d87fed1ad5e2e5c2faef0.rss
+in,2,Gita For Daily Living,584092091,2020-10-17,Hinduism,"Religion & Spirituality,Spirituality,",Neil Bhatt,https://neilbhatt.podbean.com/feed.xml
+in,3,TED Talks Daily,160904630,2020-10-28,Education,"Society & Culture,",TED,http://feeds.feedburner.com/TEDTalks_audio
+in,4,Maed in India,1009197596,2021-03-01,Music Interviews,"Music,Music Commentary,",Maed in India,https://maedinindia.libsyn.com/maedinindia
+in,5,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ff4ff6bb-916d-4c78-ad23-ac8d017d4c2d/7c990ede-a998-4804-957e-ac8d017d4c45/podcast.rss
+in,6,"Think Fast, Talk Smart: Communication Techniques.",1494989268,2020-10-22,Careers,"Business,Management,",Stanford GSB,https://rss.art19.com/think-fast-talk-smart
+in,7,Unofficial Sources,1548244887,2021-01-11,Business,"News,Business News,",The Ken,https://unofficialsources.libsyn.com/rss
+in,8,Finshots Daily,1532901566,2020-10-28,Business,,Finshots,https://anchor.fm/s/37a76020/podcast/rss
+in,9,6 Minute Vocabulary,1036379102,2020-10-26,Education,,BBC Radio,https://podcasts.files.bbci.co.uk/p02pc9xz.rss
+in,10,The Ranveer Show,1490896085,2021-03-05,Self Help,"Education,Health & Fitness,Mental Health,",BeerBiceps aka Ranveer Allahbadia,https://feeds.simplecast.com/7PWFZi_d
+in,11,What's Up Sister?,1554876547,2021-02-22,Personal Journals,"Society & Culture,",What's up Sister,https://anchor.fm/s/4d0db478/podcast/rss
+in,12,Practically Gita,1548187636,2021-02-10,Self Help,"Education,Religion & Spirituality,Spirituality,",WYN Studio,https://www.omnycontent.com/d/playlist/d12d0745-fc3d-4551-91b0-abb4005ee39c/8b2fe35f-4021-4635-b800-acac009d98a2/6f011453-b3ff-4dc8-92ae-acac00b7c910/podcast.rss
+in,13,The Cipher,1543887425,2021-01-26,Drama,"Fiction,",BBC Radio,https://podcasts.files.bbci.co.uk/p090t9cl.rss
+in,14,Old Hindi Songs's show,1548383228,2021-01-12,Music,,Hindu Epics,https://www.spreaker.com/show/2200056/episodes/feed
+in,15,2000 Books for Ambitious Entrepreneurs - Author Interviews and Book Summaries,1119439036,2020-09-21,Entrepreneurship,"Business,Management,",Mani Vaya,https://2000books.libsyn.com/rss
+in,16,Daily Motivation Podcast,1035148051,2016-10-05,Alternative Health,"Health & Fitness,Comedy,",Daily Motivation Podcast,https://feed.pod.co/daily-motivation-podcast
+in,17,The Stories of Mahabharata,888135469,2020-09-09,Performing Arts,"Arts,",Sudipta Bhawmik,http://nynjbengali.com/feed/mahabharata/
+in,18,The History of India Podcast,1041684187,2020-05-01,History,"Society & Culture,Places & Travel,",Kit Patrick,https://historyofindiapodcast.libsyn.com/rss
+in,19,The Intelligence,1449631195,2020-10-28,Daily News,"News,",The Economist,https://rss.acast.com/theintelligencepodcast
+in,20,The Habit Coach with Ashdin Doctor,1445665622,2020-10-28,Health & Fitness,"Sports,",IVM Podcasts,https://static.adorilabs.com/feed/the-habit-coach-with-ashdin-doctor.xml
+in,21,The Tastes of India Podcast in Hindi : Healthy Living Tips and Cookery Show,1039644241,2021-02-28,Food,"Arts,Leisure,Hobbies,","Puja - Blogger, Home Business Owner, Self Proclaimed Cook",https://feeds.bcast.fm/the-tastes-of-india
+in,22,Little Stories for Tiny People: Anytime and bedtime stories for kids,1039511252,2021-02-07,Stories for Kids,"Kids & Family,Arts,Books,",Rhea Pechter,https://www.littlestoriestinypeople.com/podcast.xml
+in,23,Brewing Talks,1552164995,2021-03-02,Marketing,"Business,Management,",Ep.Log Media,https://www.omnycontent.com/d/playlist/6244f5b5-c2fb-44f4-86cd-ab6b008158ba/b5f61b20-b60b-45e4-b2b2-acc50079ac3c/d5f97e74-c233-4f54-9414-acc5007ac708/podcast.rss
+in,24,Akashavani English News,1536206996,2020-10-28,Daily News,"News,",All India Radio,https://www.neti.link/podcasts/airnews/feeds/english.xml
+in,25,Little Explorers - Countries In The World,1549390988,2021-02-10,Places & Travel,"Society & Culture,Education,",Chimes Radio,https://www.omnycontent.com/d/playlist/11768d44-b0a8-487d-8e8b-ac790033e153/1dd6f14e-35ac-4824-a511-acb200a80854/61d03355-36f0-49c3-80e7-acb200a920bd/podcast.rss
+in,26,Zerodha Educate,1448599498,2020-10-24,Investing,"Business,",Zerodha,https://anchor.fm/s/27c4398/podcast/rss
+in,27,Sandeep Maheshwari Motivation,1549822234,2021-02-05,Self Help,"Education,",Sandeep Maheshwari,https://anchor.fm/s/393e581c/podcast/rss
+in,28,The Mindvalley Podcast with Vishen Lakhiani,1317823455,2020-10-28,Health & Fitness,"Education,Self Help,",Mindvalley,https://themindvalleypodcas.libsyn.com/rss
+in,29,The Daily Mastery Podcast by Robin Sharma,1521068608,2020-11-13,Self Help,"Education,Business,Entrepreneurship,",Robin Sharma,https://feeds.buzzsprout.com/1182776.rss
+in,30,We Study Billionaires - The Investor’s Podcast Network,928933489,2020-10-25,Investing,"Business,Education,",The Investor's Podcast Network,https://rss.art19.com/the-investors-podcast
+in,31,Behind Every Dream,1550874620,2021-02-18,Mental Health,"Health & Fitness,Business,Entrepreneurship,",Shivani Bafna,https://feeds.buzzsprout.com/1646071.rss
+in,32,Moneycontrol Podcast,1340196987,2020-10-28,Business,,moneycontrol,https://audioboom.com/channels/4937727.rss
+in,33,Naval,1454097755,2020-07-15,Investing,"Business,Technology,",Naval,https://naval.libsyn.com/rss
+in,34,The Big Story,1437983503,2020-10-29,News,,The Quint,https://audioboom.com/channels/4971888.rss
+in,35,The English We Speak,262026989,2020-10-27,Education,,BBC Radio,https://podcasts.files.bbci.co.uk/p02pc9zn.rss
+in,36,Modern Love,1065559535,2020-10-21,Relationships,"Society & Culture,",The New York Times,https://feeds.simplecast.com/0N8Hs1MH
+in,37,3 Things,1406730235,2020-10-28,News,,The Indian Express,https://audioboom.com/channels/4982683.rss
+in,38,Is Romance Dead?,1534542817,2020-11-06,Relationships,"Society & Culture,Comedy,Comedy Interviews,",Maed in India,https://isromancedead.libsyn.com/rss
+in,39,The Documentary Podcast,73802620,2020-10-27,History,"News,Society & Culture,",BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+in,40,The GaryVee Audio Experience,928159684,2020-10-28,Entrepreneurship,"Business,",Gary Vaynerchuk,https://anchor.fm/s/f39a864/podcast/rss
+in,41,In Focus by The Hindu,1494440867,2020-10-26,News Commentary,"News,",The Hindu,https://anchor.fm/s/1262269c/podcast/rss
+in,42,The Great Indian Marketing Show,1542664721,2021-01-05,Marketing,"Business,",Aadil Bandukwala & Kaushik Satish,https://anchor.fm/s/2919824/podcast/rss
+in,43,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-10-28,Comedy,"News,Daily News,",iHeartRadio & Comedy Central,https://feeds.megaphone.fm/the-daily-show
+in,44,Cementing Wedding With Marriage - ( Marathi Podcast),1552604499,2021-02-24,Relationships,"Society & Culture,",NACHIKET KSHIRE & LEENA PARANJPE,https://anchor.fm/s/4b948450/podcast/rss
+in,45,BloombergQuint All You Need To Know,1440116479,2020-10-28,Investing,"Business,News,",IVM Podcasts,https://bqallyouneedtoknow.libsyn.com/rss
+in,46,Global News Podcast,135067274,2021-03-07,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+in,47,The Passion People Podcast,1206967377,2021-02-26,Personal Journals,"Society & Culture,Business,Entrepreneurship,",Ep.Log Media,https://www.omnycontent.com/d/playlist/6244f5b5-c2fb-44f4-86cd-ab6b008158ba/5f46b6f4-31ae-48ce-a4e0-ac32004d3d49/0e223136-927f-4a2a-b126-ac32004d3d5b/podcast.rss
+in,48,The Musafir Stories - India Travel Podcast,1209849464,2021-02-22,Places & Travel,"Society & Culture,Leisure,Hobbies,",Saif & Faiza,https://audioboom.com/channels/4905542.rss
+in,49,Red FM Bauaa,1118875240,2021-02-18,Comedy,"TV & Film,",Red FM,https://www.omnycontent.com/d/playlist/8ce708b9-c3c2-4eaa-a27d-ac0f007c53c5/232a6ee0-f0fb-4a77-a1cd-ac22009d88c7/8c8aa2ff-faca-4553-a635-ac22009d88d0/podcast.rss
+in,50,Cyrus Says,979118845,2020-10-28,Comedy,"Sports,Cricket,",IVM Podcasts,https://static.adorilabs.com/feed/cyrus-says.xml
+in,51,HBR IdeaCast,152022135,2020-10-27,Management,"Business,Entrepreneurship,",Harvard Business Review,http://feeds.harvardbusiness.org/harvardbusiness/ideacast
+in,52,IELTS Podcast,524002915,2021-01-28,Language Learning,"Education,",Ben Worthington,https://www.ieltspodcast.com/feed/podcast/
+in,53,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stuffyoushouldknow
+in,54,Waveform: The MKBHD Podcast,1474429475,2020-10-16,Technology,"News,Tech News,",Studio71,http://feeds.feedburner.com/WaveformWithMkbhd
+in,55,Kwik Brain with Jim Kwik,1208024744,2020-10-26,Self Help,"Education,Business,","Jim Kwik, Your Brain Coach, Founder www.KwikLearning.com",https://kwikbrain.libsyn.com/rss
+in,56,PURIJAGANNADH,1522708820,2020-10-23,Hobbies,"Leisure,",Purijagannadh,https://anchor.fm/s/2abb69d8/podcast/rss
+in,57,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig",https://rss.art19.com/tim-ferriss-show
+in,58,Sidhu Oye Sidhu,1523324463,2020-07-25,Music Commentary,"Music,",Music Crew,https://anchor.fm/s/2b7369c0/podcast/rss
+in,59,6 Minute Grammar,1080974028,2020-10-27,Education,,BBC Radio,https://podcasts.files.bbci.co.uk/p02pc9wq.rss
+in,60,Economist Radio,151230264,2020-10-28,News,,The Economist,https://rss.acast.com/theeconomistallaudio
+in,61,UNKUT KRITIKA,1517640300,2020-10-31,Self Help,"Education,",Kritika Khurana,https://anchor.fm/s/233030e0/podcast/rss
+in,62,Philosophize This!,659155419,2020-10-20,Philosophy,"Society & Culture,Education,",Stephen West,https://philosophizethis.libsyn.com/rss
+in,63,The Mindset Mentor,1033048640,2020-10-28,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/5cd7413c-b341-493f-bf46-acb500364141/6b2540d4-e0b2-42f7-a61a-acb50036415a/podcast.rss
+in,64,The Seen and the Unseen - hosted by Amit Varma,1190896090,2020-10-25,Politics,"News,Society & Culture,",Amit Varma,http://seenunseen.ivm.libsynpro.com/rss
+in,65,Saregama Carvaan Classic Retro Music,1131144827,2019-12-26,Music,,Saregama India Ltd,https://r.saregama.com/resources/podcast/weekend_radio.xml
+in,66,Vedanta and Yoga,160835381,2020-05-24,Spirituality,"Religion & Spirituality,","Ramakrishna Vedanta Society, Boston",https://vedanta.libsyn.com/rss
+in,67,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times,https://feeds.simplecast.com/54nAGcIl
+in,68,Bangalore In Stories,1547246790,2021-01-27,Documentary,"Society & Culture,Arts,",PodMacha Studios,https://feeds.buzzsprout.com/1588378.rss
+in,69,9XM Song Secret,1516770387,2020-10-24,Music Interviews,"Music,Music History,",Ep.Log Media,https://www.omnycontent.com/d/playlist/6244f5b5-c2fb-44f4-86cd-ab6b008158ba/ccc369ba-67e9-4c50-8938-abd000715414/7e442788-14eb-4756-83e0-abd00076d139/podcast.rss
+in,70,Akashavani Hindi News,1536206642,2020-10-28,Daily News,"News,",All India Radio,https://www.neti.link/podcasts/airnews/feeds/hindi.xml
+in,71,TED Talks Education,470623037,2020-06-19,Courses,"Education,Science,",TED,http://feeds.feedburner.com/iTunesPodcastTTEducation
+in,72,Daily Dose,1456761991,2021-02-27,News,,Newslaundry.com,https://feeds.acast.com/public/shows/5ec24883bab33c11af39f705
+in,73,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo,http://spanishpodcast.duolingo.libsynpro.com/rss
+in,74,Prime Time with Ravish,1442530475,2020-12-02,News,,NDTV,"http://api.videos.ndtv.com/apis/podcast/index/client_key/ndtv-podcast-5d35e3e34a92df17d11d54e0ff241e8b?shows=494&showfull=1&media_type=audio&extra_params=keywords,description,ssl&language=2"
+in,75,Detective Mathema's Maths Puzzles for Kids,1184274374,2016-12-09,Education for Kids,"Kids & Family,Science,Mathematics,",Fun Kids,https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/a20f8594-27ba-4034-b3f1-a6cd00fd0b5e/podcast.rss
+in,76,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR,https://feeds.npr.org/510313/podcast.xml
+in,77,Coaching Real Leaders,1545444200,2021-01-25,Careers,"Business,Management,",HBR Presents / Muriel Wilkins,http://feeds.harvardbusiness.org/harvardbusiness/coaching-real-leaders
+in,78,Masters of Scale with Reid Hoffman,1227971746,2020-10-27,Management,"Business,Entrepreneurship,",WaitWhat,https://rss.art19.com/masters-of-scale
+in,79,Unsolved Murders: True Crime Stories,1122804248,2020-12-01,True Crime,"Society & Culture,",Parcast Network,https://feeds.megaphone.fm/END8394789342
+in,80,RED FM LOVE STORY by RJ PAHI,1289643592,2021-02-09,Personal Journals,"Society & Culture,Arts,Books,",Red FM,https://www.omnycontent.com/d/playlist/8ce708b9-c3c2-4eaa-a27d-ac0f007c53c5/a2285256-ad86-4004-9bb7-ac4000bdacf8/2c48b105-c75c-4d5d-83a0-ac4000bdad06/podcast.rss
+in,81,Youtube Lab,919631690,2016-12-06,Technology,,Дмитрий Бушков,https://podster.fm/rss.xml?pid=20044
+in,82,Animal Gyan - Land Animals,1509932636,2021-02-02,Education for Kids,"Kids & Family,Pets & Animals,",Chimes Radio,https://www.omnycontent.com/d/playlist/11768d44-b0a8-487d-8e8b-ac790033e153/d2ee5146-1574-45a8-8764-ac79008234e0/9fffba4b-503c-45b3-b7ef-ac79008234ea/podcast.rss
+in,83,We Are What We Eat: Pay The Farmer Not The Pharmacy,1512934794,2020-11-16,Nutrition,"Health & Fitness,",Meera & Ashok Vasudevan,https://feeds.buzzsprout.com/1057315.rss
+in,84,WorkLife with Adam Grant,1346314086,2020-05-12,Management,"Business,",TED,https://feeds.feedburner.com/WorklifeWithAdamGrant
+in,85,DJ TRIPLE S - Mix Series,1394251788,2020-06-21,Music,,DJ TRIPLE S,https://feeds.buzzsprout.com/182661.rss
+in,86,DJDeepNYC,1437907791,2020-07-25,Music,,DjDeepNYC,http://feeds.soundcloud.com/users/soundcloud:users:32777556/sounds.rss
+in,87,The Sadhguru Podcast,1479332846,2019-09-25,Spirituality,"Religion & Spirituality,",The Sadhguru Podcast,https://www.spreaker.com/show/3670579/episodes/feed
+in,88,Business Wars,1335814741,2020-10-28,Management,"Business,History,",Wondery,https://rss.art19.com/business-wars
+in,89,Get Sleepy: Sleep meditation and stories,1487513861,2020-12-02,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy,https://feeds.simplecast.com/IXxBBvKz
+in,90,The School of Greatness,596047499,2020-10-28,Alternative Health,"Health & Fitness,Education,",Lewis Howes,https://rss.art19.com/the-school-of-greatness
+in,91,Marketing School - Digital Marketing and Online Marketing Tips,1138869817,2020-10-28,Marketing,"Business,Careers,",Eric Siu & Neil Patel,https://mschool.libsyn.com/rss
+in,92,ThePrint,1488735954,2021-03-06,Politics,"News,News Commentary,",ThePrint,https://feed.podbean.com/theprint/feed.xml
+in,93,Classic English Stories For Kids,1509930659,2021-03-03,Stories for Kids,"Kids & Family,Education for Kids,",Chimes Radio,https://www.omnycontent.com/d/playlist/11768d44-b0a8-487d-8e8b-ac790033e153/cf5b68b4-0dd8-42e1-a728-ac790082331c/9f8644de-cb70-4049-8973-ac790082332f/podcast.rss
+in,94,Akbar Birbal Stories- Hindi Moral Tales,1509930788,2021-02-25,Stories for Kids,"Kids & Family,Education for Kids,",Chimes Radio,https://www.omnycontent.com/d/playlist/11768d44-b0a8-487d-8e8b-ac790033e153/7ca6bfe5-f3e5-48d0-9ec9-ac7900823408/cd97a5fd-23bd-4a17-89cf-ac7900823412/podcast.rss
+in,95,Learn English | EnglishClass101.com,323145903,2021-03-06,Language Learning,"Education,Courses,",EnglishClass101.com,https://www.englishclass101.com/wp-feed-audio-video.php
+in,96,The Robin Sharma Mastery Sessions,1068207118,2020-03-05,Education,"Business,",Robin Sharma,https://robinsharma.libsyn.com/rss
+in,97,Bollywood Weekly,1003811629,2021-02-20,TV & Film,"Society & Culture,",TiC Productions,https://audioboom.com/channels/4904356.rss
+in,98,The Here We Go Podcast,1554785643,2021-03-03,Soccer,"Sports,",Here We Go,https://www.spreaker.com/show/4799799/episodes/feed
+in,99,Sadhguru Speeches by Sync Mind,1481769883,2020-08-15,Society & Culture,"Religion & Spirituality,Spirituality,",Sync Mind/Sadhguru Speeches,https://feeds.buzzsprout.com/406666.rss
+in,100,CNN Daily News Briefing,1436719991,2021-01-04,Daily News,"News,",CNN,https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/c60c7fde-12c3-42c0-b017-ab8601030664/d9d8c960-d59c-41c7-86a3-ab8601030664/podcast.rss
+in,101,Nani Ki Kahaniya,1488292026,2020-03-09,Education for Kids,"Kids & Family,Stories for Kids,",Sony Music Kids,https://audioboom.com/channels/5004935.rss
+in,102,FT News Briefing,1438449989,2020-10-29,Daily News,"News,",Financial Times,https://rss.acast.com/ftnewsbriefing
+in,103,Learning English Broadcast - VOA Learning English,109522474,2020-10-28,Language Learning,"Education,",VOA Learning English,https://learningenglish.voanews.com/podcast/?count=20&zoneId=1689
+in,104,The Indian Edit,1377845840,2021-02-02,Personal Journals,"Society & Culture,Arts,Design,",Nitasha Manchanda,https://nitasha-manchanda-xpkt.squarespace.com/?format=rss
+in,105,a16z Podcast,842818711,2021-01-23,Technology,"Business,Entrepreneurship,",Andreessen Horowitz,https://feeds.simplecast.com/JGE3yC0V
+in,106,Heirs of The Pandavas,1526452361,2020-10-17,Fiction,"History,",WYN Studio,https://www.omnycontent.com/d/playlist/d12d0745-fc3d-4551-91b0-abb4005ee39c/ae5a4aff-f3c5-4ce4-a394-ac0e00855480/ce3e86c6-bc77-4702-93b9-ac0e00892ee2/podcast.rss
+in,107,Bedtime Stories For Kids Hindi|English,1535001986,2021-02-25,Stories for Kids,"Kids & Family,",PANDA MAMA,https://anchor.fm/s/37c023f8/podcast/rss
+in,108,The Journal.,1469394914,2020-12-23,Daily News,"News,",The Wall Street Journal & Gimlet,https://video-api.wsj.com/podcast/rss/wsj/the-journal
+in,109,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries,https://feeds.megaphone.fm/happinesslab
+in,110,The Jordan B. Peterson Podcast,1184022695,2020-11-29,Education,"Science,",Dr. Jordan B. Peterson,https://jordanbpetersonpodcast.libsyn.com/rss
+in,111,Arijit Singh,1532263528,2020-09-17,Music Commentary,"Music,",Shivani Yadav,https://anchor.fm/s/372f3fc8/podcast/rss
+in,112,Hindi Song Review,1494771324,2020-02-18,Music Commentary,"Music,",Hansa Juhi Rani,https://anchor.fm/s/128e8b10/podcast/rss
+in,113,Bill Gates and Rashida Jones Ask Big Questions,1538630420,2020-12-14,Society & Culture,,Gates Notes,https://feeds.feedburner.com/BillGatesAndRashidaJonesAskBigQuestions
+in,114,Capitalmind Podcast,1453280018,2021-01-05,Investing,"Business,",Capitalmind,https://capitalmind.libsyn.com/rss
+in,115,The Kulstarr Fix,1391332856,2019-04-29,Music,,Kulstarr,http://feeds.soundcloud.com/users/soundcloud:users:171000742/sounds.rss
+in,116,The McKinsey Podcast,285260960,2020-10-09,Management,"Business,News,Business News,",McKinsey & Company,https://podcasts.mckinsey.com/fp/main
+in,117,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss
+in,118,"Rich Dad Radio Show: In-Your-Face Advice on Investing, Personal Finance, & Starting a Business",833641766,2021-02-24,Investing,"Business,Education,",The Rich Dad Radio Network,https://feeds.megaphone.fm/richdad
+in,119,Paisa Vaisa,1239293215,2020-10-26,Investing,"Business,Marketing,",IVM Podcasts,https://static.adorilabs.com/feed/paisa-vaisa.xml
+in,120,Hindi Song,1504664694,2020-03-22,Performing Arts,"Arts,",KHASI SONG,https://anchor.fm/s/17cff21c/podcast/rss
+in,121,99% Invisible,394775318,2020-12-18,Design,"Arts,",Roman Mars,https://feeds.99percentinvisible.org/99percentinvisible
+in,122,Good Night Stories for Adults by Roshan Abbas,1515378138,2021-02-05,Relationships,"Society & Culture,",Kommune,https://anchor.fm/s/21121468/podcast/rss
+in,123,DJ Ravish Remixes,1508721102,2020-10-25,Music,,DJ Ravish,https://hearthis.at/set/151586-149937/podcast/
+in,124,Chulbuli Tales Podcast,1528481399,2020-10-28,Stories for Kids,"Kids & Family,Education for Kids,",Ep.Log Media,https://www.omnycontent.com/d/playlist/6244f5b5-c2fb-44f4-86cd-ab6b008158ba/cf2e7d48-2253-49e4-b46c-ac1d0061c7f0/0269ec49-84fd-4001-86d8-ac1d006a0bac/podcast.rss
+in,125,Meditative Story,1472106563,2021-02-24,Society & Culture,"Health & Fitness,Mental Health,",WaitWhat + Thrive Global,https://rss.art19.com/meditative-story
+in,126,Huberman Lab,1545953110,2020-12-21,Health & Fitness,"Education,",Dr. Andrew Huberman,https://hubermanlab.libsyn.com/rss
+in,127,Genius Bar,1550568878,2021-01-25,Technology,"News,Tech News,",Jon Prosser + Sam Kohl,https://feeds.simplecast.com/tMe8m4GZ
+in,128,The Indian Startup Show,1031590716,2020-10-14,Technology,"Business,Entrepreneurship,",Neil Patel,https://feeds.simplecast.com/6dj1W8C2
+in,129,Kahani Suno,1213337541,2020-09-30,Books,"Arts,",Sameer Goswami,https://anchor.fm/s/2ce54f80/podcast/rss
+in,130,WhatsApp University And Corona(Hindi) The Debator!,1515173768,2020-05-15,Documentary,"Society & Culture,",The Galaga Guy,https://anchor.fm/s/217d0048/podcast/rss
+in,131,6 Minute English,262026947,2020-10-22,Education,,BBC Radio,https://podcasts.files.bbci.co.uk/p02pc9tn.rss
+in,132,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris,https://wakingup.libsyn.com/rss
+in,133,Money Talks from Economist Radio,420929545,2020-12-15,Business News,"News,",The Economist,https://rss.acast.com/theeconomistmoneytalks
+in,134,Coffee Break French,263170419,2020-10-22,Courses,"Education,Language Learning,",Radio Lingua Network,http://rss.acast.com/coffeebreakfrench
+in,135,Kathe Paend - A place to tell stories of Kashmir,1545333588,2021-02-02,History,"Society & Culture,",Red FM,https://www.omnycontent.com/d/playlist/8ce708b9-c3c2-4eaa-a27d-ac0f007c53c5/6e489098-efa0-4fac-bd1b-ac8000c798a5/c082b171-4dd0-43a4-bd4b-ac8000c7fe70/podcast.rss
+in,136,"Hey, Stranger!",1547086264,2021-01-19,Society & Culture,,Thoraya Maronesy,https://anchor.fm/s/43641e30/podcast/rss
+in,137,Duolingo French Podcast,1466824259,2021-02-09,Education,"Society & Culture,Places & Travel,",Duolingo,https://frpodcast.libsyn.com/rss
+in,138,The Knowledge Project with Shane Parrish,990149481,2021-02-23,Investing,"Business,Education,Self Help,",Farnam Street,https://theknowledgeproject.libsyn.com/rss
+in,139,The Dropout,1449500734,2021-03-01,True Crime,,ABC News,https://feeds.megaphone.fm/ESP5480008395
+in,140,Not Overthinking,1456538451,2021-03-01,Society & Culture,"Business,",Ali & Taimur Abdaal,https://rss.art19.com/not-overthinking
+in,141,The Devdutt Pattanaik Show | Mirchi,1465487889,2020-03-04,Philosophy,"Society & Culture,Education,",Devdutt Pattanaik,https://feeds.simplecast.com/pgsclD_d
+in,142,The Ranveer Show हिंदी,1542452346,2021-02-27,Self Help,"Education,Health & Fitness,Mental Health,",BeerBiceps aka Ranveer Allahbadia,https://feeds.simplecast.com/Qj87SOvG
+in,143,iPhone Ringtone Videos,540187826,2014-11-25,Technology,"Kids & Family,",RingtoneFeeder.com,http://www.ringtonefeeder.com/videopodcast.xml
+in,144,Learn English with the British Council and Premier League,1216260422,2020-12-21,Language Learning,"Education,Sports,Soccer,",Jack Radford & Rich Moon,https://audioboom.com/channels/4903282.rss
+in,145,7 Good Minutes Daily Self-Improvement Podcast with Clyde Lee Dennis,1346062517,2020-10-28,Self Help,"Education,Society & Culture,Philosophy,",Clyde Lee Dennis,https://www.spreaker.com/show/3367994/episodes/feed
+in,146,The Daily Stoic,1430315931,2020-11-09,Self Help,"Education,Business,",Daily Stoic,https://feeds.buzzsprout.com/202128.rss
+in,147,IELTS Speaking for Success,1488201401,2020-10-26,Language Learning,"Education,",Success with IELTS,https://anchor.fm/s/f9cee74/podcast/rss
+in,148,Love Me,1121239439,2020-10-22,Society & Culture,,CBC Podcasts,https://www.cbc.ca/podcasting/includes/loveme.xml
+in,149,The Book Show & Rough Note by RJ Ananthi,1492486688,2020-08-14,Books,"Arts,",The Book Show,https://anchor.fm/s/11b87b74/podcast/rss
+in,150,Vedanta Talks,1247628265,2020-10-28,Religion & Spirituality,,Vedanta Society of New York,http://feeds.soundcloud.com/users/soundcloud:users:311396902/sounds.rss
+in,151,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss
+in,152,How To Be A Better Human,1544098624,2021-01-25,Self Help,"Education,",TED and PRX,https://feeds.feedburner.com/HowToBeABetterHuman
+in,153,Office Ladies,1480311435,2020-10-28,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/514362cf-31b4-4ed2-af40-aae301805ffd/podcast.rss
+in,154,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2021-02-17,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author,https://rss.acast.com/feelbetterlivemore
+in,155,LSE: Public lectures and events,279428154,2021-03-03,Courses,"Education,",London School of Economics and Political Science,https://www.lse.ac.uk/assets/richmedia/webFeeds/publicLecturesAndEvents_iTunesStore.xml
+in,156,Cautionary Tales,1484511465,2021-02-26,History,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/cautionarytales
+in,157,All Indians Matter,1527740349,2021-02-04,News Commentary,"News,",Ideabrew Studios,https://feed.pod.co/all-indians-matter
+in,158,TED Talks Technology,470624027,2020-10-23,Technology,"Science,",TED,http://feeds.feedburner.com/iTunesPodcastTTTechnology
+in,159,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2021-01-01,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation,https://feeds.fireside.fm/bibleinayear/rss
+in,160,RadioFM Bollywood,1502261788,2020-10-29,Music,,seema  garg,https://feed.pod.co/radiofm-bollywood
+in,161,Darknet Diaries,1296350485,2021-01-19,Technology,"True Crime,",Jack Rhysider,https://feeds.megaphone.fm/darknetdiaries
+in,162,IELTS Energy English Podcast,969076668,2020-10-28,Language Learning,"Education,Courses,",Lindsay McMahon and Jessica Beck,https://ieltsenergy.libsyn.com/rss
+in,163,Books and Beyond with Bound,1502692172,2020-10-27,Books,"Arts,Society & Culture,",Bound Podcasts,https://feeds.buzzsprout.com/924931.rss
+in,164,Joel Osteen Podcast,137254859,2021-02-12,Christianity,"Religion & Spirituality,",Joel Osteen,https://feeds.megaphone.fm/HSW9490884322
+in,165,Inside Forbes India,418685623,2021-02-15,Business,,Forbes India,https://anchor.fm/s/2ae5651c/podcast/rss
+in,166,ELECTRONYK PODCAST,558494752,2020-05-27,Music,,DJ NYK,https://electronyk.podomatic.com/rss2.xml
+in,167,Lex Fridman Podcast,1434243584,2020-10-25,Technology,"Science,",Lex Fridman,https://lexfridman.com/feed/podcast/
+in,168,Crime Junkie,1322200189,2021-02-01,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL9840290619
+in,169,Planet Money,290783428,2020-10-23,Business,"News,",NPR,https://feeds.npr.org/510289/podcast.xml
+in,170,The Joy of x,1495067186,2021-03-02,Science,,Steven Strogatz and Quanta Magazine,https://api.quantamagazine.org/feed/the-joy-of-x/
+in,171,TED Business,470622782,2020-10-26,Business,,TED,http://feeds.feedburner.com/iTunesPodcastTTBusiness
+in,172,Bhojpuri Sher Khesari Ke Song,1553199762,2021-01-20,Music Commentary,"Music,",Tinku Yadav,https://anchor.fm/s/48cc65f8/podcast/rss
+in,173,Social Media Marketing Podcast,549899114,2021-03-04,Marketing,"Business,Entrepreneurship,","Michael Stelzner, Social Media Examiner",https://socialmediamarketing.libsyn.com/rss
+in,174,Software Engineering Daily,1019576853,2021-03-05,Tech News,"News,",Software Engineering Daily,https://softwareengineeringdaily.com/feed/podcast/
+in,175,Unlocking Us with Brené Brown,1494350511,2020-12-16,Relationships,"Society & Culture,Education,Self Help,",Parcast Network,https://feeds.megaphone.fm/unlocking-us
+in,176,StarTalk Radio,325404506,2020-10-26,Science,,Neil deGrasse Tyson,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/43816ad6-9ef9-4bd5-9694-aadc001411b2/808b901f-5d31-4eb8-91a6-aadc001411c0/podcast.rss
+in,177,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify,https://feeds.megaphone.fm/tmopwide
+in,178,Test Match Special,205892240,2021-03-05,Sports,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/p02nrsl2.rss
+in,179,NL Hafta,582585399,2020-10-24,News,,Newslaundry.com,https://feeds.acast.com/public/shows/5ec3d9497cef7479d2ef4798
+in,180,Bhagavad Gita English,1201248091,2017-02-01,Hinduism,"Religion & Spirituality,Society & Culture,",Yatharth Geeta,https://audioboom.com/channels/4902467.rss
+in,181,Ek Kahani Aisi Bhi,1137521932,2016-06-20,Books,"Arts,TV & Film,",Red FM,https://www.omnycontent.com/d/playlist/8ce708b9-c3c2-4eaa-a27d-ac0f007c53c5/835cf6c3-c3e4-4b98-81ba-ac2a00ae0448/8be50939-da1a-4066-82b4-ac2a00ae0464/podcast.rss
+in,182,But…Where Are You Really From?,1534173216,2020-11-19,Podcasts,,BBC Asian Network,https://podcasts.files.bbci.co.uk/p08t2r0q.rss
+in,183,Indian Startup Stories,1547922859,2021-01-14,Entrepreneurship,"Business,Education,Self Help,",Ashok,https://feeds.buzzsprout.com/1561199.rss
+in,184,Editor's Picks from The Economist,313848583,2021-03-01,News,,The Economist,https://rss.acast.com/theeconomisteditorspicks
+in,185,Psychology In Hindi,1472370879,2021-03-04,Education,,Saurabh Gandhi,https://anchor.fm/s/c9caf5c/podcast/rss
+in,186,The Futur with Chris Do,1209219220,2021-03-03,Marketing,"Business,Arts,Design,",The Futur,https://feeds.megaphone.fm/thefutur
+in,187,विवेचना,1245120783,2021-03-05,News,,BBC Hindi Radio,https://podcasts.files.bbci.co.uk/p0552909.rss
+in,188,CHARLI AND DIXIE: 2 CHIX,1531221910,2021-03-04,Personal Journals,"Society & Culture,",Ramble and Charli and Dixie D’Amelio,https://feeds.megaphone.fm/2-chix
+ie,1,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/mommy-doomsday
+ie,2,Crime Junkie,1322200189,2020-11-02,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL9840290619
+ie,3,The Daily,1200361736,2020-11-04,Daily News,"News,",The New York Times,https://feeds.simplecast.com/54nAGcIl
+ie,4,Dateline NBC,1464919521,2020-11-04,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/dateline-nbc
+ie,5,The Ben Shapiro Show,1047335260,2020-11-04,News,,The Daily Wire,https://feeds.megaphone.fm/WWO8086402096
+ie,6,The Bible in a Year (with Fr. Mike Schmitz),1539568321,2020-12-14,Christianity,"Religion & Spirituality,History,",Ascension Catholic Faith Formation,https://feeds.fireside.fm/bibleinayear/rss
+ie,7,Unsolved Mysteries,1549903604,2021-02-17,True Crime,"Society & Culture,Documentary,","Cosgrove Meurer Productions, Inc. + Cadence13",https://feeds.megaphone.fm/unsolved-mysteries
+ie,8,Up First,1222114325,2020-11-04,Daily News,"News,",NPR,https://feeds.npr.org/510318/podcast.xml
+ie,9,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio,https://feeds.megaphone.fm/HSW2031154223
+ie,10,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery,https://rss.art19.com/against-the-odds
+ie,11,Human Hope with Carlos Whittaker,1249486443,2021-03-04,Personal Journals,"Society & Culture,",That Sounds Fun Network,https://anchor.fm/s/3d4a3c0/podcast/rss
+ie,12,Stuff You Should Know,278981407,2020-11-04,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stuffyoushouldknow
+ie,13,The Dave Ramsey Show,77001367,2020-11-03,Investing,"Business,Education,Self-Improvement,",Ramsey Network,https://daveramsey.libsyn.com/rss
+ie,14,La Brega,1553089886,2021-02-24,Society & Culture,,WNYC Studios and Futuro Studios,http://feeds.wnyc.org/la-brega
+ie,15,Office Ladies,1480311435,2020-11-04,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/514362cf-31b4-4ed2-af40-aae301805ffd/podcast.rss
+ie,16,The Office Deep Dive with Brian Baumgartner,1550331348,2021-02-09,TV & Film,"Society & Culture,Comedy,",iHeartRadio,https://feeds.megaphone.fm/HSW4507899119
+ie,17,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News,https://feeds.megaphone.fm/ESP8551283217
+ie,18,The Ezra Klein Show,1548604447,2021-01-13,Society & Culture,"News,",New York Times Opinion,https://feeds.simplecast.com/82FI35Px
+ie,19,Anatomy of Murder,1532894981,2020-11-04,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL2798563682
+ie,20,The Dan Le Batard Show with Stugotz,934820588,2021-01-05,Sports,,"Dan Le Batard, Stugotz",https://feeds.megaphone.fm/ESP2298543312
+ie,21,The Dan Bongino Show,965293227,2020-11-03,News Commentary,"News,",Westwood One Podcast Network / Dan Bongino,https://feeds.megaphone.fm/WWO3519750118
+ie,22,Serial,917918570,2020-08-20,News,"True Crime,",This American Life,https://feeds.simplecast.com/xl36XBC2
+ie,23,This American Life,201671138,2020-11-01,Personal Journals,"Society & Culture,Arts,",This American Life,http://feed.thisamericanlife.org/talpodcast
+ie,24,Embedded,1091709555,2021-02-25,News Commentary,"News,Society & Culture,Documentary,",NPR,https://feeds.npr.org/510311/podcast.xml
+ie,25,Unlocking Us with Brené Brown,1494350511,2020-11-04,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network,https://feeds.megaphone.fm/unlocking-us
+ie,26,Hidden Brain,1028908750,2020-11-02,Social Sciences,"Science,Natural Sciences,",Hidden Brain,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss
+ie,27,This is Paris,1552058389,2021-02-22,Society & Culture,,iHeartRadio & Paris Hilton,https://feeds.megaphone.fm/HSW2082099215
+ie,28,Fresh Air,214089682,2020-11-03,Books,"Arts,TV & Film,",NPR,https://feeds.npr.org/381444908/podcast.xml
+ie,29,The Opportunist,1551162705,2021-02-16,True Crime,,Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/6ed483d8-0973-449e-a168-acbe00f6edfa/e58246bc-fa9f-488c-ba9e-acbe00f8270e/podcast.rss
+ie,30,Red Collar,1541330058,2020-12-01,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL4201344942
+ie,31,Consider This from NPR,1503226625,2020-11-03,Daily News,"News,News Commentary,",NPR,https://feeds.npr.org/510355/podcast.xml
+ie,32,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ff4ff6bb-916d-4c78-ad23-ac8d017d4c2d/7c990ede-a998-4804-957e-ac8d017d4c45/podcast.rss
+ie,33,Supernatural with Ashley Flowers,1500667648,2020-10-28,Society & Culture,"True Crime,",Parcast Network,https://feeds.megaphone.fm/supernatural
+ie,34,Sal and Chris Present: Hey Babe!,1542475843,2021-01-21,Comedy Interviews,"Comedy,",No Presh Network,https://feed.podbean.com/nopreshnetwork/feed.xml
+ie,35,Planet Money,290783428,2020-10-30,Business,"News,",NPR,https://feeds.npr.org/510289/podcast.xml
+ie,36,Serial Killers,1205030005,2020-10-26,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END1032105222
+ie,37,The Rachel Maddow Show,294055449,2020-10-28,Daily News,"News,","Rachel Maddow, MSNBC",https://podcastfeeds.nbcnews.com/msnbc-rachel-maddow
+ie,38,Tom Talks,1543456877,2021-03-04,Comedy,"TV & Film,",YMH Studios,https://tomtalkspodcast.libsyn.com/rss
+ie,39,Cautionary Tales,1484511465,2021-02-26,History,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/cautionarytales
+ie,40,The NPR Politics Podcast,1057255460,2020-11-04,Politics,"News,Daily News,",NPR,https://feeds.npr.org/510310/podcast.xml
+ie,41,I AM Athlete Podcast,1537836233,2021-02-19,Sports,,"Brandon Marshall, Chad Johnson, Fred Taylor, Channing Crowder",https://feeds.buzzsprout.com/1447516.rss
+ie,42,Unsolved Murders: True Crime Stories,1122804248,2020-10-27,True Crime,"Society & Culture,",Parcast Network,https://feeds.megaphone.fm/END8394789342
+ie,43,Sway,1528594034,2020-10-26,Society & Culture,,New York Times Opinion,https://feeds.simplecast.com/l2i9YnTd
+ie,44,Double Date with Marlo Thomas & Phil Donahue,1547645093,2021-03-03,Relationships,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/doubledate
+ie,45,Louder with Crowder,929121341,2021-01-25,Politics,"News,News Commentary,",Blaze Podcast Network,https://feeds.megaphone.fm/BMDC5089297303
+ie,46,The Daily Show With Trevor Noah: Ears Edition,1334878780,2020-11-04,Comedy,"News,Daily News,",iHeartRadio & Comedy Central,https://feeds.megaphone.fm/the-daily-show
+ie,47,2 Bears 1 Cave with Tom Segura & Bert Kreischer,1468013270,2020-11-02,Comedy,,YMH Studios,https://2bears1cave.libsyn.com/rss
+ie,48,The Breakfast Club,1232428553,2020-10-28,Comedy,,iHeartRadio,https://feeds.megaphone.fm/the-breakfast-club
+ie,49,The Charlie Kirk Show,1460600818,2020-11-03,News,"Society & Culture,",Charlie Kirk,https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/c865b590-c84f-4f7e-a43e-ac64014b61d9/8978e846-cacd-4d65-b085-ac64014cd49f/podcast.rss
+ie,50,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig",https://rss.art19.com/tim-ferriss-show
+ie,51,Nurture vs Nurture with Dr. Wendy Mogel,1549814799,2021-02-16,Kids & Family,"Society & Culture,",Armchair Umbrella,https://feeds.simplecast.com/KUFNuLM3
+ie,52,Adam Carolla Show,306390087,2020-11-04,Comedy,,PodcastOne / Carolla Digital,http://feeds.feedburner.com/TheAdamCarollaPodcast
+ie,53,The Thing About Pam,1479234915,2019-09-27,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/jDT1YfkK
+ie,54,Freakonomics Radio,354668519,2020-10-31,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss
+ie,55,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR,https://feeds.npr.org/510313/podcast.xml
+ie,56,True Crime Obsessed,1232009882,2020-10-27,True Crime,"Society & Culture,",Obsessed Network,https://audioboom.com/channels/4929680.rss
+ie,57,The Moth,275699983,2020-10-27,Performing Arts,"Arts,",The Moth,http://feeds.feedburner.com/themothpodcast
+ie,58,BiggerPockets Real Estate Podcast,594419649,2020-10-25,Investing,"Business,Education,",BiggerPockets,https://rss.art19.com/biggerpockets-real-estate-podcast
+ie,59,The Jordan B. Peterson Podcast,1184022695,2020-10-25,Education,"Science,",Dr. Jordan B. Peterson,https://jordanbpetersonpodcast.libsyn.com/rss
+ie,60,The Way I Heard It with Mike Rowe,1087110764,2020-10-27,Society & Culture,"History,",Mike Rowe,http://thewayiheardit.rsvmedia.com/rss/
+ie,61,The Simplified Podcast with Emily Ley,1553793022,2021-03-04,Personal Journals,"Society & Culture,Relationships,",Four Eyes Media,https://simplifiedpodcast.libsyn.com/rss
+ie,62,The Michael Knowles Show,1266577963,2020-10-28,News Commentary,"News,",The Daily Wire,https://feeds.megaphone.fm/WWO6807941907
+ie,63,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries,https://feeds.megaphone.fm/revisionisthistory
+ie,64,Empty Inside,1524250628,2021-02-24,Self-Improvement,"Education,Society & Culture,",Jennette McCurdy,https://jennettemccurdy.libsyn.com/rss
+ie,65,The Glenn Beck Program,620967489,2020-10-27,News Commentary,"News,Politics,",Blaze Podcast Network,https://feeds.megaphone.fm/BMDC3567910388
+ie,66,Get Sleepy: Sleep meditation and stories,1487513861,2020-10-28,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy,https://feeds.simplecast.com/IXxBBvKz
+ie,67,The Matt Walsh Show,1367210511,2021-01-06,News Commentary,"News,",The Daily Wire,https://feeds.megaphone.fm/WWO9088095423
+ie,68,The Michelle Obama Podcast,1532956108,2020-09-30,Relationships,"Society & Culture,Personal Journals,",Higher Ground & Spotify,https://feeds.megaphone.fm/tmopwide
+ie,69,Mark Levin Podcast,209377688,2020-10-28,News Commentary,"News,",Westwood One Podcast Network,https://feeds.megaphone.fm/mark-levin-podcast
+ie,70,Huberman Lab,1545953110,2021-02-22,Health & Fitness,"Science,",Dr. Andrew Huberman,https://hubermanlab.libsyn.com/rss
+ie,71,The Candace Owens Show,1454587745,2020-10-18,Education,,PragerU,http://feeds.soundcloud.com/users/soundcloud:users:593344158/sounds.rss
+ie,72,TED Radio Hour,523121474,2020-10-23,Technology,"Science,Social Sciences,",NPR,https://feeds.npr.org/510298/podcast.xml
+ie,73,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED,http://feeds.feedburner.com/TEDTalks_audio
+ie,74,Motherhood Meets Medicine,1553782780,2021-03-03,Kids & Family,"Health & Fitness,Medicine,",Lynzy Coughlin,https://motherhoodmeetsmedicine.libsyn.com/rss
+ie,75,Earn Your Leisure,1450211392,2021-01-29,Business,,The Black Effect and iHeartRadio,https://feeds.megaphone.fm/HSW2710456421
+ie,76,I Spy,1482310665,2021-02-23,Society & Culture,"History,",Foreign Policy,https://feeds.megaphone.fm/i-spy-foreign-policy
+ie,77,American Scandal,1435516849,2021-02-16,History,"Society & Culture,Documentary,",Wondery,https://rss.art19.com/american-scandal
+ie,78,The Bible Recap,1440833267,2020-12-22,Christianity,"Religion & Spirituality,",D-Group,https://thebiblerecap.podbean.com/feed.xml
+ie,79,The Pat McAfee Show 2.0,1435183458,2020-11-03,Sports,,Pat McAfee,https://feeds.simplecast.com/FtKDGmxb
+ie,80,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/39ae2ce1-bc6d-4760-b0dc-ab050182ffa7/b4420a1c-dab1-4d11-bf04-ab050182ffe0/podcast.rss
+ie,81,Bridgerton: The Official Podcast,1551820452,2021-02-25,TV & Film,"Society & Culture,",Shondaland Audio & iHeartRadio,https://feeds.megaphone.fm/HSW3113308719
+ie,82,Radiolab,152249110,2020-11-02,Documentary,"Society & Culture,Science,Nature,",WNYC Studios,http://feeds.wnyc.org/radiolab
+ie,83,NPR News Now,121493675,2020-10-28,Daily News,"News,",NPR,https://feeds.npr.org/500005/podcast.xml
+ie,84,UnF*ck Your Brain,1229434818,2021-02-04,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil,https://lawyerstresssolution.libsyn.com/rss
+ie,85,Ten Percent Happier with Dan Harris,1087147821,2020-10-28,Mental Health,"Health & Fitness,",ABC News,https://feeds.megaphone.fm/ESP3510913812
+ie,86,The Jeff Dunham Podcast,1555769971,2021-02-25,Comedy,"Leisure,",Jeff Dunham,https://jeffdunham.libsyn.com/rss
+ie,87,Stuff You Missed in History Class,283605519,2020-10-28,History,"Society & Culture,",iHeartRadio,https://feeds.megaphone.fm/stuffyoumissedinhistoryclass
+ie,88,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo,http://spanishpodcast.duolingo.libsynpro.com/rss
+ie,89,WorkLife with Adam Grant,1346314086,2021-02-23,Management,"Business,",TED,https://feeds.feedburner.com/WorklifeWithAdamGrant
+ie,90,Lex Fridman Podcast,1434243584,2021-01-18,Technology,"Science,",Lex Fridman,https://lexfridman.com/feed/podcast/
+ie,91,Sword and Scale,790487079,2020-10-26,True Crime,"Society & Culture,Documentary,",Incongruity,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/8caf5963-644f-4ccd-94f6-acb5003641f5/d5f2436e-2a50-4633-8f85-acb5003641fe/podcast.rss
+ie,92,Coffee Convos Podcast with Kail Lowry & Lindsie Chrisley,1305546061,2021-02-25,Society & Culture,"Kids & Family,Parenting,",Kail Lowry & Lindsie Chrisley,https://audioboom.com/channels/5025221.rss
+ie,93,Wow in the World,1233834541,2021-02-15,Stories for Kids,"Kids & Family,Education for Kids,",NPR,https://feeds.npr.org/510321/podcast.xml
+ie,94,Short Wave,1482575855,2021-01-26,Life Sciences,"Science,Astronomy,",NPR,https://feeds.npr.org/510351/podcast.xml
+ie,95,The Mindset Mentor,1033048640,2021-01-08,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/5cd7413c-b341-493f-bf46-acb500364141/6b2540d4-e0b2-42f7-a61a-acb50036415a/podcast.rss
+ie,96,The Experiment,1549704404,2021-01-25,Documentary,"Society & Culture,History,",The Atlantic and WNYC Studios,http://feeds.wnyc.org/experiment_podcast
+ie,97,"The Doctor's Farmacy with Mark Hyman, M.D.",1382804627,2020-12-04,Medicine,"Health & Fitness,Nutrition,",Dr. Mark Hyman,https://feed.pippa.io/public/shows/5aecaca3a15c2dd12887881a
+ie,98,Cold,1441595858,2021-03-03,True Crime,"Society & Culture,Documentary,",KSL Podcasts | Wondery,https://rss.art19.com/cold
+ie,99,Even the Rich,1500477470,2020-10-27,Society & Culture,,Wondery,https://rss.art19.com/even-the-rich
+ie,100,Throughline,1451109634,2020-10-22,History,,NPR,https://feeds.npr.org/510333/podcast.xml
+ie,101,20/20,987967575,2021-01-02,News,,ABC News,https://feeds.megaphone.fm/ESP3456903052
+ie,102,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin,http://feeds.feedburner.com/dancarlin/history?format=xml
+ie,103,Cults,1286818575,2021-03-02,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END8327072399
+ie,104,The Journal.,1469394914,2021-01-07,Daily News,"News,",The Wall Street Journal & Gimlet,https://video-api.wsj.com/podcast/rss/wsj/the-journal
+ie,105,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars,https://feeds.99percentinvisible.org/99percentinvisible
+ie,106,Tim Pool Daily Show,1362265400,2021-03-02,Politics,"News,",Tim Pool,https://feeds.buzzsprout.com/164767.rss
+ie,107,Nice White Parents,1524080195,2020-08-20,Society & Culture,"Education,",Serial & The New York Times,https://feeds.simplecast.com/Z4wHC1c2
+ie,108,The Indicator from Planet Money,1320118593,2021-01-19,Business,,NPR,https://feeds.npr.org/510325/podcast.xml
+ie,109,Bannon's War Room,1485351658,2020-11-03,Politics,"News,",WarRoom.org,https://feed.podbean.com/listen.warroom.org/feed.xml
+ie,110,Global News Podcast,135067274,2020-10-28,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+ie,111,Pivot,1073226719,2021-02-16,News Commentary,"News,Tech News,",New York Magazine,https://feeds.megaphone.fm/pivot
+ie,112,Lore,978052928,2020-10-26,History,"Society & Culture,",Aaron Mahnke and Grim & Mild,https://feeds.megaphone.fm/lore
+ie,113,Allen v. Farrow Podcast,1554108046,2021-02-24,TV & Film,"Society & Culture,Documentary,",HBO,https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/a3aca008-52d2-416b-b0e8-acd10173c6d8/247612ac-1916-45c2-a617-acd10178057c/podcast.rss
+ie,114,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia,https://feeds.thisiscriminal.com/CriminalShow
+ie,115,Joel Osteen Podcast,137254859,2020-10-28,Christianity,"Religion & Spirituality,",Joel Osteen,https://feeds.megaphone.fm/HSW9490884322
+ie,116,Wait Wait... Don't Tell Me!,121493804,2020-10-31,Comedy,"Leisure,",NPR,https://feeds.npr.org/344098539/podcast.xml
+ie,117,WHOA That's Good Podcast,1433974017,2021-02-24,Christianity,"Religion & Spirituality,Business,",Sadie Robertson,https://feeds.megaphone.fm/LEW1514366617
+ie,118,Revolutions,703889772,2021-01-18,History,"Education,",Mike Duncan,https://revolutionspodcast.libsyn.com/rss
+ie,119,The Herd with Colin Cowherd,1042368254,2020-10-29,Football,"Sports,Basketball,",iHeartRadio,https://feeds.megaphone.fm/the-herd-with-colin-cowherd
+ie,120,Made For This with Jennie Allen,1466667116,2021-03-02,Christianity,"Religion & Spirituality,",Jennie Allen,https://www.spreaker.com/show/3553112/episodes/feed
+ie,121,Unashamed with Phil & Jase Robertson,1460147025,2020-10-26,Religion & Spirituality,,Unashamed with Phil & Jase Robertson,https://feeds.megaphone.fm/BMDC9083048104
+ie,122,The School of Greatness,596047499,2021-02-17,Alternative Health,"Health & Fitness,Education,",Lewis Howes,https://rss.art19.com/the-school-of-greatness
+ie,123,The Investing for Beginners Podcast - Your Path to Financial Freedom,1210741497,2021-01-21,Investing,"Business,",Andrew Sather and Dave Ahern,https://einvestingforbeginners.com/feed/podcast/
+ie,124,Do No Harm,1537865727,2020-10-29,True Crime,"News,",Wondery | NBC News,https://rss.art19.com/do-no-harm
+ie,125,WTOP’s American Nightmare Series,1461511691,2021-03-01,True Crime,,WTOP | Hubbard Radio,http://feeds.hubbardpodcasts.com/22HoursAnAmericanNightmare
+ie,126,Stuff They Don't Want You To Know,732915228,2021-03-03,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stufftheydontwantyoutoknow
+ie,127,The Food That Built America,1551644089,2021-02-04,History,"Society & Culture,Documentary,",The HISTORY Channel & OZY,https://rss.acast.com/the-food-that-built-america
+ie,128,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries,https://feeds.megaphone.fm/happinesslab
+ie,129,Marketplace,201853034,2021-01-19,Business News,"News,",Marketplace,https://www.marketplace.org/feed/podcast/marketplace
+ie,130,Nothing much happens; bedtime stories to help you sleep,1378040733,2021-02-22,Alternative Health,"Health & Fitness,Mental Health,",Curiouscast,https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/4612b138-198c-44ef-98f3-a9ad00f61592/b2da9d89-f255-4593-8de7-a9ad00f6159c/podcast.rss
+ie,131,Verdict with Ted Cruz,1495601614,2021-02-12,Politics,"News,Daily News,",Ted Cruz,https://feeds.megaphone.fm/TCZ9660009509
+ie,132,REAL AF with Andy Frisella,1012570406,2020-11-17,Business,,Andy Frisella #100to0,https://mfceoproject.libsyn.com/rss2
+ie,133,The Vanished Podcast,1081124929,2020-10-26,True Crime,"News,",Wondery,https://rss.art19.com/the-vanished-podcast-wondery
+ie,134,Mad Money w/ Jim Cramer,147247199,2021-02-25,Investing,"Business,News,",CNBC,https://feeds.simplecast.com/TkQfZXMD
+ie,135,Up and Vanished,1140596919,2020-10-15,True Crime,"Society & Culture,Personal Journals,",Tenderfoot TV,https://feeds.megaphone.fm/up-and-vanished
+ie,136,Motive for Murder,1510365500,2021-02-16,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/motive-for-murder
+ie,137,Serendipity With Inky Johnson,1553377190,2021-03-01,Self-Improvement,"Education,Sports,",The Resonance Network,https://serendipitywithinkyjohnson.libsyn.com/rss
+ie,138,Crime Stories with Nancy Grace,1193068130,2021-02-19,True Crime,"News,",Crime Online & iHeartRadio,https://rss.art19.com/crime-stories-with-nancy-grace
+ie,139,Code Switch,1112190608,2020-10-28,News,"Society & Culture,",NPR,https://feeds.npr.org/510312/podcast.xml
+ie,140,Conspiracy Theories,1337195586,2020-11-04,History,"True Crime,",Parcast Network,https://feeds.megaphone.fm/END5064265457
+ie,141,In the Dark,1148175292,2020-10-14,News,,APM Reports,https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
+ie,142,Motley Fool Money,306106212,2021-01-22,Investing,"Business,News,Business News,",The Motley Fool,https://fool.libsyn.com/rss
+ie,143,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2021-03-04,Mental Health,"Health & Fitness,",Dr. Caroline Leaf,https://anchor.fm/s/236705fc/podcast/rss
+ie,144,The Steam Room,1490924360,2021-03-05,Basketball,"Sports,",Turner Sports,https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/29d5becb-197f-49e8-ada6-ab86002e76bb/f54282a3-7df0-44c7-a146-ab86002e76bb/podcast.rss
+nz,1,Against The Odds,1553335461,2021-02-11,Society & Culture,"History,",Wondery,https://rss.art19.com/against-the-odds
+nz,2,RNZ: The Detail,1459959514,2020-10-28,News,,RNZ,https://www.rnz.co.nz/acast/the-detail.rss
+nz,3,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/mommy-doomsday
+nz,4,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL9840290619
+nz,5,Collapse,1550688418,2021-02-11,History,,Stuff,https://rss.whooshkaa.com/rss/podcast/id/13573
+nz,6,"Fletch, Vaughan & Megan on ZM",1231214743,2020-10-27,Comedy,"Music,",ZM,https://www.spreaker.com/show/2805564/episodes/feed
+nz,7,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times,https://feeds.simplecast.com/54nAGcIl
+nz,8,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stuffyoushouldknow
+nz,9,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ff4ff6bb-916d-4c78-ad23-ac8d017d4c2d/7c990ede-a998-4804-957e-ac8d017d4c45/podcast.rss
+nz,10,Living your best life Podcast,1503645220,2021-03-03,Society & Culture,,livingyourbestlifewithabbeanderin,https://feed.podbean.com/livingyourbestlifewithabbeanderin/feed.xml
+nz,11,Grounded with Louis Theroux,1508985962,2020-06-29,Personal Journals,"Society & Culture,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p089sfrz.rss
+nz,12,Jase & PJ,1332566161,2020-10-28,Comedy,"Music,",iHeartRadio Australia & KIIS,https://feeds.megaphone.fm/jaseandpj
+nz,13,RNZ: Fragments,1553386057,2021-02-21,Society & Culture,,RNZ,https://www.rnz.co.nz/acast/fragments-firsthand-accounts-of-the-february-2011-earthquake.rss
+nz,14,Cautionary Tales,1484511465,2021-02-12,History,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/cautionarytales
+nz,15,No Such Thing As A Fish,840986946,2020-10-23,Comedy,,No Such Thing As A Fish,https://audioboom.com/channels/2399216.rss
+nz,16,Hamish & Andy,213334232,2020-10-28,Comedy,,PodcastOne Australia,https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/0786e9ff-0519-43d3-a0cd-aa4c0176ad25/2bf97b40-59cd-424a-ba35-aa4c0176ad25/podcast.rss
+nz,17,RNZ: NZ Wars: Stories of Tainui,1553423837,2021-02-12,History,,RNZ,https://www.rnz.co.nz/acast/nzwars-tainui.rss
+nz,18,You're Dead To Me,1479973402,2020-10-09,History,"Comedy,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+nz,19,Sideways,1552027709,2021-02-24,Podcasts,,BBC Radio 4,https://podcasts.files.bbci.co.uk/m000s2kt.rss
+nz,20,TED Talks Daily,160904630,2020-10-28,Education,"Society & Culture,",TED,http://feeds.feedburner.com/TEDTalks_audio
+nz,21,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2020-10-28,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author,https://rss.acast.com/feelbetterlivemore
+nz,22,Off Menu with Ed Gamble and James Acaster,1442950743,2020-10-28,Comedy Interviews,"Comedy,",Plosive Productions,https://rss.acast.com/offmenu
+nz,23,Taringa Podcast,1258471951,2020-10-24,Language Learning,"Education,",Te Wānanga o Aotearoa,https://feed.podbean.com/taringapodcast/feed.xml
+nz,24,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig",https://rss.art19.com/tim-ferriss-show
+nz,25,The Baseline Podcast,1544276107,2021-03-02,Basketball,"Sports,","Stevie Cozens, Josh Jeffares",https://feeds.simplecast.com/j7uYzoOs
+nz,26,The Teacher's Pet,1385379989,2020-08-23,News,"Society & Culture,",The Australian,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/d60492a5-f0c9-443a-914b-ac2a017fffca/5253efc4-3b47-419a-abd6-ac2b001818f4/podcast.rss
+nz,27,Skincare School,1552975779,2021-02-24,Fashion & Beauty,"Arts,",Adore Beauty,https://www.omnycontent.com/d/playlist/133eb022-d538-494d-9082-aaa90065f49b/9542b52a-d9b9-49c2-8d1e-acca002a7179/01e02362-319c-4888-866b-acca002c6948/podcast.rss
+nz,28,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self-Improvement,",Parcast Network,https://feeds.megaphone.fm/unlocking-us
+nz,29,The Girls Uninterrupted,1505689225,2020-10-27,Personal Journals,"Society & Culture,Arts,Fashion & Beauty,","Brodie Kane, Caitlin Marrett, Gracie Taylor",https://feed.podbean.com/brodiekane/feed.xml
+nz,30,This is Paris,1552058389,2021-02-25,Society & Culture,,iHeartRadio & Paris Hilton,https://feeds.megaphone.fm/HSW2082099215
+nz,31,Today in Focus,1440133626,2020-10-28,Daily News,"News,",The Guardian,https://www.theguardian.com/news/series/todayinfocus/podcast.xml
+nz,32,She's On The Money,1468033698,2020-10-27,Business,,Victoria Devine,https://feeds.megaphone.fm/shes-on-the-money
+nz,33,The Property Academy Podcast,1481465172,2020-10-28,Investing,"Business,",Opes Partners,https://anchor.fm/s/e26a5a8/podcast/rss
+nz,34,Global News Podcast,135067274,2021-03-06,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+nz,35,The Mike Hosking Breakfast,1229518712,2021-01-18,News,,Newstalk ZB,https://www.spreaker.com/show/2804697/episodes/feed
+nz,36,RNZ: Nine To Noon,174829950,2020-10-27,News,,RNZ,https://www.rnz.co.nz/acast/ninetonoon.rss
+nz,37,Huberman Lab,1545953110,2021-01-04,Health & Fitness,"Education,",Dr. Andrew Huberman,https://hubermanlab.libsyn.com/rss
+nz,38,Oprah’s SuperSoul Conversations,1264843400,2020-10-28,Society & Culture,,Oprah,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/39ae2ce1-bc6d-4760-b0dc-ab050182ffa7/b4420a1c-dab1-4d11-bf04-ab050182ffe0/podcast.rss
+nz,39,RNZ: Morning Report,208011837,2020-10-29,News,,RNZ,https://www.rnz.co.nz/acast/morningreport.rss
+nz,40,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life,http://feed.thisamericanlife.org/talpodcast
+nz,41,Dirty John,1272970334,2018-11-21,Documentary,"Society & Culture,News,",Los Angeles Times | Wondery,https://rss.art19.com/dirty-john
+nz,42,Cooking the Books with Frances Cook,1247311946,2020-10-27,Investing,"Business,",Newstalk ZB and NZ Herald,https://www.spreaker.com/show/2735253/episodes/feed
+nz,43,RNZ: The Aotearoa History Show,1491701052,2019-11-07,History,,RNZ,https://www.rnz.co.nz/acast/the-aotearoa-history-show.rss
+nz,44,How To Fail With Elizabeth Day,1407451189,2020-12-02,Books,"Arts,",howtofail,https://howtofail.podbean.com/feed.xml
+nz,45,The Leighton Smith Podcast,1445358795,2020-10-27,News,,Newstalk ZB,https://www.spreaker.com/show/3255033/episodes/feed
+nz,46,The Planty Podie,1539353861,2021-02-22,Nutrition,"Health & Fitness,Alternative Health,",Chloe Garnham,https://feeds.buzzsprout.com/1370665.rss
+nz,47,99% Invisible,394775318,2020-10-27,Design,"Arts,",Roman Mars,https://feeds.99percentinvisible.org/99percentinvisible
+nz,48,The Rise & Conquer Podcast,1451864362,2020-12-14,Health & Fitness,"Education,Self-Improvement,",Georgie Stevenson,https://feeds.megaphone.fm/riseandconquer
+nz,49,In Our Time,73330895,2020-10-22,History,,BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qykl.rss
+nz,50,The Documentary Podcast,73802620,2020-10-27,History,"News,Society & Culture,",BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+nz,51,American Scandal,1435516849,2021-02-16,History,"Society & Culture,Documentary,",Wondery,https://rss.art19.com/american-scandal
+nz,52,Fast Pace with Josh Phegan and Dean Mackie,1554782191,2021-02-25,Business,"Technology,","Josh Phegan - Real Estate Trainer, speaker, coach.",https://fastpace.libsyn.com/rss
+nz,53,Happy Place,1353058891,2021-02-22,Mental Health,"Health & Fitness,Alternative Health,",Fearne Cotton,https://happyplace.libsyn.com/rss
+nz,54,Making Sense with Sam Harris,733163012,2020-10-28,Science,"Society & Culture,",Sam Harris,https://wakingup.libsyn.com/rss
+nz,55,The Pop Test – A comedy science quiz,1550543719,2021-02-19,Comedy,"Science,",ABC Radio,http://www.abc.net.au/radionational/programs/the-pop-test/feed/13003654/podcast.xml
+nz,56,The Jordan B. Peterson Podcast,1184022695,2020-11-29,Education,"Science,",Dr. Jordan B. Peterson,https://jordanbpetersonpodcast.libsyn.com/rss
+nz,57,The School of Greatness,596047499,2021-01-01,Alternative Health,"Health & Fitness,Education,",Lewis Howes,https://rss.art19.com/the-school-of-greatness
+nz,58,Hidden Brain,1028908750,2020-10-26,Social Sciences,"Science,Natural Sciences,",Hidden Brain,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss
+nz,59,The Ben Shapiro Show,1047335260,2021-01-01,News,,The Daily Wire,https://feeds.megaphone.fm/WWO8086402096
+nz,60,Dateline NBC,1464919521,2020-10-29,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/dateline-nbc
+nz,61,THE ADAM BUXTON PODCAST,1040481893,2020-10-25,Comedy,,ADAM BUXTON,http://rss.acast.com/adambuxton
+nz,62,Lex Fridman Podcast,1434243584,2020-10-30,Technology,"Science,",Lex Fridman,https://lexfridman.com/feed/podcast/
+nz,63,Delicious Ways to Feel Better,1428704212,2021-01-12,Nutrition,"Health & Fitness,Society & Culture,",Deliciously Ella,https://rss.acast.com/deliciouslyellapodcast
+nz,64,The Infinite Monkey Cage,343580439,2020-08-26,Science,"Technology,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b00snr0w.rss
+nz,65,"Dom, Meg & Randell Catchup Podcast - The Edge",286123041,2021-03-04,Comedy,"Music,",rova | The Edge,https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/podcast.rss
+nz,66,Conversations,94688506,2020-10-28,Relationships,"Society & Culture,",ABC Radio,http://www.abc.net.au/radio/programs/conversations/feed/7711104/podcast.xml
+nz,67,Super Creative,1531981810,2021-03-02,Marketing,"Business,",Somewhere Creative  | Catie Dawson,https://feeds.buzzsprout.com/1328845.rss
+nz,68,Economist Radio,151230264,2020-10-28,News,,The Economist,https://rss.acast.com/theeconomistallaudio
+nz,69,Heaven Bent,1513489117,2021-03-01,History,"Society & Culture,Documentary,",Tara Jean Stevens / Frequency Podcast Network,https://frequencypodcastnetwork.com/shows/heaven-bent/feed/podcast/
+nz,70,In Plain Sight: Lady Bird Johnson,1554132477,2021-03-01,History,"Society & Culture,Documentary,",ABC News,https://feeds.megaphone.fm/ESP8551283217
+nz,71,Starting In Te Reo Maori Podcast,1466184341,2020-12-19,Arts,"Education,",Grant Whitbourne,https://feeds.buzzsprout.com/272727.rss
+nz,72,Do You F*****g Mind?,1502954097,2021-01-02,Health & Fitness,,Alexis Fernandez,https://rss.acast.com/doyouf-ckingmind
+nz,73,Red Collar,1541330058,2021-01-19,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL4201344942
+nz,74,Desert Island Discs,342735925,2020-10-25,Personal Journals,"Society & Culture,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qnmr.rss
+nz,75,History Extra podcast,256580326,2020-10-28,History,"Society & Culture,",Immediate Media,http://rss.acast.com/historyextra
+nz,76,Mamamia Out Loud,928350893,2021-01-18,Society & Culture,,Mamamia Podcasts,https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/fb1f46f6-b3d6-4068-8ab5-a44f016e5066/7f09e143-5892-47cc-a7e2-a4e4015c8eee/podcast.rss
+nz,77,Not Another Parenting Podcast,1553002053,2021-03-02,Kids & Family,,Nova Podcasts,https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/febf1c89-60b4-4134-8b20-accb002e3c29/a3cb7df4-9b8c-4ae6-830b-accb0030322c/podcast.rss
+nz,78,BLACK HANDS - A family mass murder,1259053911,2020-04-06,Documentary,"Society & Culture,News,",Stuff,https://rss.whooshkaa.com/rss/podcast/id/2728
+nz,79,The Rachel Maddow Show,294055449,2020-10-28,Daily News,"News,","Rachel Maddow, MSNBC",https://podcastfeeds.nbcnews.com/msnbc-rachel-maddow
+nz,80,The Mindset Mentor,1033048640,2020-12-10,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/5cd7413c-b341-493f-bf46-acb500364141/6b2540d4-e0b2-42f7-a61a-acb50036415a/podcast.rss
+nz,81,RNZ: Saturday Morning,175135787,2020-10-24,Society & Culture,,RNZ,https://www.rnz.co.nz/acast/saturday.rss
+nz,82,Rabbit Hole,1507423923,2020-06-04,Technology,"Society & Culture,",The New York Times,https://feeds.simplecast.com/oCXij9l2
+nz,83,Can I Steal You For a Second?,1495750942,2021-03-03,After Shows,"TV & Film,TV Reviews,",ZM,https://www.spreaker.com/show/4200356/episodes/feed
+nz,84,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss
+nz,85,Dan Carlin's Hardcore History,173001861,2020-06-03,History,,Dan Carlin,http://feeds.feedburner.com/dancarlin/history?format=xml
+nz,86,Serial Killers,1205030005,2020-10-29,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END1032105222
+nz,87,Respectful Parenting: Janet Lansbury Unruffled,1030050704,2020-12-16,Kids & Family,,JLML Press,http://feeds.soundcloud.com/users/soundcloud:users:91056977/sounds.rss
+nz,88,Fortunately... with Fi and Jane,1220808096,2020-11-27,Comedy,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p04x5pd7.rss
+nz,89,The Self-Love Club®,1438816586,2021-02-28,Relationships,"Society & Culture,Health & Fitness,Mental Health,",Bel Crawford,https://www.spreaker.com/show/3198722/episodes/feed
+nz,90,The Opportunist,1551162705,2021-02-16,True Crime,,Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/6ed483d8-0973-449e-a168-acbe00f6edfa/e58246bc-fa9f-488c-ba9e-acbe00f8270e/podcast.rss
+nz,91,The Nurse,1533629268,2021-02-15,True Crime,"News,Politics,",Camille Bianchi,https://rss.acast.com/the-nurse
+nz,92,Business Wars,1335814741,2020-12-02,Management,"Business,History,",Wondery,https://rss.art19.com/business-wars
+nz,93,Friday Night Comedy from BBC Radio 4,265307784,2020-10-23,Comedy,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p02pc9pj.rss
+nz,94,UnF*ck Your Brain,1229434818,2020-10-23,Mental Health,"Health & Fitness,Education,Self-Improvement,",Kara Loewentheil,https://lawyerstresssolution.libsyn.com/rss
+nz,95,The Real Pod,978187550,2021-03-04,Society & Culture,"Comedy,",The Spinoff,https://rss.acast.com/the-real-pod
+nz,96,Brett Finch Uncensored,1533612473,2021-03-03,Rugby,"Sports,Cricket,",Brett Finch,https://brettfinchpodcast.libsyn.com/rss
+nz,97,Even the Rich,1500477470,2021-03-02,Society & Culture,,Wondery,https://rss.art19.com/even-the-rich
+nz,98,The Morning Rumble Catchup Podcast,380627890,2021-03-04,Comedy,"Music,",rova | The Rock,https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/3f5bbe4c-6eb0-447b-b28e-a9a601861edd/a742a335-701f-4ba2-bbbb-a9a601861ee6/podcast.rss
+nz,99,Heather du Plessis-Allan Drive,1228993643,2021-02-20,News,,Newstalk ZB,https://www.spreaker.com/show/2805547/episodes/feed
+nz,100,NZ Everyday Investor,1405950854,2020-10-25,Investing,"Business,Education,Self-Improvement,",Podcasts NZ / WorldPodcasts.com / Gorilla Voice Media,https://feeds.simplecast.com/07yLY12V
+nz,101,The Happiness Lab with Dr. Laurie Santos,1474245040,2020-10-12,Society & Culture,"Education,",Pushkin Industries,https://feeds.megaphone.fm/happinesslab
+nz,102,Office Ladies,1480311435,2021-01-20,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/514362cf-31b4-4ed2-af40-aae301805ffd/podcast.rss
+nz,103,Business Is Boring,1118188207,2021-03-03,Entrepreneurship,"Business,",The Spinoff,https://rss.acast.com/business-is-boring
+nz,104,Get Sleepy: Sleep meditation and stories,1487513861,2020-12-02,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy,https://feeds.simplecast.com/IXxBBvKz
+nz,105,Beauty IQ Uncensored,1478211900,2021-02-16,Fashion & Beauty,"Arts,",Adore Beauty,https://www.omnycontent.com/d/playlist/133eb022-d538-494d-9082-aaa90065f49b/72db4fbe-97f2-453c-ae7a-aaa9006dee32/cae8aea2-474a-49ca-b0f7-aaa9006e5e2a/podcast.rss
+nz,106,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR,https://feeds.npr.org/510313/podcast.xml
+nz,107,Australian True Crime,1217681421,2020-10-25,True Crime,"Society & Culture,",Meshel Laurie,https://rss.acast.com/australiantruecrime
+nz,108,The Country,1305527677,2021-02-24,News,,NZME,https://www.spreaker.com/show/2735249/episodes/feed
+nz,109,Everyday Māori,1506906961,2020-08-11,Language Learning,"Education,",Hēmi Kelly,https://rss.acast.com/paki
+nz,110,Ten Percent Happier with Dan Harris,1087147821,2020-11-20,Mental Health,"Health & Fitness,",ABC News,https://feeds.megaphone.fm/ESP3510913812
+nz,111,Unsolved Mysteries,1549903604,2021-02-17,True Crime,"Society & Culture,Documentary,","Cosgrove Meurer Productions, Inc. + Cadence13",https://feeds.megaphone.fm/unsolved-mysteries
+nz,112,RNZ: Black Sheep,1163907594,2020-08-30,History,,RNZ,https://www.rnz.co.nz/acast/black-sheep.rss
+nz,113,CLEANING UP THE MENTAL MESS with Dr. Caroline Leaf,1334767397,2021-02-22,Mental Health,"Health & Fitness,",Dr. Caroline Leaf,https://anchor.fm/s/236705fc/podcast/rss
+nz,114,Dolly Parton's America,1481398762,2019-12-31,Music History,"Music,Society & Culture,Documentary,",WNYC Studios & OSM Audio,http://feeds.wnyc.org/dolly-partons-america
+nz,115,The Rich Roll Podcast,582272991,2020-11-16,Self-Improvement,"Education,Health & Fitness,",Rich Roll,https://feeds.acast.com/public/shows/5de6c1c9bd860fd53f965e25
+nz,116,The Moth,275699983,2020-10-27,Performing Arts,"Arts,",The Moth,http://feeds.feedburner.com/themothpodcast
+nz,117,Criminal,809264944,2020-10-23,True Crime,,Criminal & Radiotopia,https://feeds.thisiscriminal.com/CriminalShow
+nz,118,BROKEN: Seeking Justice,1478460758,2021-01-12,History,"News,",Three Uncanny Four/HyperObject Industries,https://feeds.megaphone.fm/brokenjeffreyepstein
+nz,119,Football Weekly,188674007,2020-10-26,Football,"Sports,",The Guardian,https://www.theguardian.com/football/series/footballweekly/podcast.xml
+nz,120,Fresh Air,214089682,2021-02-26,Books,"Arts,TV & Film,",NPR,https://feeds.npr.org/381444908/podcast.xml
+nz,121,A Moment In Crime,1479924698,2021-01-16,True Crime,,NZME,https://www.spreaker.com/show/4064165/episodes/feed
+nz,122,RNZ: Checkpoint,444665343,2021-03-05,News,,RNZ,https://www.rnz.co.nz/acast/checkpoint.rss
+nz,123,Revisionist History,1119389968,2020-09-10,Society & Culture,,Pushkin Industries,https://feeds.megaphone.fm/revisionisthistory
+nz,124,The Guardian's Audio Long Reads,587347784,2020-10-28,Society & Culture,,The Guardian,https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml
+nz,125,BibleProject,1050832450,2021-02-22,Christianity,"Religion & Spirituality,",BibleProject,https://feeds.simplecast.com/3NVmUWZO
+nz,126,The Gargle,1552687312,2021-03-02,Stand-Up Comedy,"Comedy,News,News Commentary,",The Bugle,https://rss.acast.com/the-gargle
+nz,127,Truth and Lies: Jeffrey Epstein,1492759205,2021-03-01,True Crime,,ABC News,https://feeds.megaphone.fm/ESP9925426341
+nz,128,That Peter Crouch Podcast,1436030381,2021-03-03,Sports,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/p06kyljg.rss
+nz,129,Slo Mo: A Podcast with Mo Gawdat,1508914142,2021-03-03,Mental Health,"Health & Fitness,Education,Self-Improvement,",Mo Gawdat,https://feeds.buzzsprout.com/843595.rss
+nz,130,Comedy of the Week,412151541,2021-03-01,Comedy,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p02pc9x6.rss
+gb,1,No Such Thing As A Fish,840986946,2020-10-23,Comedy,,No Such Thing As A Fish,https://audioboom.com/channels/2399216.rss
+gb,2,That Peter Crouch Podcast,1436030381,2021-03-03,Sports,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/p06kyljg.rss
+gb,3,Sideways,1552027709,2021-02-10,Podcasts,,BBC Radio 4,https://podcasts.files.bbci.co.uk/m000s2kt.rss
+gb,4,"Feel Better, Live More with Dr Rangan Chatterjee",1333552422,2020-10-28,Alternative Health,"Health & Fitness,Medicine,",Dr Rangan Chatterjee: GP & Author,https://rss.acast.com/feelbetterlivemore
+gb,5,Alan Carr's 'Life's a Beach',1550998864,2021-01-27,Comedy Interviews,"Comedy,Society & Culture,Places & Travel,",Keep It Light Media,https://podcast.global.com/show/4763192/episodes/feed
+gb,6,Desert Island Discs,342735925,2020-10-25,Personal Journals,"Society & Culture,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qnmr.rss
+gb,7,You're Dead To Me,1479973402,2020-10-09,History,"Comedy,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p07mdbhg.rss
+gb,8,Off Menu with Ed Gamble and James Acaster,1442950743,2020-10-28,Comedy Interviews,"Comedy,",Plosive Productions,https://rss.acast.com/offmenu
+gb,9,Happy Place,1353058891,2020-10-26,Mental Health,"Health & Fitness,Alternative Health,",Fearne Cotton,https://happyplace.libsyn.com/rss
+gb,10,Grounded with Louis Theroux,1508985962,2020-06-29,Personal Journals,"Society & Culture,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p089sfrz.rss
+gb,11,Myprotein's The Scoop,1534130327,2020-11-30,Fitness,"Health & Fitness,Nutrition,",Myprotein,https://audioboom.com/channels/5034552.rss
+gb,12,Friday Night Comedy from BBC Radio 4,265307784,2020-10-23,Comedy,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p02pc9pj.rss
+gb,13,Ian Wright's Everyday People,1549385121,2021-03-02,Society & Culture,"Health & Fitness,Mental Health,",Somethin' Else,https://feeds.megaphone.fm/ianwrighteverydaypeople
+gb,14,Today in Focus,1440133626,2020-10-28,Daily News,"News,",The Guardian,https://www.theguardian.com/news/series/todayinfocus/podcast.xml
+gb,15,Fortunately... with Fi and Jane,1220808096,2020-10-23,Comedy,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p04x5pd7.rss
+gb,16,THE ADAM BUXTON PODCAST,1040481893,2020-10-25,Comedy,,ADAM BUXTON,http://rss.acast.com/adambuxton
+gb,17,Cautionary Tales,1484511465,2021-02-26,History,"Society & Culture,",Pushkin Industries,https://feeds.megaphone.fm/cautionarytales
+gb,18,Get Sleepy: Sleep meditation and stories,1487513861,2020-11-30,Alternative Health,"Health & Fitness,Fiction,Drama,",Get Sleepy,https://feeds.simplecast.com/IXxBBvKz
+gb,19,Dan Snow's History Hit,1042631089,2020-10-27,History,,History Hit Network,http://rss.acast.com/dansnowshistoryhit
+gb,20,How To Fail With Elizabeth Day,1407451189,2020-10-28,Books,"Arts,",howtofail,https://howtofail.podbean.com/feed.xml
+gb,21,The High Performance Podcast,1500444735,2020-10-26,Sports,"Health & Fitness,",Jake Humphrey,https://rss.acast.com/the-high-performance-podcast
+gb,22,Kermode and Mayo's Film Review,73802698,2020-10-23,Society & Culture,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/b00lvdrj.rss
+gb,23,Newscast,1234185718,2020-10-27,News,,BBC Radio,https://podcasts.files.bbci.co.uk/p05299nl.rss
+gb,24,NHS Couch to 5K,394384987,2012-10-25,Health & Fitness,,NHS Choices,http://feeds.feedburner.com/nhscouchto5k
+gb,25,The Frank Skinner Show,308800732,2020-10-24,Comedy,,Absolute Radio,https://rss.podplaystudio.com/1308.xml
+gb,26,History Extra podcast,256580326,2020-10-28,History,"Society & Culture,",Immediate Media,http://rss.acast.com/historyextra
+gb,27,The Infinite Monkey Cage,343580439,2020-08-26,Science,"Technology,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b00snr0w.rss
+gb,28,Stuff You Should Know,278981407,2020-10-28,Society & Culture,,iHeartRadio,https://feeds.megaphone.fm/stuffyoushouldknow
+gb,29,Out To Lunch with Jay Rayner,1455111316,2021-01-26,Society & Culture,"Arts,Food,",Somethin' Else,https://feeds.megaphone.fm/outtolunchwithjayrayner
+gb,30,Against The Odds,1553335461,2021-02-23,Society & Culture,"History,",Wondery,https://rss.art19.com/against-the-odds
+gb,31,Teach Me A Lesson with Greg James and Bella Mackie,1552012154,2021-02-03,Education,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/p095y1m1.rss
+gb,32,In Our Time,73330895,2020-10-22,History,,BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qykl.rss
+gb,33,Castaway,1481997309,2021-02-25,Society & Culture,"Arts,",Laura Whitmore + Mags Creative,https://rss.acast.com/castaway
+gb,34,Football Daily,261291929,2020-10-28,Sports,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/p02nrsln.rss
+gb,35,Woman's Hour,130950322,2020-10-28,News,"Kids & Family,Health & Fitness,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b007qlvb.rss
+gb,36,The Battersea Poltergeist,1548946506,2021-01-14,Drama,"Fiction,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p0940193.rss
+gb,37,The History of English Podcast,538608536,2021-02-18,History,,Kevin Stroud,https://historyofenglishpodcast.com/feed/podcast/
+gb,38,We Have Ways of Making You Talk,1457552694,2020-10-29,History,"Society & Culture,",Goalhanger Films,https://rss.acast.com/wehaveways
+gb,39,Elis James and John Robins,1465290044,2020-10-23,Comedy,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/m0005fdz.rss
+gb,40,Made of Stronger Stuff,1550132782,2021-02-03,Health & Fitness,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p094py21.rss
+gb,41,Skin Tings,1554324714,2021-03-04,Music Interviews,"Music,Music Commentary,",Bauer Media,https://rss.podplaystudio.com/1328.xml
+gb,42,Stories of our times,1501716010,2020-10-28,Daily News,"News,",The Times,https://rss.acast.com/storiesofourtimes
+gb,43,Football Weekly,188674007,2020-10-28,Soccer,"Sports,",The Guardian,https://www.theguardian.com/football/series/footballweekly/podcast.xml
+gb,44,Global News Podcast,135067274,2021-03-08,News,,BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+gb,45,The Daily,1200361736,2020-10-28,Daily News,"News,",The New York Times,https://feeds.simplecast.com/54nAGcIl
+gb,46,Into The Grey Zone,1547225334,2021-01-10,News,,Sky News,https://podcast.global.com/show/4731925/episodes/feed
+gb,47,On Purpose with Jay Shetty,1450994021,2020-10-26,Health & Fitness,"Business,",Jay Shetty and Kast Media,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ff4ff6bb-916d-4c78-ad23-ac8d017d4c2d/7c990ede-a998-4804-957e-ac8d017d4c45/podcast.rss
+gb,48,Test Match Special,205892240,2021-01-14,Sports,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/p02nrsl2.rss
+gb,49,Radio Headspace,1510981488,2020-12-23,Mental Health,"Health & Fitness,",Andy Puddicombe & Headspace Studios,https://feeds.megaphone.fm/radio-headspace
+gb,50,Astray,1552069504,2021-03-03,True Crime,"Society & Culture,",iHeartRadio,https://feeds.megaphone.fm/HSW2031154223
+gb,51,Talking Dogs with Graeme Hall,1523065355,2021-02-10,Leisure,,Avalon Factual,https://feeds.soundcloud.com/users/soundcloud:users:831941296/sounds.rss
+gb,52,The Robbie Fowler Podcast,1547826633,2021-03-01,Soccer,"Sports,Football,",Chris McHardy,https://feeds.acast.com/public/shows/5ff5b9bbe05e875622827c58
+gb,53,More or Less: Behind the Stats,267300884,2020-10-17,News,"Education,Science,",BBC Radio 4,https://podcasts.files.bbci.co.uk/p02nrss1.rss
+gb,54,Crime Junkie,1322200189,2020-10-26,True Crime,,audiochuck,https://feeds.megaphone.fm/ADL9840290619
+gb,55,The Historic Present,1541659647,2021-02-22,History,,Jonah Howe and Charlie Gordon,https://anchor.fm/s/3f94cc28/podcast/rss
+gb,56,The Bugle,265799883,2021-02-28,Comedy,,The Bugle,https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607
+gb,57,"The Good, The Bad & The Rugby",1524156217,2020-10-28,Rugby,"Sports,","The Good, the Bad and the Rugby",https://audioboom.com/channels/5030055.rss
+gb,58,The Totally Football Show with James Richardson,1267958765,2020-10-27,Soccer,"Sports,Comedy,",Muddy Knees Media,https://feeds.megaphone.fm/TAMC5610892596
+gb,59,"Grow, cook, eat, arrange with Sarah Raven & Arthur Parkinson",1550764907,2021-03-04,Home & Garden,"Leisure,Arts,Food,",Sarah Raven in conversation with Arthur Parkinson,https://feeds.buzzsprout.com/1644310.rss
+gb,60,Happy Mum Happy Baby,1277078956,2020-10-13,Kids & Family,,Giovanna Fletcher,http://rss.acast.com/happymumhappybaby
+gb,61,Super Great Kids' Stories,1533072212,2020-12-11,Education for Kids,"Kids & Family,",Wardour Studios,https://rss.acast.com/super-great-kids-stories
+gb,62,606,129584472,2020-10-25,Sports,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/b0070hz6.rss
+gb,63,The Mid•Point with Gabby Logan,1527545442,2021-01-20,Mental Health,"Health & Fitness,Nutrition,",Gabby Logan,https://midpoint.libsyn.com/rss
+gb,64,American Scandal,1435516849,2021-02-16,History,"Society & Culture,Documentary,",Wondery,https://rss.art19.com/american-scandal
+gb,65,FT News Briefing,1438449989,2020-10-28,Daily News,"News,",Financial Times,https://rss.acast.com/ftnewsbriefing
+gb,66,Call Of The Wild,1550123118,2021-03-03,Nature,"Science,Education,",WWF,https://www.omnycontent.com/d/playlist/2e9a850c-e6b9-48c2-afec-a8f8010f70f4/7fcb7818-e9fb-44d6-8feb-acb5010af9ab/ef1d1f35-51c1-48b3-baee-acb5010c73b9/podcast.rss
+gb,67,Americast,1473150244,2020-11-27,News,"Government,",BBC Radio,https://podcasts.files.bbci.co.uk/p07h19zz.rss
+gb,68,Duchess,1551120994,2021-01-28,History,"Society & Culture,",OneFinePlay,https://feeds.captivate.fm/duchessthepodcast/
+gb,69,Anything Goes with James English,1397924687,2020-10-26,Society & Culture,,James English,https://jamesenglish.podbean.com/feed.xml
+gb,70,Mommy Doomsday,1540849480,2021-02-09,True Crime,"Society & Culture,",NBC News,https://podcastfeeds.nbcnews.com/mommy-doomsday
+gb,71,The Tim Ferriss Show,863897795,2020-10-28,Entrepreneurship,"Business,Education,","Tim Ferriss: Bestselling Author, Human Guinea Pig",https://rss.art19.com/tim-ferriss-show
+gb,72,Office Ladies,1480311435,2020-12-30,Comedy,,Earwolf & Jenna Fischer and Angela Kinsey,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/514362cf-31b4-4ed2-af40-aae301805ffd/podcast.rss
+gb,73,Soundtracking with Edith Bowman,1140497332,2021-03-05,TV & Film,"Music,",audioBoom,https://audioboom.com/channels/4794784.rss
+gb,74,Duolingo Spanish Podcast,1317493077,2020-10-22,Education,"Society & Culture,Places & Travel,",Duolingo,http://spanishpodcast.duolingo.libsynpro.com/rss
+gb,75,Evil Genius with Russell Kane,1356142765,2021-01-14,History,,BBC Radio,https://podcasts.files.bbci.co.uk/p0605sx6.rss
+gb,76,Serial,917918570,2020-08-20,News,"True Crime,",This American Life,https://feeds.simplecast.com/xl36XBC2
+gb,77,Serial Killers,1205030005,2020-10-29,True Crime,"History,",Parcast Network,https://feeds.megaphone.fm/END1032105222
+gb,78,The Archers Omnibus,338529121,2021-03-07,Performing Arts,"Arts,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qnkc.rss
+gb,79,The Chris Moyles Show on Radio X Podcast,1042635536,2021-03-05,Comedy,,Radio X,https://rss.hosting.thisisdax.com/ed87f36a-7b44-4e79-beea-f3220752406c
+gb,80,The Archers,265970428,2020-10-28,Performing Arts,"Arts,",BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qpgr.rss
+gb,81,LuAnna: The Podcast,1496019465,2021-02-01,Comedy,,LuAnna Podcast,https://podcast.global.com/show/4209713/episodes/feed
+gb,82,TED Talks Daily,160904630,2020-10-27,Education,"Society & Culture,",TED,http://feeds.feedburner.com/TEDTalks_audio
+gb,83,This American Life,201671138,2020-10-25,Personal Journals,"Society & Culture,Arts,",This American Life,http://feed.thisamericanlife.org/talpodcast
+gb,84,Athletico Mince,1091337608,2020-10-29,Comedy,"Sports,Soccer,",Bob Mortimer & Andy Dawson,https://rss.acast.com/athleticomince
+gb,85,Economist Radio,151230264,2020-10-28,News,,The Economist,https://rss.acast.com/theeconomistallaudio
+gb,86,Unlocking Us with Brené Brown,1494350511,2020-10-28,Relationships,"Society & Culture,Education,Self Help,",Parcast Network,https://feeds.megaphone.fm/unlocking-us
+gb,87,Slo Mo: A Podcast with Mo Gawdat,1508914142,2021-03-06,Mental Health,"Health & Fitness,Education,Self Help,",Mo Gawdat,https://feeds.buzzsprout.com/843595.rss
+gb,88,In Our Time: History,463700741,2020-10-22,History,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p01dh5yg.rss
+gb,89,The Jordan B. Peterson Podcast,1184022695,2020-11-29,Education,"Science,",Dr. Jordan B. Peterson,https://jordanbpetersonpodcast.libsyn.com/rss
+gb,90,The Doctor's Kitchen Podcast,1316938642,2021-01-01,Medicine,"Health & Fitness,Science,",Dr Rupy Aujla,https://rss.acast.com/the-doctors-kitchen-podcast
+gb,91,The Panic Years,1551160076,2021-03-05,Mental Health,"Health & Fitness,Kids & Family,Parenting,",Brand New Audio,https://audioboom.com/channels/5040658.rss
+gb,92,Fighting Talk,73330572,2020-10-31,Sports,"Comedy,",BBC Radio 5 live,https://podcasts.files.bbci.co.uk/b0070hvs.rss
+gb,93,Duolingo French Podcast,1466824259,2021-02-09,Education,"Society & Culture,Places & Travel,",Duolingo,https://frpodcast.libsyn.com/rss
+gb,94,On the Road with Penguin Classics,1549179379,2021-03-04,Books,"Arts,Society & Culture,Places & Travel,",Henry Eliot,https://rss.acast.com/on-the-road-with-penguin-classics
+gb,95,The Guardian's Audio Long Reads,587347784,2020-10-28,Society & Culture,,The Guardian,https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml
+gb,96,Scarlett Moffatt Wants to Believe,1511493299,2021-02-05,Podcasts,,BBC Radio 1,https://podcasts.files.bbci.co.uk/p08c6f5x.rss
+gb,97,From Our Own Correspondent Podcast,73331209,2021-01-16,News,,BBC Radio 4,https://podcasts.files.bbci.co.uk/p02nrtpm.rss
+gb,98,The Liz Earle Wellbeing Show,1230372957,2021-03-05,Health & Fitness,,Liz Earle,https://feeds.acast.com/public/shows/5e43fdd6e40bfc8e713b02ff
+gb,99,The Gary Neville Podcast,582614834,2021-02-21,Football,"Sports,Soccer,",Sky Sports,https://podcast.global.com/show/3382900/episodes/feed
+gb,100,Katie Piper's Extraordinary People,1438009023,2021-03-05,Society & Culture,"Health & Fitness,Mental Health,",Somethin' Else,https://feeds.megaphone.fm/katiepiper
+gb,101,The Fellas,1537708332,2021-01-26,Comedy Interviews,"Comedy,Sports,Football,",The Fellas,https://audioboom.com/channels/5036851.rss
+gb,102,The Rest Is History,1537788786,2020-10-28,History,,Goalhanger Films,https://rss.acast.com/the-rest-is-history-podcast
+gb,103,The Mindset Mentor,1033048640,2020-10-28,Mental Health,"Health & Fitness,Education,",Rob Dial and Kast Media,https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/5cd7413c-b341-493f-bf46-acb500364141/6b2540d4-e0b2-42f7-a61a-acb50036415a/podcast.rss
+gb,104,UK True Crime Podcast,1182818802,2020-10-27,True Crime,"Society & Culture,Personal Journals,",UK True Crime Podcast,https://audioboom.com/channels/4904127.rss
+gb,105,Nothing much happens; bedtime stories to help you sleep,1378040733,2021-03-08,Alternative Health,"Health & Fitness,Mental Health,",Curiouscast,https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/4612b138-198c-44ef-98f3-a9ad00f61592/b2da9d89-f255-4593-8de7-a9ad00f6159c/podcast.rss
+gb,106,The Intelligence,1449631195,2020-10-28,Daily News,"News,",The Economist,https://rss.acast.com/theintelligencepodcast
+gb,107,NHS Strength and Flexibility,549804953,2012-07-31,Wilderness,"Sports,",NHS Choices,http://feeds.feedburner.com/nhsstrengthandflexibility
+gb,108,BBC Gardeners’ World Magazine Podcast,1540573682,2021-01-28,Hobbies,"Leisure,",Immediate Media,https://rss.acast.com/bbc-gardeners
+gb,109,For The Many,1307053842,2020-12-12,News,,LBC,https://rss.hosting.thisisdax.com/b781c477-b7b3-41ed-9774-164bfb1970b8
+gb,110,Coffee House Shots,1101754136,2020-10-28,News,"Government,",The Spectator,https://audioboom.com/channels/4905581.rss
+gb,111,Making Sense with Sam Harris,733163012,2021-01-06,Science,"Society & Culture,",Sam Harris,https://wakingup.libsyn.com/rss
+gb,112,The Rick Shiels Golf Show,1406443091,2021-03-02,Golf,"Sports,",Rick Shiels,https://feeds.buzzsprout.com/189024.rss
+gb,113,Delicious Ways to Feel Better,1428704212,2021-01-12,Nutrition,"Health & Fitness,Society & Culture,",Deliciously Ella,https://rss.acast.com/deliciouslyellapodcast
+gb,114,The Travel Diaries,1471130008,2021-03-02,Places & Travel,"Society & Culture,Personal Journals,",Holly Rubenstein,https://rss.acast.com/thetraveldiaries
+gb,115,The Documentary Podcast,73802620,2020-12-24,History,"News,Society & Culture,",BBC World Service,https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+gb,116,Full Disclosure with James O'Brien,1454408831,2021-01-21,News,"Society & Culture,",LBC,https://rss.hosting.thisisdax.com/95158cfb-f74f-4f9c-8f47-00bd976ab01d
+gb,117,Mayim Bialik's Breakdown,1546456269,2020-12-25,Health & Fitness,"Comedy,",Mayim Bialik,https://feeds.simplecast.com/nrh9UCNg
+gb,118,The Rich Roll Podcast,582272991,2020-10-26,Self Help,"Education,Health & Fitness,",Rich Roll,https://feeds.acast.com/public/shows/5de6c1c9bd860fd53f965e25
+gb,119,Page 94: The Private Eye Podcast,973958702,2021-03-05,News,,Private Eye,https://www.private-eye.co.uk/rss/itunes/itunes.xml
+gb,120,Sky Sports Cricket Podcast,754700884,2021-02-18,Sports,,Sky Sports,https://podcast.global.com/show/3387348/episodes/feed
+gb,121,Freakonomics Radio,354668519,2020-10-22,Documentary,"Society & Culture,",Freakonomics Radio + Stitcher,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss
+gb,122,The School of Greatness,596047499,2021-03-05,Alternative Health,"Health & Fitness,Education,",Lewis Howes,https://rss.art19.com/the-school-of-greatness
+gb,123,David Tennant Does a Podcast With…,1450005207,2021-03-02,Performing Arts,"Arts,Visual Arts,",Somethin' Else & No Mystery,https://feeds.megaphone.fm/davidtennant
+gb,124,Dateline NBC,1464919521,2021-02-17,True Crime,"News,",NBC News,https://podcastfeeds.nbcnews.com/dateline-nbc
+gb,125,Huberman Lab,1545953110,2021-02-22,Health & Fitness,"Science,",Dr. Andrew Huberman,https://hubermanlab.libsyn.com/rss
+gb,126,Payne's Politics,975569919,2021-02-20,Politics,"News,",Financial Times,http://rss.acast.com/ft-politics
+gb,127,Oprah’s SuperSoul Conversations,1264843400,2021-02-17,Society & Culture,,Oprah,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/39ae2ce1-bc6d-4760-b0dc-ab050182ffa7/b4420a1c-dab1-4d11-bf04-ab050182ffe0/podcast.rss
+gb,128,Homeschool History,1508131098,2021-02-01,Kids & Family,"Education,",BBC Radio 4,https://podcasts.files.bbci.co.uk/m000hmmf.rss
+gb,129,FT Tech Tonic,1169101860,2021-03-01,Technology,"Business,Entrepreneurship,",Financial Times,http://rss.acast.com/ft-tech-tonic
+gb,130,The Diary Of A CEO by Steven Bartlett,1291423644,2020-10-26,Entrepreneurship,"Business,Education,",The Diary Of A CEO by Steven Bartlett,https://audioboom.com/channels/5019925.rss
+gb,131,Spencer & Vogue,1527777183,2021-03-02,Society & Culture,"Comedy,",Global,https://rss.hosting.thisisdax.com/69238643-8001-4807-ba1c-f1700a32922f
+gb,132,Chopper's Politics,1213415786,2021-03-06,Politics,"News,News Commentary,",The Telegraph,https://rss.art19.com/chopper
+gb,133,How I Built This with Guy Raz,1150510297,2020-10-26,Business,,NPR,https://feeds.npr.org/510313/podcast.xml
+gb,134,Reasons to be Cheerful with Ed Miliband and Geoff Lloyd,1287081706,2021-03-01,Politics,"News,News Commentary,",Cheerful,https://rss.acast.com/reasonstobecheerful
+gb,135,The Jason Manford Show,1073554021,2021-02-21,Comedy,,Absolute Radio,https://rss.podplaystudio.com/1306.xml
+gb,136,Talk Art,1439567112,2021-02-23,Visual Arts,"Arts,Books,",Russell Tovey and Robert Diament,http://rss.acast.com/talkart
+gb,137,Rugby Union Weekly,1197440162,2020-10-26,Sports,,BBC Radio 5 live,https://podcasts.files.bbci.co.uk/p04q5p2n.rss
+gb,138,"Self Care Club: Wellness, road tested",1505703522,2021-03-05,Mental Health,"Health & Fitness,Nutrition,",Stakhanov,https://rss.acast.com/the-self-care-club
+gb,139,BROKEN: Seeking Justice,1478460758,2021-01-12,History,"News,",Three Uncanny Four/HyperObject Industries,https://feeds.megaphone.fm/brokenjeffreyepstein
+gb,140,Just B with Bethenny Frankel,1531000011,2021-03-02,Society & Culture,"Business,",Endeavor Content,https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/4de9e3bb-dab9-4781-81ea-ac08014affca/ca22276b-4638-4304-855c-ac08014b3b4a/podcast.rss
+gb,141,Money Box,263570678,2021-03-06,Business,,BBC Radio 4,https://podcasts.files.bbci.co.uk/b006qjnv.rss
+gb,142,The Food Medic,1397209446,2021-01-04,Health & Fitness,,Dr. Hazel Wallace,https://podcast.global.com/show/3213410/episodes/feed
+gb,143,Guided Sleep Meditation & Sleep Hypnosis from Sleep Cove,1473626965,2021-03-04,Mental Health,"Health & Fitness,",Christopher Fitton,https://anchor.fm/s/35e93e5c/podcast/rss
+gb,144,The Graham Norton Podcast,1547229368,2021-01-04,Comedy,,Virgin Radio,https://rss.acast.com/the-graham-norton-podcast
+gb,145,Superscoreboard,307483087,2021-03-07,Sports,,Clyde 1,https://rss.podplaystudio.com/1210.xml
+gb,146,Hoovering,1339405050,2021-02-26,Comedy,"Society & Culture,",Jessica Fostekew,https://rss.acast.com/hoovering
+gb,147,The Alexei Sayle Podcast,1540500007,2021-02-09,Comedy,"Government,",The Alexei Sayle Podcast,https://audioboom.com/channels/5038428.rss
+gb,148,The Owen Jones Podcast,1550331378,2021-01-29,Politics,"News,Government,",Owen Jones,https://rss.acast.com/the-owen-jones-podcast
